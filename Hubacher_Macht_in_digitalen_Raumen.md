@@ -1,0 +1,350 @@
+---
+title: "Macht in digitalen Räumen"
+author:
+	- name: "Manuel S. Hubacher"
+lang: de-CH
+---
+
+
+# Einleitung
+
+
+- Zentrale Fragen
+	-  *Welche Fähigkeiten benötigen autonome und medienkundige Bürgerinnen?*
+	-  *Wie erlernen wir diese Fähigkeiten?*
+
+- **Hauptaussagen**
+	1. Jugendliche sollen sich mit Macht in digitalen Räumen befassen
+	2. Die Analyse verlangt nach einer multidimensionalen Herangehensweise
+	3. Castells’ Machtkonzeptionen sind ein sinnvolles Analyseraster
+	4. Offene Frage: Unterrichtssetting?
+
+
+# Macht: Ein Konzept wie ein Chamäleon
+
+## Wieso mit Macht befassen?
+
+- Bildungsziel Autonomie
+
+	Verlangt nach zwei Dimensionen: Integration und Emanzipation [z.&#8239;B. @adorno2003b ❓]
+	
+	Diese beiden Dimensionen finden sich auch in @gpje2004.
+
+	- **Integration:** in in der Gesellschaft orientieren
+
+		vgl. @gpje2004
+
+	- **Emanzipation:** Emanzipiert und selbstbestimmt handeln
+
+		vgl. @gpje2004
+
+- Macht
+
+	- Essentielles Konzept
+
+		Macht: ein zentrales Konzept der Sozial- und Geisteswissenschaften [vgl. z.&#8239;B. @imbusch2012a; @russell1938]
+
+	- Für die Analyse politischer Prozesse unentbehrlich 
+
+		Aus **deskriptiver Sicht:** "'Politik' würde für uns also heißen: Streben nach Machtanteil oder nach Beeinflussung der Machtverteilung, sei es zwischen Staaten, sei es innerhalb eines Staates zwischen den Menschengruppen, die er umschließt" [@Weber:1919 4]
+		
+		Aus normativer Sicht: Frage nach der Legitimation.  
+		
+		Das Basiskonzept "Macht" → Politisches Wissen bezieht u.&#8239;a. sich "auf das *Verständnis von und den Umgang mit Macht* einschliesslich deren Verfestigung zu *Herrschaftsstrukturen*" [@sander2013a 100, Hervorhebung im Original]. 
+		
+		(Die Zuordnung von Macht zu den Basiskonzepten -- die "als abstrakte Begriffe für komplexe Vorstellungsräume, die Facetten menschlichen Denkens über Politik bezeichnen" [@sander2013a 99] -- ist nicht unumstritten. Verschiedene Autor*innen kategorisieren Macht als ein Fachkonzept -- die Basiskonzepte konkretisieren. Für die nachfolgende Diskussion ist diese Unterscheidung aber nicht von Belang.) 
+
+	- Beschäftigung mit Machtstrukturen: Notwendig fürs Bildungsziel
+
+		Das Politische ist herrschaftsförmig organisiert:   
+		
+		→ Für Orientierung ist das Verständnis dieser formellen und informellen Strukturen notwendig.
+		
+		→ Um Handlungsoptionen zu erkennen, muss sowohl die Macht der Gegenseite als auch die eigene Macht erkannt werden.
+
+## Wieso mit Macht in digitalen Räumen befassen?
+
+- Digitale Transformation
+
+	- Traditionelle Gatekeeper verschwinden
+
+		Die klassischen Massenmedien (TV, Radio, Zeitungen) und Politiker\*innen sind nicht mehr die Hauptproduzenten politischer Information -- sie müssen sich diese Rolle mit weiteren Akteur\*innen teilen [@castells2007 257; @lobigs2018  86]
+
+	- Digitale Kommunikationssysteme im Zentrum
+
+		Diverse Autor\*innen argumentieren, das Medien- und Kommunikationssystem sei entscheidend (oder gar *die* Erklärungsgrösse), um die Veränderungen der Gesellschaft erklären zu können [@brennenkreiss2016]. 
+
+- Digitale Räume ≠ machtfrei
+
+	- Positive Aspekte
+
+		- Konfrontation mit anderen Meinungen
+
+			Soziale Medien können gerade ein Raum sein, in dem Nutzer\*innen mit anderen Meinungen konfrontiert werden [@bakshymessingetal2015]. (Spricht gegen die Theorie der "Filterblase", die u.&#8239;a. Eli @pariser2011a bekannt gemacht hat.)
+
+		- Zugang zu Massenmedien «offener»
+
+			Für politische Aktivist\*innen ermöglicht das Internet (und insbesondere soziale Meiden) breite Bevölkerungsschichten anzusprechen, ohne auf die Massenmedien angewiesen zu sein [vgl. @poell2015].
+
+		- Aushandeln erlernen
+
+			Onlineprofile machen es notwendig, digitales Selbst- und Identitätsmanagement zu betreiben. Dies unterstützt Jugendliche dabei, sich persönlich zu verorten [@Wagner:2011aa]. •	Kommunizieren die Jugendlichen online, erproben sie dabei unter anderem ihre Positionen und handeln implizit oder explizit aus, was wie gesagt werden kann. Kurzum, das Internet ist ein Raum, in dem soziales oder demokratisches Aushandeln erlernt wird.
+
+	- Negative Aspekte
+
+		- Stärkt Position der Infrastrukturbesitzer*innen
+
+			Die schwindende Relevanz klassischer Strukturen stärkt die Position jener, welche die Infrastruktur für die "neuen" (teil)öffentlichen Räume zur Verfügung stellen. 
+
+		- «Erlebte» Macht
+
+			- Normalisierungsdruck
+
+				Die Kommunikation in sozialen Meiden kann einen starken Normalisierungsdruck aufbauen und im Extremfall gar zu Selbstzensur führen [@gearhartzhang2015]. 
+
+			- Intendierte Nutzungsweisen
+
+				In alles, was Menschen schaffen, ist (mehr oder weniger bewusst) eine intendierte Auswirkung auf die Umwelt eingebaut, die sich auf unsere Handlungen auswirkt [vgl. @winner1980]. Dies trifft auch auf die "Artefakte" der Technologie- und Softwareunternehmen zu. Beispielsweise beeinflussen Funtkionen wie Retweeting, Reblogging, Liking oder Following unsere Handlungen und Meinungen [@dolata2018 125; @justlatzer2017; @napoli2014].
+
+## Welche Fähigkeiten benötigt man dazu?
+
+- Notwendige Fähigkeiten
+
+	- Status quo analysieren
+
+		Damit man sich in die bestehende Gesellschaft integrieren kann, muss man den Status quo verstehen. Dafür benötigt man analytische Fähigkeiten.
+
+	- Status quo kritisieren
+
+		Um sich emanzipieren zu können, muss man zunächst wissen, was am Status quo nicht stimmt (→ Kritik), was aber wiederum voraussetzt, den Status quo zu verstehen (→ Analyse).
+
+- ❓Medienkundige Bürger*innen
+
+	Braucht es einen Bezug auf @mihailidisthevenin2013? Mehrwert?
+
+	- kritische Denker*innen
+
+		Pragmatische Gründe: Um Partizipieren zu können, müssen wir in der Lage sein, den konstanten und diversen Informationsfluss kritisch zu bewerten [@mihailidisthevenin2013 1614].  
+		- "Civic media literacy education, then, prepares citizens for democratic participation by helping them analyze mediated representations of their communities, as well as address issues within their communities" [@mihailidisthevenin2013 1615]
+
+		- inhaltlich analysieren + kontextualisieren
+
+			@mihailidisthevenin2013 [1614]
+
+		- Analyse des Status quo
+
+		- Kritik des Status quo
+
+	- Effektive Schöpfer*innen und Kommunikator*innen
+
+		vgl. @mihailidisthevenin2013 [1615-1616]
+
+		- Sicht der Dinge teilen
+
+		- Neue Kommunikationswege, -mittel usw. entwickeln
+
+			Ein möglicher Ausdruck davon: Fanfiction oder andere Formen "alternativer" Medien
+
+	- Aktive Akteur*innen des gesellschaftlichen Wandels
+
+		vgl. @mihailidisthevenin2013 [1615-1616].
+
+		- Selbstorganisiertes Lernen
+
+			vgl. @mihailidisthevenin2013 [1616] und @erpenbecksauter2007
+
+		- Kritik des Status quo
+
+		- Kollaboration zur Verbesserung
+
+	- Notwendige Fähigkeiten
+
+		- Partizipative K.
+
+			"The first is a *participatory competency*, which focuses on enabling skills 'make it possible for average consumers to archive, annotate, appropriate, and recirculate media content in powerful new ways' [Jenkins et al., 2009, 8 as cited by @mihailidisthevenin2013 1618].
+
+		- Kollaboratie K.
+
+			- Schaffung geteilter Bedeutung durch Kollaboration,  
+			- Verbindungen zu anderen schaffen und die eigene Kommunikation auf grosse Gruppen von interessierten Peers ausdehnen [@mihailidisthevenin2013 1618]
+
+		- Expressive K.
+
+			- Im Original "expressive media literacy competencies" [@mihailidisthevenin2013 1618]. Das wäre ja eine expressive Medienkompetenz-Kompetenz. **WTF!!!**
+			
+			- Schaffung eines gemeinsamen Narratives [@mihailidisthevenin2013 1618] → Man könnte auch von der (Mit)Gestaltung des digitalen Raumes sprechen.. Was ich wie poste, beeinflusst – einem Poster in der analogen Welt gleich – wie der öffentliche Raum aussieht.
+
+		- Kritische K.
+
+			- Kritischer Umgang mit Medien(inhalten), denen wir täglich begegnen [@mihailidisthevenin2013 1618]
+
+# Macht in digitalen Räumen
+
+## Macht?
+
+- Konzept
+
+	- Alltagsgebrauch
+
+		> Gilt es im Alltag als weitgehend ausgemacht, dass Macht etwas Negatives ist – was sich z.&#8239;B. in Assoziationen wie "Machtmensch", "Machtbesessenheit", "Machthunger" und "Machtergreifung" zeigt und Herrschaft häufig mit Zwang und Unterdrückung in eins gesetzt wird, so ist das wissenschaftliche Verständnis um einiges differenzierter, wenn auch bis heute Uneinigkeit und Streit über ein angemessenes Verständnis von Macht und Herrschaft, ihrer Grundlagen, Quellen und Träger fortbesteht. [@imbusch2012a 9]
+
+		- Zwang
+
+		- Unterdrückung
+
+	- Wissenschaft
+
+		- Macht-über
+
+			Robert Dahls behavioristische Machtdefinition besitzt auf den ersten Blick eine gewisse intuitive Evidenz: A hat dann Macht über B, wenn A B dazu bringt, etwas zu tun, was B sonst nicht getan hätte [@Dahl:1957aa 202–203]. Bei näherer Betrachtung erkennt man aber verschiedene Schwierigkeiten dieses Verständnis.  In seinem Fokus auf die direkte Interaktion zwischen A und B blendet Dahl versteckte Formen der Machtausübung aus [Agenda Setting, Schaffung eines falschen Bewusstseins, vlg. @Lukes1974].  
+			  
+			→ [agenda://note/79977CAC-58E8-42B4-B956-887A1E51FC63](agenda://note/79977CAC-58E8-42B4-B956-887A1E51FC63) 
+
+		- Macht-zu
+
+			Hanna @pitkin1972 276] argumentiert, Macht sei ein Etwas, das eine Person dazu befähigt oder fähig macht, etwas zu tun. Macht verstanden als Macht-zu – ist für sie Fähigkeit, Potential oder Können.  
+			  
+			→ [agenda://note/10A4B4A4-2A1C-4743-9BEE-5D63122AE5A5](agenda://note/10A4B4A4-2A1C-4743-9BEE-5D63122AE5A5)    
+			  
+			Der Zusammenhang zwischen Macht-zu und Macht-über ist umstritten. Einige Autor(innen) argumentieren, beide seien zwar konzeptionell verschieden aber dahingehend verbunden, als dass wir Macht-zu nicht ohne Macht-über haben können [z.&#8239;B. @castells2009].
+
+		- Gegenmacht
+
+			Macht ist relational und kein Attribut [@castells2009 11; @imbusch2012a 10]   
+			
+			→ Asymmetrie zwischen Akteur\*innen, wobei ein\*e Akteur\*in mehr Macht als die anderen besitzt.
+			
+			→ D.&#8239;h. auch die Gegenseite besitzt Macht, oder besser gesagt "Gegenmacht".
+			
+			Aus analytischer Sicht sind beide Elemente – Macht und Gegenmacht – konstitutiv für Machtstrukturen, konzeptionell aber verschieden.
+
+- Verständnis des Politischen
+
+	- Zentral für Verständnis
+
+	- Teil eines Konzeptnetzwerkes
+
+- Macht in digitalen Räumen
+
+	- Kommunikationsmacht
+
+		- Form
+
+			- Relational
+
+			- Asymmetrisch
+
+		- Ausübung
+
+			- Zwang
+
+			- Konstruktion von Bedeutung
+
+		- Keine machtfreien Räume
+
+	- Formen
+
+		[agenda://note/3D601B84-E279-4755-9D98-4DB489697D08](agenda://note/3D601B84-E279-4755-9D98-4DB489697D08) 
+
+		- Networking-Macht
+
+			[@castells2009 42-45]:   
+			  
+			Operiert auf der Basis von Inklusion und Exklusion  
+			*Macht durch Gatekeeping*  
+			  
+			[[202002051130]]  
+			  
+			
+
+		- Netzwerkmacht
+
+			Macht der Standards, implementiert durch Kommunikationsprotokolle, geboren aus der Notwendigkeit, miteinander sprechen zu können [@castells2009 43].
+
+		- Vernetzte Macht
+
+			Funktionsweise dieser Machtform ist netzwerkspezifisch und ergibt sich aus den Zielen des Netzwerkes [@castells2009 44].
+
+		- Vernetzende Macht
+
+			Zwei Grundmechanismen (programmieren und vernetzen), die selten von Einzelpersonen ausgeführt werden. Akteur*innen mit vernetzender Macht sind vermutlich selbst Netzwerke. [@castells2009 45-46]  
+			  
+			    - *Programmieren:* Ziele der Netzwerke bestimmen.  
+			    - *Vermitteln:* Netzwerke miteinander verbinden.
+
+## Wie die Machtverteilung online analysieren?
+
+- Beispiel GAFA
+
+	Praktisch gewendet zeigen Techintermediäre wie Alphabet, Facebook, Apple oder Amazon je nach Kontext die von Castells beschriebenen Eigenschaften, die ihnen erlauben, ihren Interessen und Werte gegenüber anderen durchzusetzen. Sie dominieren fundamentale Internetdienstleistungen und Onlinemärkte. Durch diese Position können diese Unternehmen zu Gatekeeper werden, die den Zugang zum globalen Kommunikationsnetzwerk regulieren. Darüber hinaus formen sie als große Arbeitgeber das „kommerzielle Internet“ (Dolata 2018, 101). In der öffentlichen Kommunikation sind Politiker(innen) sowie die Medien nicht mehr die Hauptproduzent(innen) politischer Information. Sie teilen sich diese Rolle heute mit anderen zivilgesellschaftlichen Akteur(innen) (Castells 2007, 257; Lobigs/Neuberger 2018, 86). Dies führt aber nicht zwingend zu einer Demokratisierung von Medienmacht. Zwar können die Bürger(innen) die Kontrolle, welche die Eliten bisher über politische Themen besaßen, durch die neuen Kanäle der digitalen Selbstkommunikation einfacher herausfordern. Der Preis dafür ist aber erstens, dass sich die sozialen Akteur(innen) den Bedingungen und Logiken sozialer Medien unterwerfen müssen. Zweitens entstehen so neue Abhängigkeiten, was jene Techintermediäre stärkt, welche die sozialen Medien kontrollieren (Lobigs/Neuberger 2018, 88). Folglich erfolgt die Machtverschiebung multidimensional und es wäre naiv anzunehmen, die Bürger(innen) profitierten alleine von den veränderten Bedingungen politischer Kommunikation.  
+	  
+	Plattformen sind ferner Artefakte, die das Wie der Kommunikation mitbestimmen. In diesem Sinn besitzen die TI nicht nur Networking-Macht, sondern auch Netzwerkmacht. Funktionen wie Retweeting, Reblogging, Liking, oder Following strukturieren unsere Handlungen und Meinungen (Dolata 2018, 125; Just/Latzer 2017; Napoli 2014). Algorithmen „übersetzen“ die Interessen der Nutzer(innen) nicht direkt, sondern kombinieren und messen verschiedenste Inputs (Bakshy u.a. 2015; Napoli 2014). Basierend auf algorithmischen Selektionsmechanismen strukturieren die sozialen Medien Informations- und Interaktionsprozesse (Dolata 2018, 125). Damit entscheiden die Techintermediäre (oder soziale Akteur(innen), welche die sozialen Medien für sich einzusetzen wissen) mit, was sich in den sozialen Medien durchsetzt und von deren verstärkenden Effekten profitiert. Dies resultiert in einer Deutungshoheit. Algorithmische Selektionsprozesse haben einen signifikanten Einfluss auf die Produktion und die Konsumation von Medien (Napoli 2014). Dies hat Auswirkungen darauf, über was (Agenda Setting) wir wie (Framing) sprechen (Just/Latzer 2017, 245). Und obwohl algorithmisch generierte Selektionen den Anschein von Objektivität haben, sind sie alles andere als neutral, objektiv oder transparent (Dolata 2018, 125). Sie sind vielmehr ein Ausdruck davon, was die Techintermediäre für obszön, anstößig, politisch korrekt, erotisch oder pornografisch halten. Dadurch erlangen sie vernetzte Macht; beispielsweise gegenüber Verlagen, die auf die Sichtbarkeit ihrer Inhalte online angewiesen sind. Darüber hinaus beeinflussen die Techintermediäre essentielle Bereiche des sozialen Lebens: Konsum, Informations- und Kommunikationsflüsse sowie zwischenmenschliche Beziehungen (ebd., 124). Die politische Deliberation über das Internet verdeutlich die Kommunikationsmacht, welche die Techintermediäre besitzen. Ihre Plattformen stellen einen öffentlichen Diskussionsraum dar, der sich aber in privater Hand befindet und entlang ökonomischer Ziel konstruiert wurde (vgl. Ash 2016). Durch diese Stellung können sich sowohl neue Netzwerke bilden, als auch bestehende neu programmieren, was die Techintermediäre zu Programmierern macht. Mit ihren Dienstleistungen schaffen sie auch Schnittstellen zwischen verschiedenen Netzwerken, was sie als potenzielle Vermittelnde auszeichnet.  
+	  
+	Auf den ersten Blick könnte diese kurze Aufzählung zur Schlussfolgerung verleiten, man habe mit den Techintermediären das Machtzentrum vernetzter Gesellschaften identifiziert. Dagegen sprechen mehrere Gründe, die sich durch Castells’ Konzeption ergeben. Erstens sind die Techintermediäre kein Monolith, sondern stellen selbst ein Netzwerk (oder ein Netzwerk von Netzwerken) dar. Sie werden sowohl sich überschneidende Werte und Interessen haben, als auch sich widersprechende Ziele verfolgen. Deshalb kann man nicht lediglich die einzelnen Machtformen „abhacken“, indem man den Techintermediären als Ganzes diese Fähigkeiten zuspricht. Zweitens ist das Netzwerk „Techintermediäre“ mit anderen Netzwerken wie „Politik“, „Medien“ oder „Zivilgesellschaft“ verbunden, welche ihrerseits wiederum „mächtige“ Knoten besitzen. Aus analytischer Sicht bedeutet dies, dass man den Eindruck relativieren muss, wir seien den Interessen der Techintermediären völlig ausgeliefert, der durch den öffentlichen Diskurs entstehen kann. Denn es gibt Initiativen und Bestrebungen, die den Interessen und Werten der Techintermediäre entgegentreten. Daraus folgt, drittens, dass Veränderungen möglich und denkbar sind.  
+	Dies bedeutet in der Folge, dass mit Castells’ Ansatz nicht nur die Techintermediäre im Zentrum stehen können. Täte man dies, verkennte man die Überlegungen hinter dieser Machtkonzeption. Umgekehrt ist aber über Techintermediäre als geeigneter Startpunkt zu reflektieren. Sowohl die momentanen Diskussionen über Onlinedesinformation und deren Auswirkungen als auch die zentrale Stellung des digitalen Medien- und Kommunikationssystems in unserem Alltag sprechen dafür, Machtbeziehungen online von den Betreiber(innen) sozialer Medien her zu denken. Wir gehen davon aus, dass Castells’ Analysekategorien auch gewinnbringend auf kleinere soziale Netzwerke – z. B. jene der Jugendlichen selbst – übertragbar sind. Hinsichtlich von Onlineaktivitäten Jugendlicher sehen wir in der ersten und zweiten Machtform unter anderem Anknüpfungspunkte zur Kommunikation über soziale Medien und/oder Instant Messaging. In den jeweiligen Gruppen verhandeln die Heranwachsenden durch sprachliche Hinweise implizit oder explizit die Normen, die die Gruppenzugehörigkeit sowie das Verhalten in der Gruppe regeln. Überlegungen dazu sind „Was verschafft mir viele Likes und Kommentare?“ und „Was zeichnet eine Information aus, die es Wert ist, geteilt zu werden?“. Mit Blick auf (teil )öffentliche Kommunikation und Deliberation kommt der Aktionsradius der einzelnen Nutzer(innen) als Produzentinnen sowie der Wegfall der Gatekeepingfunktionen traditioneller Medien sowie Autoritätspersonen in den Blick.
+
+- Mehrdimensional
+
+	- 1. Dimension: Inklusion/Exklusion
+
+	- 2. Dimension: Standards
+
+		- Artefakte
+
+		- Handlungen
+
+	- 3. Dimension: Macht im Netzwerk
+
+	- 4. Dimension: Ziele und Informationsfluss
+
+	- → Analyseraster
+
+# Eine Politische Bildung fürs «digitale» Zeitalter
+
+## Funktionen?
+
+Was ist die Funktion einer Politische Bildung, die sich machtkritisch mit digitaler Kommunikation befasst?  
+
+
+- Orientierungshilfe
+
+- Emanzipationshilfe
+
+## Konsequenzen für die PB?
+
+- Kein auswendiglernen
+
+- Konzeptlernen
+
+	Siehe [[202002051205]]
+
+	- Ausgehend von subjektiven Erfahrungen
+
+	- Kritische Reflexion
+
+		- Selbstreflexion
+
+		- Fremdreflexion
+
+- Kritische Analyse zentral
+
+## Umsetzung?
+
+- Analyse des Status quo
+
+- Instrumente
+
+	- Privatsphäre (duh!)
+
+	- Obfuscation
+
+		@bruntonnissenbaum2016
+
+	- Collective action
+
+- Methode
+
+	- → Philosophieren mit Kindern
+
+		vgl. @conradmathisetal2018; @martens2013
+
