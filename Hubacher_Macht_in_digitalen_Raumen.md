@@ -3,24 +3,53 @@ title: "Macht in digitalen Räumen"
 author:
 	- name: "Manuel S. Hubacher"
 lang: de-CH
+link-citations: true
+csquotes: true
 ---
 
 
 # Einleitung
 
+Aus dem sozialen Leben der "Generation Z" sind digitale Kommunikationsmittel nicht mehr wegzudenken.
+Unter diesem Vorzeichen erstaunt die intensive Nutzung des Internets nicht.[^1]
+Insbesondere für Unterhaltungszwecke greifen die Jugendlichen auf soziale Medien zurück [z.&#8239;B. @suterwalleretal2018 42].
+Unser aller Alltag ist in der Zwischenzeit stark von den Dienstleistungen und Plattformen der Technologiekonzerne durchdrungen.
+Diese Entwicklung ist aber nicht nur auf den Unterhaltungssektor beschränkt.
+Auch in der politischen Kommunikation sind Twitter, Facebook, Instagramm und Konsorten nicht mehr wegzudenken.
+Wie in der jüngsten Vergangenheit soziale Bewegungen wie MeToo und Never Again MSD in den USA sowie die Klimastreikbewegung bewiesen haben, erlauben die digitalen Kommunikationsmittel, breite Bevölkerungsschichten direkt anzusprechen.
+Der Weg über die klassischen Massenmedien (Zeitungen, TV, Radio) ist nicht mehr notwendig.
+In der "digitalisierten"&nbsp;-- d.&#8239;h. in einer von digitalen Kommunikationssystemen durchdrungenen&nbsp;-- Öffentlichkeit sind nicht mehr die klassischen Medien und die Politiker\*innen die Hauptproduzent\*innen politischer Information.
+Sie teilen sich diese Rolle mit anderen sozialen Akteur\*innen [@castells2007 257; @lobigs2018 86].
+In der Folge haben die klassischen Medien auch ihre Rolle als Gatekeeper (teilweise) eingebüsst [vgl. @carr2012].
 
-- Zentrale Fragen
-	-  *Welche Fähigkeiten benötigen autonome und medienkundige Bürgerinnen?*
-	-  *Wie erlernen wir diese Fähigkeiten?*
+Aus dieser Entwicklung eine Demokratisierung von Medienmacht abzulesen, wäre aber zu vorschnell.
+Bürger\*innen können die Kontrolle, die politische Eliten über die Setzung politischer Themen besassen, durchaus einfacher herausfordern.
+Die Nutzung sozialer Medien kommt aber mit einem Preis.[^2]
+Erstens müssen sich die Akteur\*innen den Logiken der sozialen Medien unterwerfen [vgl. @poell2015].
+Zweitens entstehen neue Abhängigkeiten, was die Position jener stärkt, welche die sozialen Medien kontrollieren [@lobigs2018 88].
+Dieses Beispiel legt einen Schluss nahe:
+Die veränderten Bedingungen, unter denen politische Kommunikation stattfindet, haben nicht primär zu einer Machtnivellierung sondern vielmehr zu einer multidimensionalen &#8209;verschiebung geführt.
+Ein Resultat davon ist, dass die Identifikation, Analyse und Kritik jener Systeme, die politische Informationen kreieren und verbreiten anspruchsvoller geworden ist.
 
-- **Hauptaussagen**
-	1. Jugendliche sollen sich mit Macht in digitalen Räumen befassen
-	2. Die Analyse verlangt nach einer multidimensionalen Herangehensweise
-	3. Castells’ Machtkonzeptionen sind ein sinnvolles Analyseraster
-	4. Offene Frage: Unterrichtssetting?
+Medien- und Kommunikationssysteme sind für uns unentbehrlich, um unsere politischen Meinungen zu bilden, unsere Positionen zu artikulieren und politische Fragen zu diskutieren.
+Daraus ergeben sich zwei zentrale Fragen für die Politische Bildung: 
+*Welche Fähigkeiten benötigen autonome und medienkundige Bürgerinnen?*
+*Und wie erlernen wir diese Fähigkeiten?*
+Die nachfolgenden Überlegungen geben darauf eine mögliche Antwort.
 
+Bislang betonten Exponent(innen) der Politischen Bildung das demokratische und partizipative Potential des Internets [z.&#8239;B. @bennett2009].
+Ein genuin politischer Zugriff auf die digitale Transformation der Öffentlichkeit, der eine dezidiert machtkritische Perspektive einnimmt, fehlt noch.
+"Macht in digitalen Räumen" ist aus mehrfacher Hinsicht gewinnbringend für die Politische Bildung. 
+Erstens handelt es sich bei Macht (und damit verwandte Konzepte wie Autorität und Herrschaft) um eine zentrale, in der Politische Bildung verankerte sozial- und geisteswissenschaftliche Grösse [vgl. @sander2013a; @weissenodetjenetal2010]. 
+Zweitens kann man mit dem Thema an die Alltagserfahrungen der Jugendlichen mit erlebter Macht anknüpfen. 
 
-# Macht: Ein Konzept wie ein Chamäleon
+In einem ersten Schritt (@sec:macht) lege ich dar, wieso man sich mit dem Konzept "Macht" im Allgemeinen und in Bezug auf digitale Räume beschäftigen sollte. 
+Daran anknüpfend skizziere ich kurz, welche Fähigkeiten dafür eine Voraussetzung sind.
+In einem zweiten Schritt (@sec:machtDigital) präsentiere ich Castells Machtkonteption und skizziere darauf aufbauen, wie man Onlinemachtstrukturen analysieren kann.
+Dies mündet in Überlegungen zu einer Politischen Bildung fürs "digitale" Zeitalter (@sec:pbDigital).
+Ich argumentiere dafür, dass sich Jugendliche sich mit Macht in digitalen Räumen befassen sollen. Dies verlangt nach einer multidimensionalen Herangehensweise, die&nbsp;-- verwendet man Castells’ Machtkonzeptionen als Analyseraster&nbsp;-- in der Schule eingeübt werden können und sollen.
+
+# Macht: Ein Konzept wie ein Chamäleon {#sec:macht}
 
 ## Wieso mit Macht befassen?
 
@@ -178,7 +207,7 @@ lang: de-CH
 
 			- Kritischer Umgang mit Medien(inhalten), denen wir täglich begegnen [@mihailidisthevenin2013 1618]
 
-# Macht in digitalen Räumen
+# Macht in digitalen Räumen {#sec:machtDigital}
 
 ## Macht?
 
@@ -299,7 +328,7 @@ lang: de-CH
 
 	- → Analyseraster
 
-# Eine Politische Bildung fürs «digitale» Zeitalter
+# Eine Politische Bildung fürs «digitale» Zeitalter {#sec:pbDigital}
 
 ## Funktionen?
 
@@ -348,3 +377,8 @@ Was ist die Funktion einer Politische Bildung, die sich machtkritisch mit digita
 
 		vgl. @conradmathisetal2018; @martens2013
 
+# Literatur {-}
+
+[^1]: In Mediennutzungsstudien für die Schweiz gaben die Jugendlichen z.&#8239;B. an, unter der Woche 2,5 Stunden und am Wochenende 4 Stunden online zu verbringen [@suterwalleretal2018 37].
+
+[^2]: Es gab bereits vor den sozialen Medien versuche, mittels alternativen Mediensystemen die Gatekeepermacht der Massenmedien herauszufordern. Ein Beispiel dafür ist etwa Indymedia.
