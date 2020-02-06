@@ -53,19 +53,14 @@ Ich argumentiere dafür, dass sich Jugendliche sich mit Macht in digitalen Räum
 
 ## Wieso mit Macht befassen?
 
-- Bildungsziel Autonomie
-
-	Verlangt nach zwei Dimensionen: Integration und Emanzipation [z.&#8239;B. @adorno2003b ❓]
-	
-	Diese beiden Dimensionen finden sich auch in @gpje2004.
-
-	- **Integration:** in in der Gesellschaft orientieren
-
-		vgl. @gpje2004
-
-	- **Emanzipation:** Emanzipiert und selbstbestimmt handeln
-
-		vgl. @gpje2004
+<!-- Bildungsziel Autonomie -->
+Das Ideal der "Mündigkeit" oder "Autonomie"[^3] ist ein zentrales Bildungsziel [@meyer2011 14] und die Forderung danach gemäss Theodor @adorno2003b [133] eine Selbstverständlichkeit.
+Eine Bildung, die das Ideal der Autonomie befördert, verlangt danach, den Schüler\*innen die Orientierung in der Welt zu ermöglichen.
+Man muss aber auch darüber hinaus gehen und nicht nur "well adjusted people" produzieren [vgl. @adorno2003 109].
+Autonomiebefördernde Bildung ist auch eine Bildung zum Widerstand und zum Widerspruch ist [@adorno2003b 145].
+Was für Bildung im Allgemeinen zutrifft, tut dies auch für die Politische Bildung.
+Der Politikunterricht soll dazu beitragen, den Schüler\*innen die Orientierung in der Gesellschaft zu ermöglichen.
+Neben dieser Integrationsfunktion sollen die Lernenden auch ihre Gestaltungsmöglichkeiten erkennen, damit sie sich vom Status quo emanzipieren und selbstbestimmt handeln können [vgl. @gpje2004].
 
 - Macht
 
@@ -382,3 +377,14 @@ Was ist die Funktion einer Politische Bildung, die sich machtkritisch mit digita
 [^1]: In Mediennutzungsstudien für die Schweiz gaben die Jugendlichen z.&#8239;B. an, unter der Woche 2,5 Stunden und am Wochenende 4 Stunden online zu verbringen [@suterwalleretal2018 37].
 
 [^2]: Es gab bereits vor den sozialen Medien versuche, mittels alternativen Mediensystemen die Gatekeepermacht der Massenmedien herauszufordern. Ein Beispiel dafür ist etwa Indymedia.
+
+[^3]: Ich verwende anstelle des Begriffes *Mündigkeit* jenen der *Autonomie*.
+In meinem Verständnis bezieht sich letztere auf die Fähigkeit des Individuums, das eigene Leben selbstbestimmt zu führen und auf Basis eigener Gründe zu handeln.
+Wir können&nbsp;-- wenig überraschend&nbsp;-- nicht in jedem einzelnen Fall autonom handeln. 
+Manchmal fehlt uns die Zeit, die Informationen oder die Kapazitäten dafür.
+Folglich geht es bei der Autonomie nicht um spezifische Handlungen, sondern um das Leben eines Individuums als Ganzes. 
+Um zu bestimmen, ob das Leben eines Menschen autonom war, müssen wir jedoch die einzelnen Handlungen betrachten. 
+Das wirft die Frage nach der Verbindung zwischen dem Einzelnen und dem Ganzen auf. 
+Wie weit muss ein Individuum autonom gehandelt haben, um ein autonomes Leben zu führen? 
+Darauf gibt es keine vernünftige Antwort, da eine Person nur mehr oder weniger autonom handeln kann. 
+Autonomie scheint daher ein gradueller Begriff zu sein [für eine ähnliche Sichtweise siehe @raz:1986].
