@@ -62,29 +62,20 @@ Was für Bildung im Allgemeinen zutrifft, tut dies auch für die Politische Bild
 Der Politikunterricht soll dazu beitragen, den Schüler\*innen die Orientierung in der Gesellschaft zu ermöglichen.
 Neben dieser Integrationsfunktion sollen die Lernenden auch ihre Gestaltungsmöglichkeiten erkennen, damit sie sich vom Status quo emanzipieren und selbstbestimmt handeln können [vgl. @gpje2004].
 
-- Macht
+<!-- Das Konzept Macht -->
+<!-- Beschäftigung mit Machtstrukturen: Notwendig fürs Bildungsziel -->
+Zielt die Politische Bildung darauf ab, Jugendlichen die notwendigen Kompetenzen zu vermitteln, um als selbstbestimmte und emanzipierte Bürger\*innen am Politischen teilzuhaben, müssen sie in der Lage sein, Machtbeziehungen kritisch zu analysieren.
+Denn existierende politische Systeme sind macht- oder herrschaftsförmig organisiert.
+<!-- Das Politische ist herrschaftsförmig organisiert:    -->
+Folglich ist eine Beschäftigung mit Politik auch jeweils eine mit Macht.[^4]
+Aus dieser Annahme ergeben sich zwei Schlussfolgerungen:
+Erstens ist für die Orientierung in bestehenden Gesellschaften das Erkennen und Verstehen formellen und informellen Machtstrukturen notwendig.
+Zweitens&nbsp;-- und quasi darauf aufbauend&nbsp;-- muss man muss man sowohl die Macht der Gegenseite als auch die eigene Macht und die damit verbundenen Möglichkeiten verstehen, um die eigenen Handlungsoptionen zu erkennen.
 
-	- Essentielles Konzept
-
-		Macht: ein zentrales Konzept der Sozial- und Geisteswissenschaften [vgl. z.&#8239;B. @imbusch2012a; @russell1938]
-
-	- Für die Analyse politischer Prozesse unentbehrlich 
-
-		Aus **deskriptiver Sicht:** "'Politik' würde für uns also heißen: Streben nach Machtanteil oder nach Beeinflussung der Machtverteilung, sei es zwischen Staaten, sei es innerhalb eines Staates zwischen den Menschengruppen, die er umschließt" [@Weber:1919 4]
-		
-		Aus normativer Sicht: Frage nach der Legitimation.  
-		
-		Das Basiskonzept "Macht" → Politisches Wissen bezieht u.&#8239;a. sich "auf das *Verständnis von und den Umgang mit Macht* einschliesslich deren Verfestigung zu *Herrschaftsstrukturen*" [@sander2013a 100, Hervorhebung im Original]. 
-		
-		(Die Zuordnung von Macht zu den Basiskonzepten -- die "als abstrakte Begriffe für komplexe Vorstellungsräume, die Facetten menschlichen Denkens über Politik bezeichnen" [@sander2013a 99] -- ist nicht unumstritten. Verschiedene Autor*innen kategorisieren Macht als ein Fachkonzept -- die Basiskonzepte konkretisieren. Für die nachfolgende Diskussion ist diese Unterscheidung aber nicht von Belang.) 
-
-	- Beschäftigung mit Machtstrukturen: Notwendig fürs Bildungsziel
-
-		Das Politische ist herrschaftsförmig organisiert:   
-		
-		→ Für Orientierung ist das Verständnis dieser formellen und informellen Strukturen notwendig.
-		
-		→ Um Handlungsoptionen zu erkennen, muss sowohl die Macht der Gegenseite als auch die eigene Macht erkannt werden.
+<!-- 2. Essentielles Konzept für die Analyse politischer Prozesse -->
+In diesem Kontext überrascht die zentrale Stellung des Konzeptes Macht in den Sozial- und Geisteswissenschaften wenig [vgl. @imbusch2012a 9; @morriss2002 1].
+Man muss nicht zwingend mit dem britischen Philosophen Bertrand @russell1938 einiggehen, der argumentiert, in den Sozialwissenschaften beschäftige man sich im Endeffekt stets mit jeweils unterschiedlichen Machtmanifestationen, um die zentrale Stellung des Konzept anzuerkennen.
+Als Basis- oder Fachkonzept ist Macht eine der relevanten Grössen, ohne die fundiertes Wissen über Politik und politische Prozesse schwer vorstellbar ist.[^5]
 
 ## Wieso mit Macht in digitalen Räumen befassen?
 
@@ -388,3 +379,11 @@ Das wirft die Frage nach der Verbindung zwischen dem Einzelnen und dem Ganzen au
 Wie weit muss ein Individuum autonom gehandelt haben, um ein autonomes Leben zu führen? 
 Darauf gibt es keine vernünftige Antwort, da eine Person nur mehr oder weniger autonom handeln kann. 
 Autonomie scheint daher ein gradueller Begriff zu sein [für eine ähnliche Sichtweise siehe @raz:1986].
+
+[^4]: So hat bereits Max Weber Politik als ein "Streben nach Machtanteil oder nach Beeinflussung der Machtverteilung, sei es zwischen Staaten, sei es innerhalb eines Staates zwischen den Menschengruppen, die er umschließt" [-@Weber:1919 4] definiert.
+
+[^5]: In der Politischen Bildung wird davon ausgegangen, das Basis- und Fachkonzepte das politische Denken und Handeln strukturieren. 
+Die Zuordnung von Macht zu den Basiskonzepten -- die "als abstrakte Begriffe für komplexe Vorstellungsräume, die Facetten menschlichen Denkens über Politik bezeichnen" [@sander2013a 99] -- ist nicht unumstritten.
+Verschiedene Autor*innen kategorisieren Macht als ein Fachkonzept, d.&#8239;h. als ein Konzept, das ein Basiskonzept konkretisiert [Macht als Basiskonzept, z.&#8239;B. @sander2013a 100; Macht als Fachkonzept, z.&#8239;B. @weissenodetjenetal2010 Kapitel 5.5]. 
+Für die nachfolgende Diskussion ist diese Unterscheidung aber nicht von Belang.
+Denn in beiden Fällen Macht eine relevante Grösse, um Politik und das Politische zu verstehen.
