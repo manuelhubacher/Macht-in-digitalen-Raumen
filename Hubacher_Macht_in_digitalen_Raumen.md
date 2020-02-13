@@ -113,17 +113,23 @@ Und Angesichts der starken Durchdringung unserer Alltages durch digitale Kommuni
 
 ## Welche Fähigkeiten benötigt man dazu?
 
-- Notwendige Fähigkeiten
+<!-- Notwendige Fähigkeiten -->
+Aus bildungstheoretischer Sicht stellt sich an dieser Stelle die Frage, welche Fähigkeiten ein\*e machtkritische Bürger\*in benötigt.
+Orientieren wir uns am Bildungsziel der Autonomie und den sich daraus ergebenden Dimensionen, können wir zwei grundsätzliche Fähigkeiten ableiten:
+Analyse und Kritik des Status quo.
+<!-- - Status quo analysieren -->
+Erstere ergibt sich aus der Orientierungsfunktion.
+Damit man sich in die bestehende Gesellschaft integrieren kann, muss man den Status quo verstehen.
+Dafür benötigt man analytische Fähigkeiten, was im Grunde folgendes bedeutet: Man muss u.&#8239;a. mit Argumenten umgehen, Rechtfertigungen und Gründe gegeneinander abwägen und bestehend Strukturen erkennen können.
+Die Kritikfähigkeit baut in gewissermassen auf die Analyse auf und ergibt sich aus der Emanzipationsfunktion.
+Um sich emanzipieren zu können, muss man zunächst wissen und artikulieren, was man am Status quo als schlecht, nicht optimal usw. empfindet. 
+Diese Kritik setzt wiederum Analysen&nbsp;-- sowohl in Bezug auf bestehende Strukturen als auch in Bezug auf eigene Handlungsmöglichkeiten&nbsp;-- voraus.
 
-	- Status quo analysieren
-
-		Damit man sich in die bestehende Gesellschaft integrieren kann, muss man den Status quo verstehen. Dafür benötigt man analytische Fähigkeiten.
-
-	- Status quo kritisieren
-
-		Um sich emanzipieren zu können, muss man zunächst wissen, was am Status quo nicht stimmt (→ Kritik), was aber wiederum voraussetzt, den Status quo zu verstehen (→ Analyse).
-
-- ❓Medienkundige Bürger*innen
+Können wir dies noch weiter für die digitalen Räume konkretisieren?
+Wie ich argumentiert habe, sind Medien eine wichtige Quelle politischer Informationen.
+Sie sind auch eine der Hauptorte, an und in denen Politik stattfindet.
+Wir leben in einer mediasierten Gesellschaft.
+Demnach benötigen wir nicht "nur" kritische, sondern auch medienkundige Bürger\*innen.
 
 	Braucht es einen Bezug auf @mihailidisthevenin2013? Mehrwert?
 
