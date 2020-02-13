@@ -130,64 +130,21 @@ Wie ich argumentiert habe, sind Medien eine wichtige Quelle politischer Informat
 Sie sind auch eine der Hauptorte, an und in denen Politik stattfindet.
 Wir leben in einer mediasierten Gesellschaft.
 Demnach benötigen wir nicht "nur" kritische, sondern auch medienkundige Bürger\*innen.
+<!-- medienkundige Bürger\*innen. -->
+@mihailidisthevenin2013 [1614] beschreiben diese erstens als *kritische Denker\*innen,* die Medieninhalte analysieren und kontextualisieren.
+Zweitens sind sie *effektive Schöpfer\*innen und Kommunikator\*innen,* die dazu in der Lage sind, ihre Sicht der Dinge mitzuteilen sowie neue Kommunikationswege, &#8209;mittel oder &#8209;formen zu entwickeln [@mihailidisthevenin2013 1615-1616].
+Drittens handelt es sich bei ihnen um *aktive Akteur\*innen des gesellschaftlichen Wandels,* die Informationen sammeln und analysieren, selbstständig fundierte Meinungen bilden und diese mit andren teilen können [@mihailidisthevenin2013 1616].
 
-	Braucht es einen Bezug auf @mihailidisthevenin2013? Mehrwert?
+Die kaum abzuschätzenden Folgen der Transformation des Mediensystems machen selbstorganisiertes Lernen zu einer Notwendigkeit [vlg. @erpenbecksauter2007]. 
+Dies setzt bestimmte Kompetenzen voraus.
+@mihailidisthevenin2013 [1618] nennen deren vier.
+Erstens müssen medienkundige Bürger\*innen fähig sein, Medieninhalte zu verarbeiten, sich diese anzueignen und in neuer Form erneut zu verbreiten (*partizipative Kompetenz*).
+Zweitens müssen sie das Internet mitgestalten können, indem sie durch Kollaboration geteilte Bedeutungen schaffen und mit anderen in Verbindung treten und ihre Kommunikation auf eine grosse Gruppe von interessierten Peers ausdehnen (*kollaborative Kompetenz*).
+Drittens müssen sie in der Lage sein, den digitalen Raum mitzugestalten, indem sie ein gemeinsames Narrativ kreieren (*expressive Kompetenz*).
+Viertens müssen sie sich mit Medieninhalte, die ihnen im Alltag begegnen, kritisch auseinandersetzen können (*kritische Kompetenz*).
 
-	- kritische Denker*innen
-
-		Pragmatische Gründe: Um Partizipieren zu können, müssen wir in der Lage sein, den konstanten und diversen Informationsfluss kritisch zu bewerten [@mihailidisthevenin2013 1614].  
-		- "Civic media literacy education, then, prepares citizens for democratic participation by helping them analyze mediated representations of their communities, as well as address issues within their communities" [@mihailidisthevenin2013 1615]
-
-		- inhaltlich analysieren + kontextualisieren
-
-			@mihailidisthevenin2013 [1614]
-
-		- Analyse des Status quo
-
-		- Kritik des Status quo
-
-	- Effektive Schöpfer*innen und Kommunikator*innen
-
-		vgl. @mihailidisthevenin2013 [1615-1616]
-
-		- Sicht der Dinge teilen
-
-		- Neue Kommunikationswege, -mittel usw. entwickeln
-
-			Ein möglicher Ausdruck davon: Fanfiction oder andere Formen "alternativer" Medien
-
-	- Aktive Akteur*innen des gesellschaftlichen Wandels
-
-		vgl. @mihailidisthevenin2013 [1615-1616].
-
-		- Selbstorganisiertes Lernen
-
-			vgl. @mihailidisthevenin2013 [1616] und @erpenbecksauter2007
-
-		- Kritik des Status quo
-
-		- Kollaboration zur Verbesserung
-
-	- Notwendige Fähigkeiten
-
-		- Partizipative K.
-
-			"The first is a *participatory competency*, which focuses on enabling skills 'make it possible for average consumers to archive, annotate, appropriate, and recirculate media content in powerful new ways' [Jenkins et al., 2009, 8 as cited by @mihailidisthevenin2013 1618].
-
-		- Kollaboratie K.
-
-			- Schaffung geteilter Bedeutung durch Kollaboration,  
-			- Verbindungen zu anderen schaffen und die eigene Kommunikation auf grosse Gruppen von interessierten Peers ausdehnen [@mihailidisthevenin2013 1618]
-
-		- Expressive K.
-
-			- Im Original "expressive media literacy competencies" [@mihailidisthevenin2013 1618]. Das wäre ja eine expressive Medienkompetenz-Kompetenz. **WTF!!!**
-			
-			- Schaffung eines gemeinsamen Narratives [@mihailidisthevenin2013 1618] → Man könnte auch von der (Mit)Gestaltung des digitalen Raumes sprechen.. Was ich wie poste, beeinflusst – einem Poster in der analogen Welt gleich – wie der öffentliche Raum aussieht.
-
-		- Kritische K.
-
-			- Kritischer Umgang mit Medien(inhalten), denen wir täglich begegnen [@mihailidisthevenin2013 1618]
+Die Beschäftigung mit Machtstrukturen im digitalen Raum bietet eine Möglichkeit, diese Kompetenzen zu erlernen und zu vertiefen. 
+Bevor wir uns der Ausgestaltung zuwenden können (@sec:pbDigital), müssen wir als nächstes den Machtbegriff zu fassen versuchen.
 
 # Macht in digitalen Räumen {#sec:machtDigital}
 
