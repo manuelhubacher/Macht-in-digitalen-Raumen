@@ -79,47 +79,37 @@ Als Basis- oder Fachkonzept ist Macht eine der relevanten Grössen, ohne die fun
 
 ## Wieso mit Macht in digitalen Räumen befassen?
 
-- Digitale Transformation
+Damit ist zwar klar, weshalb wir uns mit Macht befassen sollten, möchten wir das Politische und unsere Handlungsmöglichkeiten darin verstehen.
+Doch weshalb sollten wir uns mit Macht in digitalen Räumen befassen?
+Ein Grund dafür ergibt sich aus der zentralen Stellung, die Medien im Meinungsbildungsprozess haben.
+Sie sind wenn nicht die wichtigste, so doch die hauptsächliche Informationsquelle für politische Nachrichten.[^6]
+<!-- Digitale Transformation -->
+Nun hat die *digitale Transformation der Öffentlichkeit* unser Mediensystem grundlegend verändert.
+<!-- - Traditionelle Gatekeeper verschwinden -->
+Bisher kam den klassischen Massenmedien die Rolle des Gatekeepers zu, der bestimmt, welche Informationen ins Mediensystem einfliessen und welche nicht.
+Die Zahl der Produzent\*innen (politischer) Information hat sich durch das Internet und insbesondere durch die sozialen Medien vergrössert.
+Neu müssen sich die klassischen Massenmedien und Politiker\*innen diese Rolle mit weiteren Akteur\*innen teilen [@castells2007 257; @lobigs2018  86].
+In der Folge haben die klassischen Medien auch ihre Rolle als Gatekeeper (teilweise) eingebüsst [vgl. @carr2012].
 
-	- Traditionelle Gatekeeper verschwinden
+Aus dieser Entwicklung eine Demokratisierung von Medienmacht abzulesen, wäre aber zu vorschnell.
+Bürger\*innen können die Kontrolle, die politische Eliten über die Setzung politischer Themen besassen, durchaus einfacher herausfordern.
+Die Nutzung sozialer Medien kommt aber mit einem Preis.[^2]
+Erstens müssen sich die Akteur\*innen den Logiken der sozialen Medien unterwerfen [vgl. @poell2015].
+Zweitens entstehen neue Abhängigkeiten, was die Position jener stärkt, welche die sozialen Medien kontrollieren [@lobigs2018 88].
 
-		Die klassischen Massenmedien (TV, Radio, Zeitungen) und Politiker\*innen sind nicht mehr die Hauptproduzenten politischer Information -- sie müssen sich diese Rolle mit weiteren Akteur\*innen teilen [@castells2007 257; @lobigs2018  86]
+Ein weiterer Grund, der für einen machtkritischen Blick auf digitale Räume spricht, ist der Normalisierungsdruck.
+<!-- - PRO: Aushandeln erlernen -->
+Einerseits besitzt digitale Kommunikation positive und demokratieförderliche Aspekte.
+Onlineprofile machen es notwendig, digitales Selbst- und Identitätsmanagement zu betreiben, was die Jugendlichen dabei unterstützt, sich persönlich zu verorten [@Wagner:2011aa].
+Und kommunizieren die Jugendlichen online, erproben sie dabei unter anderem ihre Positionen und handeln implizit oder explizit aus, was wie gesagt werden kann. 
+Kurzum, das Internet ist ein Raum, in dem soziales oder demokratisches Aushandeln erlernt wird.
+Ferner sind soziale Medien gerade ein Raum, in dem Nutzer\*innen eher mit anderen Meinungen konfrontiert werden, als dies "offline" geschieht [@bakshymessingetal2015].[^8]
+Andererseits laufen die genannten Prozesse nicht macht- oder herrschaftsfrei ab und können u.&#8239;a. einen hohen Normalisierungsdruck aufbauen und im Extremfall in Selbstzensierung münden [vgl. @gearhartzhang2015].
 
-	- Digitale Kommunikationssysteme im Zentrum
-
-		Diverse Autor\*innen argumentieren, das Medien- und Kommunikationssystem sei entscheidend (oder gar *die* Erklärungsgrösse), um die Veränderungen der Gesellschaft erklären zu können [@brennenkreiss2016]. 
-
-- Digitale Räume ≠ machtfrei
-
-	- Positive Aspekte
-
-		- Konfrontation mit anderen Meinungen
-
-			Soziale Medien können gerade ein Raum sein, in dem Nutzer\*innen mit anderen Meinungen konfrontiert werden [@bakshymessingetal2015]. (Spricht gegen die Theorie der "Filterblase", die u.&#8239;a. Eli @pariser2011a bekannt gemacht hat.)
-
-		- Zugang zu Massenmedien «offener»
-
-			Für politische Aktivist\*innen ermöglicht das Internet (und insbesondere soziale Meiden) breite Bevölkerungsschichten anzusprechen, ohne auf die Massenmedien angewiesen zu sein [vgl. @poell2015].
-
-		- Aushandeln erlernen
-
-			Onlineprofile machen es notwendig, digitales Selbst- und Identitätsmanagement zu betreiben. Dies unterstützt Jugendliche dabei, sich persönlich zu verorten [@Wagner:2011aa]. •	Kommunizieren die Jugendlichen online, erproben sie dabei unter anderem ihre Positionen und handeln implizit oder explizit aus, was wie gesagt werden kann. Kurzum, das Internet ist ein Raum, in dem soziales oder demokratisches Aushandeln erlernt wird.
-
-	- Negative Aspekte
-
-		- Stärkt Position der Infrastrukturbesitzer*innen
-
-			Die schwindende Relevanz klassischer Strukturen stärkt die Position jener, welche die Infrastruktur für die "neuen" (teil)öffentlichen Räume zur Verfügung stellen. 
-
-		- «Erlebte» Macht
-
-			- Normalisierungsdruck
-
-				Die Kommunikation in sozialen Meiden kann einen starken Normalisierungsdruck aufbauen und im Extremfall gar zu Selbstzensur führen [@gearhartzhang2015]. 
-
-			- Intendierte Nutzungsweisen
-
-				In alles, was Menschen schaffen, ist (mehr oder weniger bewusst) eine intendierte Auswirkung auf die Umwelt eingebaut, die sich auf unsere Handlungen auswirkt [vgl. @winner1980]. Dies trifft auch auf die "Artefakte" der Technologie- und Softwareunternehmen zu. Beispielsweise beeinflussen Funtkionen wie Retweeting, Reblogging, Liking oder Following unsere Handlungen und Meinungen [@dolata2018 125; @justlatzer2017; @napoli2014].
+Ein dritter Grund sind in die Artefakte der Technologieunternehmen und Dienstleiter\*innen eingebettete intendierte Handlungsweisen.[^7]
+Beispielsweise beeinflussen Funtkionen wie Retweeting, Reblogging, Liking oder Following unsere Handlungen und Meinungen (vgl. @sec:WieDieMachtverteilungOnlineAnalysieren)&nbsp;-- und dies auf eine äusserst subtile Weise.
+Damit haben sich entgegen der Hoffnungen, die das Internet in seinen Anfängen geschürt hat, online keine herrschaftsfreie(re) Räume entwickelt.
+Und Angesichts der starken Durchdringung unserer Alltages durch digitale Kommunikationsmittel scheint ein machtkritischer Blick auf die digitalen Räume angezeigt.
 
 ## Welche Fähigkeiten benötigt man dazu?
 
@@ -287,7 +277,7 @@ Als Basis- oder Fachkonzept ist Macht eine der relevanten Grössen, ohne die fun
 			    - *Programmieren:* Ziele der Netzwerke bestimmen.  
 			    - *Vermitteln:* Netzwerke miteinander verbinden.
 
-## Wie die Machtverteilung online analysieren?
+## Wie die Machtverteilung online analysieren? {#sec:WieDieMachtverteilungOnlineAnalysieren}
 
 - Beispiel GAFA
 
@@ -387,3 +377,13 @@ Die Zuordnung von Macht zu den Basiskonzepten -- die "als abstrakte Begriffe fü
 Verschiedene Autor*innen kategorisieren Macht als ein Fachkonzept, d.&#8239;h. als ein Konzept, das ein Basiskonzept konkretisiert [Macht als Basiskonzept, z.&#8239;B. @sander2013a 100; Macht als Fachkonzept, z.&#8239;B. @weissenodetjenetal2010 Kapitel 5.5]. 
 Für die nachfolgende Diskussion ist diese Unterscheidung aber nicht von Belang.
 Denn in beiden Fällen Macht eine relevante Grösse, um Politik und das Politische zu verstehen.
+
+[^6]: Nachrichten (und damit die Medien, die uns mit diesen beliefern) sind nicht nur eine Hauptquelle unseres Wissens über unsere Umwelt.
+Sie sind auch eine Quelle indirekter Informationen über die Wissenswelt unserer Gesellschaft:
+Wir erhalten über Medien Metainformationen darüber, was andere (vermeintlich) interessiert und welche Informationen andere suchen, wenn sie sich über ihre Umwelt informieren. [vgl. @gelfert2018 88-89]
+
+[^7]: Grundsätzlich ist in alles, was Menschen schaffen, (mehr oder weniger bewusst) eine intendierte Auswirkung auf die Umwelt eingebaut, die sich auf unsere Handlungen auswirkt [vgl. @winner1980]. 
+Dies ist somit nicht ein Alleinstellungsmerkmal "digitaler" Artefakte.
+
+[^8]: Diese widerspricht der These der *Filterblase*. Gemäss dieser werden wir online durch die algorithmische Selektion nur mit Informationen konfrontiert, die in unser Weltbild passen [vgl. @pariser2011a].
+Treffen Bakshy, Messing und Adamics [-@bakshymessingetal2015] Ergebnisse zu, dann ist unsere Tendenz, oftmals ausschliesslich unsere Weltsicht bestätigende Informationen zur Kenntnis zu nehmen, nicht (nur) den Algorithmen geschuldet.
