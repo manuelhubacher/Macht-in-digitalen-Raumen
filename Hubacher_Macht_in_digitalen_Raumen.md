@@ -37,7 +37,7 @@ Daraus ergeben sich zwei zentrale Fragen für die Politische Bildung:
 *Und wie erlernen wir diese Fähigkeiten?*
 Die nachfolgenden Überlegungen geben darauf eine mögliche Antwort.
 
-Bislang betonten Exponent(innen) der Politischen Bildung das demokratische und partizipative Potential des Internets [z.&#8239;B. @bennett2009].
+Bislang betonten Exponent\*innen der Politischen Bildung das demokratische und partizipative Potential des Internets [z.&#8239;B. @bennett2009].
 Ein genuin politischer Zugriff auf die digitale Transformation der Öffentlichkeit, der eine dezidiert machtkritische Perspektive einnimmt, fehlt noch.
 "Macht in digitalen Räumen" ist aus mehrfacher Hinsicht gewinnbringend für die Politische Bildung. 
 Erstens handelt es sich bei Macht (und damit verwandte Konzepte wie Autorität und Herrschaft) um eine zentrale, in der Politische Bildung verankerte sozial- und geisteswissenschaftliche Grösse [vgl. @sander2013a; @weissenodetjenetal2010]. 
@@ -148,108 +148,83 @@ Bevor wir uns der Ausgestaltung zuwenden können (@sec:pbDigital), müssen wir a
 
 # Macht in digitalen Räumen {#sec:machtDigital}
 
-## Macht?
+## Castells vier Machtformen in der Netzwerkgesellschaft
 
-- Konzept
+<!-- Macht? §202002051122-->
+*Macht* scheint ein entscheidendes Konzept für unsere Vorstellungen über das Politische zu sein.
+Doch was ist Macht?
+Im Alltagsverständnis ist Macht zumeist negativ konnotiert und wird im Herrschaftskontext oft mit Zwang und Unterdrückung gleichgesetzt [@imbusch2012a 9]
+Das wissenschaftliche Machtverständnis ist dagegen weitaus differenzierter&nbsp;-- aber auch widersprüchlicher.
+Robert Dahls behavioristische Machtdefinition besitzt auf den ersten Blick eine gewisse intuitive Evidenz: *A* hat dann Macht über *B*, wenn *A* *B* dazu bringt, etwas zu tun, was *B* sonst nicht getan hätte [@Dahl:1957aa 202–203]. Bei näherer Betrachtung erkennt man aber verschiedene Schwierigkeiten dieses Verständnis.
+In seinem Fokus auf die direkte Interaktion zwischen *A* und *B* blendet Dahl versteckte Formen der Machtausübung aus [Agenda Setting, Schaffung eines falschen Bewusstseins, vlg. @Lukes1974]. 
+Wäre *Macht-über* die einzige Machtdimension, wäre das Konzept zu eng. 
+Hanna @pitkin1972 [276] argumentiert, Macht sei ein Etwas, das eine Person dazu befähigt oder fähig macht, etwas zu tun. Macht verstanden als *Macht-zu* ist für sie Fähigkeit, Potential oder Können.
+Der Zusammenhang zwischen *Macht-zu* und *Macht-über* ist umstritten. Einige Autor\*innen argumentieren, beide seien zwar konzeptionell verschieden aber dahingehend verbunden, als dass wir *Macht-zu* nicht ohne *Macht-über* haben können [z.&#8239;B. @castells2009].
 
-	- Alltagsgebrauch
+Beide grundsätzlichen Machtformen kann man in sozialen Interaktionen identifizieren. 
+Ist die Frage nach den Auswirkungen der digitalen Transformation gleichbedeutend damit zu fragen, wie digitale Medien soziale Umwelt strukturieren, formen und beeinflussen, dann ist das Medien- und Kommunikationssystem in den Blick zu nehmen.[^9]
+Aufgrund seiner zentraler Bedeutung argumentieren Autor\*innen wie Manuel Castells, die Analyse dieses Systems erlaube, viele Aspekte des sozialen Lebens zu erklären.
 
-		> Gilt es im Alltag als weitgehend ausgemacht, dass Macht etwas Negatives ist – was sich z.&#8239;B. in Assoziationen wie "Machtmensch", "Machtbesessenheit", "Machthunger" und "Machtergreifung" zeigt und Herrschaft häufig mit Zwang und Unterdrückung in eins gesetzt wird, so ist das wissenschaftliche Verständnis um einiges differenzierter, wenn auch bis heute Uneinigkeit und Streit über ein angemessenes Verständnis von Macht und Herrschaft, ihrer Grundlagen, Quellen und Träger fortbesteht. [@imbusch2012a 9]
+<!-- Macht in digitalen Netzwerken §202002051130-->
+Macht ist eine relationale Fähigkeit, die Entscheidungen anderer auf eine Weise zu beeinflussen, die den eigenen Willen, die eigenen Werte oder die eigenen Interessen befördern [@castells2009 11]. 
+Macht wird durch Zwang (oder durch Gewalt) und/oder der Bedeutungskonstruktion ausgeübt [@castells2009 10]. 
+Da es sich bei Macht um eine Form einer Beziehung handelt, hat niemals eine Akteurin alle und ein anderer Akteur keine Macht, die Möglichkeit zur Beeinflussung ist aber asymmetrisch [@castells2009 11].
+Macht als in Beziehungen angelegt zu verstehen hat Auswirkungen auf die Analyse von Machtbeziehungen. Diese sind -- um es etwas salopp zu sagen -- keine Einbahnstrassen.
+Personen oder Institutionen, die Macht ausüben wollen, sehen sich potentiell Gegenkräften gegenüber, die sich gegen etablierte Herrschaft zur Wehr setzen [@castells2009 47]. 
+Aus analytischer Sicht sind beide Elemente -- Macht und *Gegenmacht* -- konstitutiv für Machtstrukturen, konzeptionell aber verschieden.
 
-		- Zwang
+Für Castells ist Macht stets damit verbunden, Kommunikations- und Informationsflüsse zu kontrollieren [@castells2009 3]. 
+Die Ermächtigung sozialer Akteur\*innen können wir nicht davon trennen, sich *gegen* andere zu ermächtigen [@castells2009 13]. 
+Diese Verbindung von Macht-zu und Macht-über basiert auf der Idee, soziale Räume, die nicht bereits durch Machtbeziehungen strukturiert seien, gäbe es nicht [vgl. @Lukes1974].
+Die sozialen Strukturen der "Netzwerkgesellschaft" entstehen um Netzwerke herum, die durch auf Mikroelektronik basierende, digital verarbeiteter Informationen und Kommunikationstechnologien aktiviert werden [@castells2009 24].
 
-		- Unterdrückung
+<!-- Networking-Macht §202002161338 -->
+Insoweit diese Netzwerke global sind, ist auch die darauf basierende Gesellschaft global.
+Dies bedeutet aber umgekehrt nicht, alle seien Teil der globalen Netzwerke
+Akteur\*innen, die einem Netzwerk angehören, können Macht durch Gatekeepingstrategien erlangen.
+Die *Networking-Macht* operiert demnach mit Inklusion und Exklusion  [@castells2009 42--43].
+<!-- Netzwerkmacht §202002161340 -->
+Durch den globalen Charakter der Netzwerkgesellschaft sind die Knoten auf Standards angewiesen, um sich miteinander zu koordinieren.
+Je grösser deren Akzeptanz ist, desto nützlicher sind sie.
+Dies speist eine alternative Koordinationsformen verdrängende Dynamik.
+Die daraus resultierenden vereinheitlichten "Protokolle" determinieren die Regeln, die als Teil des Netzwerkes zu akzeptieren sind. 
+In diesem Sinne handelt es sich bei *Netzwerkmacht* um die Macht der Standards&nbsp;-- die den Interessen jener nützen, die sie beeinflussen vermögen&nbsp;-- über die Netzwerkkomponenten  [@castells2009 43].
 
-	- Wissenschaft
+<!-- vernetzte Macht: §202002161400 -->
+Gemäss Castells' Analyse gibt es als weitere Machtform die *vernetzte Macht*. Wie diese wirkt, kann man auf einzelne Netzwerke oder auf die gesamte Netzwerkgesellschaft bezogen beantworten. 
+Für @castells2009 [44] ist die Antwort im Rahmen eines spezifischen Netzwerkes simpel, fokussiert man auf dessen Funktionsweisen. 
+Die Machtbeziehungen ergeben sich aus den Zielen, die dem Netzwerk einprogrammiert wurden.[^10]
+Durch den hohen Grad der Vernetzung ergeben sich vielschichtige und komplexe gegenseitige Abhängigkeiten und Einflussmöglichkeiten.
+Daher ist es nicht nur wenig sinnvoll, die Quelle der Macht bei *einer* Entität suchen zu wollen. 
+Ein solches Unterfangen könnte sich als "analytische Sackgasse" herausstellen.
 
-		- Macht-über
+<!--Vernetzende Macht: §202002161408 -->
+Die letzte und stärkste Machtform folgt der Logik der *vernetzenden Macht*. Diese basiert auf zwei Grundmechanismen:
+Erstens die Fähigkeit, Netzwerke zu schaffen und zu programmieren und, zweitens, verschiedene Netzwerke verbinden zu können [@castells2009 45].
+Diese *Programmierenden* und *Vermittelnden* werden in den wenigsten Fällen Einzelpersonen oder spezifische Organisationen sein, da die Grundmechanismen in Bereichen zwischen verschiedenen Akteur\*innen wirken. 
+Vielmehr werden mit vernetzender Macht ausgestattete Akteur\*innen selbst Netzwerke sein. 
+Die Ziele eines Netzwerkes zu definieren ist folgenreich. 
+Netzwerke arbeiten&nbsp;-- ist das Programm etabliert&nbsp;-- effizient darauf hin, diese Vorgaben zu erfüllen [@castells2009 46].
+Die genauen Prozesse sind kontextabhängig und sind für jedes Netzwerk einzeln zu bestimmen.
+Gemeinsam dürften den Programmen gemäss Castells jeweils sein, dass sie sich um Ideen, Visionen, Projekte und Framing drehen.
+Diese kulturellen Materialien sind mehrheitlich in Kommunikationsprozesse eingebettet.
+Folglich können sie an verschiedenen Orten entstehen und mit unterschiedlichen spezifischen Interessen und Subkulturen verbunden sein.
+Trotzdem ist die Art, wie die Ideen kommuniziert werden, entscheidend dafür, wie sie in einer Gesellschaft aufgenommen werden.
+Ob dies geschieht ist wiederum davon abhängig, ob sie wahrgenommen werden.
+Folglich sind gesellschaftliche Kommunikationsprozesse und die diese steuernden Netzwerke die Schlüsselbereiche, in denen die Programmierung stattfindet [@castells2009 46].
+Die Vermittelnden kontrollieren die Schnittstellen zwischen strategischen Netzwerken [@castells2009 47].
 
-			Robert Dahls behavioristische Machtdefinition besitzt auf den ersten Blick eine gewisse intuitive Evidenz: A hat dann Macht über B, wenn A B dazu bringt, etwas zu tun, was B sonst nicht getan hätte [@Dahl:1957aa 202–203]. Bei näherer Betrachtung erkennt man aber verschiedene Schwierigkeiten dieses Verständnis.  In seinem Fokus auf die direkte Interaktion zwischen A und B blendet Dahl versteckte Formen der Machtausübung aus [Agenda Setting, Schaffung eines falschen Bewusstseins, vlg. @Lukes1974].  
-			  
-			→ [agenda://note/79977CAC-58E8-42B4-B956-887A1E51FC63](agenda://note/79977CAC-58E8-42B4-B956-887A1E51FC63) 
-
-		- Macht-zu
-
-			Hanna @pitkin1972 276] argumentiert, Macht sei ein Etwas, das eine Person dazu befähigt oder fähig macht, etwas zu tun. Macht verstanden als Macht-zu – ist für sie Fähigkeit, Potential oder Können.  
-			  
-			→ [agenda://note/10A4B4A4-2A1C-4743-9BEE-5D63122AE5A5](agenda://note/10A4B4A4-2A1C-4743-9BEE-5D63122AE5A5)    
-			  
-			Der Zusammenhang zwischen Macht-zu und Macht-über ist umstritten. Einige Autor(innen) argumentieren, beide seien zwar konzeptionell verschieden aber dahingehend verbunden, als dass wir Macht-zu nicht ohne Macht-über haben können [z.&#8239;B. @castells2009].
-
-		- Gegenmacht
-
-			Macht ist relational und kein Attribut [@castells2009 11; @imbusch2012a 10]   
-			
-			→ Asymmetrie zwischen Akteur\*innen, wobei ein\*e Akteur\*in mehr Macht als die anderen besitzt.
-			
-			→ D.&#8239;h. auch die Gegenseite besitzt Macht, oder besser gesagt "Gegenmacht".
-			
-			Aus analytischer Sicht sind beide Elemente – Macht und Gegenmacht – konstitutiv für Machtstrukturen, konzeptionell aber verschieden.
-
-- Verständnis des Politischen
-
-	- Zentral für Verständnis
-
-	- Teil eines Konzeptnetzwerkes
-
-- Macht in digitalen Räumen
-
-	- Kommunikationsmacht
-
-		- Form
-
-			- Relational
-
-			- Asymmetrisch
-
-		- Ausübung
-
-			- Zwang
-
-			- Konstruktion von Bedeutung
-
-		- Keine machtfreien Räume
-
-	- Formen
-
-		[agenda://note/3D601B84-E279-4755-9D98-4DB489697D08](agenda://note/3D601B84-E279-4755-9D98-4DB489697D08) 
-
-		- Networking-Macht
-
-			[@castells2009 42-45]:   
-			  
-			Operiert auf der Basis von Inklusion und Exklusion  
-			*Macht durch Gatekeeping*  
-			  
-			[[202002051130]]  
-			  
-			
-
-		- Netzwerkmacht
-
-			Macht der Standards, implementiert durch Kommunikationsprotokolle, geboren aus der Notwendigkeit, miteinander sprechen zu können [@castells2009 43].
-
-		- Vernetzte Macht
-
-			Funktionsweise dieser Machtform ist netzwerkspezifisch und ergibt sich aus den Zielen des Netzwerkes [@castells2009 44].
-
-		- Vernetzende Macht
-
-			Zwei Grundmechanismen (programmieren und vernetzen), die selten von Einzelpersonen ausgeführt werden. Akteur*innen mit vernetzender Macht sind vermutlich selbst Netzwerke. [@castells2009 45-46]  
-			  
-			    - *Programmieren:* Ziele der Netzwerke bestimmen.  
-			    - *Vermitteln:* Netzwerke miteinander verbinden.
 
 ## Wie die Machtverteilung online analysieren? {#sec:WieDieMachtverteilungOnlineAnalysieren}
 
 - Beispiel GAFA
 
-	Praktisch gewendet zeigen Techintermediäre wie Alphabet, Facebook, Apple oder Amazon je nach Kontext die von Castells beschriebenen Eigenschaften, die ihnen erlauben, ihren Interessen und Werte gegenüber anderen durchzusetzen. Sie dominieren fundamentale Internetdienstleistungen und Onlinemärkte. Durch diese Position können diese Unternehmen zu Gatekeeper werden, die den Zugang zum globalen Kommunikationsnetzwerk regulieren. Darüber hinaus formen sie als große Arbeitgeber das „kommerzielle Internet“ (Dolata 2018, 101). In der öffentlichen Kommunikation sind Politiker(innen) sowie die Medien nicht mehr die Hauptproduzent(innen) politischer Information. Sie teilen sich diese Rolle heute mit anderen zivilgesellschaftlichen Akteur(innen) (Castells 2007, 257; Lobigs/Neuberger 2018, 86). Dies führt aber nicht zwingend zu einer Demokratisierung von Medienmacht. Zwar können die Bürger(innen) die Kontrolle, welche die Eliten bisher über politische Themen besaßen, durch die neuen Kanäle der digitalen Selbstkommunikation einfacher herausfordern. Der Preis dafür ist aber erstens, dass sich die sozialen Akteur(innen) den Bedingungen und Logiken sozialer Medien unterwerfen müssen. Zweitens entstehen so neue Abhängigkeiten, was jene Techintermediäre stärkt, welche die sozialen Medien kontrollieren (Lobigs/Neuberger 2018, 88). Folglich erfolgt die Machtverschiebung multidimensional und es wäre naiv anzunehmen, die Bürger(innen) profitierten alleine von den veränderten Bedingungen politischer Kommunikation.  
+	Praktisch gewendet zeigen Techintermediäre wie Alphabet, Facebook, Apple oder Amazon je nach Kontext die von Castells beschriebenen Eigenschaften, die ihnen erlauben, ihren Interessen und Werte gegenüber anderen durchzusetzen. Sie dominieren fundamentale Internetdienstleistungen und Onlinemärkte. Durch diese Position können diese Unternehmen zu Gatekeeper werden, die den Zugang zum globalen Kommunikationsnetzwerk regulieren. Darüber hinaus formen sie als grosse Arbeitgeber das „kommerzielle Internet“ (Dolata 2018, 101). In der öffentlichen Kommunikation sind Politiker\*innen sowie die Medien nicht mehr die Hauptproduzent\*innen politischer Information. Sie teilen sich diese Rolle heute mit anderen zivilgesellschaftlichen Akteur\*innen (Castells 2007, 257; Lobigs/Neuberger 2018, 86). Dies führt aber nicht zwingend zu einer Demokratisierung von Medienmacht. Zwar können die Bürger\*innen die Kontrolle, welche die Eliten bisher über politische Themen besassen, durch die neuen Kanäle der digitalen Selbstkommunikation einfacher herausfordern. Der Preis dafür ist aber erstens, dass sich die sozialen Akteur\*innen den Bedingungen und Logiken sozialer Medien unterwerfen müssen. Zweitens entstehen so neue Abhängigkeiten, was jene Techintermediäre stärkt, welche die sozialen Medien kontrollieren (Lobigs/Neuberger 2018, 88). Folglich erfolgt die Machtverschiebung multidimensional und es wäre naiv anzunehmen, die Bürger\*innen profitierten alleine von den veränderten Bedingungen politischer Kommunikation.  
 	  
-	Plattformen sind ferner Artefakte, die das Wie der Kommunikation mitbestimmen. In diesem Sinn besitzen die TI nicht nur Networking-Macht, sondern auch Netzwerkmacht. Funktionen wie Retweeting, Reblogging, Liking, oder Following strukturieren unsere Handlungen und Meinungen (Dolata 2018, 125; Just/Latzer 2017; Napoli 2014). Algorithmen „übersetzen“ die Interessen der Nutzer(innen) nicht direkt, sondern kombinieren und messen verschiedenste Inputs (Bakshy u.a. 2015; Napoli 2014). Basierend auf algorithmischen Selektionsmechanismen strukturieren die sozialen Medien Informations- und Interaktionsprozesse (Dolata 2018, 125). Damit entscheiden die Techintermediäre (oder soziale Akteur(innen), welche die sozialen Medien für sich einzusetzen wissen) mit, was sich in den sozialen Medien durchsetzt und von deren verstärkenden Effekten profitiert. Dies resultiert in einer Deutungshoheit. Algorithmische Selektionsprozesse haben einen signifikanten Einfluss auf die Produktion und die Konsumation von Medien (Napoli 2014). Dies hat Auswirkungen darauf, über was (Agenda Setting) wir wie (Framing) sprechen (Just/Latzer 2017, 245). Und obwohl algorithmisch generierte Selektionen den Anschein von Objektivität haben, sind sie alles andere als neutral, objektiv oder transparent (Dolata 2018, 125). Sie sind vielmehr ein Ausdruck davon, was die Techintermediäre für obszön, anstößig, politisch korrekt, erotisch oder pornografisch halten. Dadurch erlangen sie vernetzte Macht; beispielsweise gegenüber Verlagen, die auf die Sichtbarkeit ihrer Inhalte online angewiesen sind. Darüber hinaus beeinflussen die Techintermediäre essentielle Bereiche des sozialen Lebens: Konsum, Informations- und Kommunikationsflüsse sowie zwischenmenschliche Beziehungen (ebd., 124). Die politische Deliberation über das Internet verdeutlich die Kommunikationsmacht, welche die Techintermediäre besitzen. Ihre Plattformen stellen einen öffentlichen Diskussionsraum dar, der sich aber in privater Hand befindet und entlang ökonomischer Ziel konstruiert wurde (vgl. Ash 2016). Durch diese Stellung können sich sowohl neue Netzwerke bilden, als auch bestehende neu programmieren, was die Techintermediäre zu Programmierern macht. Mit ihren Dienstleistungen schaffen sie auch Schnittstellen zwischen verschiedenen Netzwerken, was sie als potenzielle Vermittelnde auszeichnet.  
+	Plattformen sind ferner Artefakte, die das Wie der Kommunikation mitbestimmen. In diesem Sinn besitzen die TI nicht nur Networking-Macht, sondern auch Netzwerkmacht. Funktionen wie Retweeting, Reblogging, Liking, oder Following strukturieren unsere Handlungen und Meinungen (Dolata 2018, 125; Just/Latzer 2017; Napoli 2014). Algorithmen „übersetzen“ die Interessen der Nutzer\*innen nicht direkt, sondern kombinieren und messen verschiedenste Inputs (Bakshy u.a. 2015; Napoli 2014). Basierend auf algorithmischen Selektionsmechanismen strukturieren die sozialen Medien Informations- und Interaktionsprozesse (Dolata 2018, 125). Damit entscheiden die Techintermediäre (oder soziale Akteur\*innen, welche die sozialen Medien für sich einzusetzen wissen) mit, was sich in den sozialen Medien durchsetzt und von deren verstärkenden Effekten profitiert. Dies resultiert in einer Deutungshoheit. Algorithmische Selektionsprozesse haben einen signifikanten Einfluss auf die Produktion und die Konsumation von Medien (Napoli 2014). Dies hat Auswirkungen darauf, über was (Agenda Setting) wir wie (Framing) sprechen (Just/Latzer 2017, 245). Und obwohl algorithmisch generierte Selektionen den Anschein von Objektivität haben, sind sie alles andere als neutral, objektiv oder transparent (Dolata 2018, 125). Sie sind vielmehr ein Ausdruck davon, was die Techintermediäre für obszön, anstössig, politisch korrekt, erotisch oder pornografisch halten. Dadurch erlangen sie vernetzte Macht; beispielsweise gegenüber Verlagen, die auf die Sichtbarkeit ihrer Inhalte online angewiesen sind. Darüber hinaus beeinflussen die Techintermediäre essentielle Bereiche des sozialen Lebens: Konsum, Informations- und Kommunikationsflüsse sowie zwischenmenschliche Beziehungen (ebd., 124). Die politische Deliberation über das Internet verdeutlich die Kommunikationsmacht, welche die Techintermediäre besitzen. Ihre Plattformen stellen einen öffentlichen Diskussionsraum dar, der sich aber in privater Hand befindet und entlang ökonomischer Ziel konstruiert wurde (vgl. Ash 2016). Durch diese Stellung können sich sowohl neue Netzwerke bilden, als auch bestehende neu programmieren, was die Techintermediäre zu Programmierern macht. Mit ihren Dienstleistungen schaffen sie auch Schnittstellen zwischen verschiedenen Netzwerken, was sie als potenzielle Vermittelnde auszeichnet.  
 	  
 	Auf den ersten Blick könnte diese kurze Aufzählung zur Schlussfolgerung verleiten, man habe mit den Techintermediären das Machtzentrum vernetzter Gesellschaften identifiziert. Dagegen sprechen mehrere Gründe, die sich durch Castells’ Konzeption ergeben. Erstens sind die Techintermediäre kein Monolith, sondern stellen selbst ein Netzwerk (oder ein Netzwerk von Netzwerken) dar. Sie werden sowohl sich überschneidende Werte und Interessen haben, als auch sich widersprechende Ziele verfolgen. Deshalb kann man nicht lediglich die einzelnen Machtformen „abhacken“, indem man den Techintermediären als Ganzes diese Fähigkeiten zuspricht. Zweitens ist das Netzwerk „Techintermediäre“ mit anderen Netzwerken wie „Politik“, „Medien“ oder „Zivilgesellschaft“ verbunden, welche ihrerseits wiederum „mächtige“ Knoten besitzen. Aus analytischer Sicht bedeutet dies, dass man den Eindruck relativieren muss, wir seien den Interessen der Techintermediären völlig ausgeliefert, der durch den öffentlichen Diskurs entstehen kann. Denn es gibt Initiativen und Bestrebungen, die den Interessen und Werten der Techintermediäre entgegentreten. Daraus folgt, drittens, dass Veränderungen möglich und denkbar sind.  
-	Dies bedeutet in der Folge, dass mit Castells’ Ansatz nicht nur die Techintermediäre im Zentrum stehen können. Täte man dies, verkennte man die Überlegungen hinter dieser Machtkonzeption. Umgekehrt ist aber über Techintermediäre als geeigneter Startpunkt zu reflektieren. Sowohl die momentanen Diskussionen über Onlinedesinformation und deren Auswirkungen als auch die zentrale Stellung des digitalen Medien- und Kommunikationssystems in unserem Alltag sprechen dafür, Machtbeziehungen online von den Betreiber(innen) sozialer Medien her zu denken. Wir gehen davon aus, dass Castells’ Analysekategorien auch gewinnbringend auf kleinere soziale Netzwerke – z. B. jene der Jugendlichen selbst – übertragbar sind. Hinsichtlich von Onlineaktivitäten Jugendlicher sehen wir in der ersten und zweiten Machtform unter anderem Anknüpfungspunkte zur Kommunikation über soziale Medien und/oder Instant Messaging. In den jeweiligen Gruppen verhandeln die Heranwachsenden durch sprachliche Hinweise implizit oder explizit die Normen, die die Gruppenzugehörigkeit sowie das Verhalten in der Gruppe regeln. Überlegungen dazu sind „Was verschafft mir viele Likes und Kommentare?“ und „Was zeichnet eine Information aus, die es Wert ist, geteilt zu werden?“. Mit Blick auf (teil )öffentliche Kommunikation und Deliberation kommt der Aktionsradius der einzelnen Nutzer(innen) als Produzentinnen sowie der Wegfall der Gatekeepingfunktionen traditioneller Medien sowie Autoritätspersonen in den Blick.
+	Dies bedeutet in der Folge, dass mit Castells’ Ansatz nicht nur die Techintermediäre im Zentrum stehen können. Täte man dies, verkennte man die Überlegungen hinter dieser Machtkonzeption. Umgekehrt ist aber über Techintermediäre als geeigneter Startpunkt zu reflektieren. Sowohl die momentanen Diskussionen über Onlinedesinformation und deren Auswirkungen als auch die zentrale Stellung des digitalen Medien- und Kommunikationssystems in unserem Alltag sprechen dafür, Machtbeziehungen online von den Betreiber\*innen sozialer Medien her zu denken. Wir gehen davon aus, dass Castells’ Analysekategorien auch gewinnbringend auf kleinere soziale Netzwerke – z.&#8239;B. jene der Jugendlichen selbst – übertragbar sind. Hinsichtlich von Onlineaktivitäten Jugendlicher sehen wir in der ersten und zweiten Machtform unter anderem Anknüpfungspunkte zur Kommunikation über soziale Medien und/oder Instant Messaging. In den jeweiligen Gruppen verhandeln die Heranwachsenden durch sprachliche Hinweise implizit oder explizit die Normen, die die Gruppenzugehörigkeit sowie das Verhalten in der Gruppe regeln. Überlegungen dazu sind „Was verschafft mir viele Likes und Kommentare?“ und „Was zeichnet eine Information aus, die es Wert ist, geteilt zu werden?“. Mit Blick auf (teil )öffentliche Kommunikation und Deliberation kommt der Aktionsradius der einzelnen Nutzer\*innen als Produzentinnen sowie der Wegfall der Gatekeepingfunktionen traditioneller Medien sowie Autoritätspersonen in den Blick.
 
 - Mehrdimensional
 
@@ -333,7 +308,7 @@ Wie weit muss ein Individuum autonom gehandelt haben, um ein autonomes Leben zu 
 Darauf gibt es keine vernünftige Antwort, da eine Person nur mehr oder weniger autonom handeln kann. 
 Autonomie scheint daher ein gradueller Begriff zu sein [für eine ähnliche Sichtweise siehe @raz:1986].
 
-[^4]: So hat bereits Max Weber Politik als ein "Streben nach Machtanteil oder nach Beeinflussung der Machtverteilung, sei es zwischen Staaten, sei es innerhalb eines Staates zwischen den Menschengruppen, die er umschließt" [-@Weber:1919 4] definiert.
+[^4]: So hat bereits Max Weber Politik als ein "Streben nach Machtanteil oder nach Beeinflussung der Machtverteilung, sei es zwischen Staaten, sei es innerhalb eines Staates zwischen den Menschengruppen, die er umschliesst" [-@Weber:1919 4] definiert.
 
 [^5]: In der Politischen Bildung wird davon ausgegangen, das Basis- und Fachkonzepte das politische Denken und Handeln strukturieren. 
 Die Zuordnung von Macht zu den Basiskonzepten -- die "als abstrakte Begriffe für komplexe Vorstellungsräume, die Facetten menschlichen Denkens über Politik bezeichnen" [@sander2013a 99] -- ist nicht unumstritten.
@@ -349,4 +324,8 @@ Wir erhalten über Medien Metainformationen darüber, was andere (vermeintlich) 
 Dies ist somit nicht ein Alleinstellungsmerkmal "digitaler" Artefakte.
 
 [^8]: Diese widerspricht der These der *Filterblase*. Gemäss dieser werden wir online durch die algorithmische Selektion nur mit Informationen konfrontiert, die in unser Weltbild passen [vgl. @pariser2011a].
-Treffen Bakshy, Messing und Adamics [-@bakshymessingetal2015] Ergebnisse zu, dann ist unsere Tendenz, oftmals ausschliesslich unsere Weltsicht bestätigende Informationen zur Kenntnis zu nehmen, nicht (nur) den Algorithmen geschuldet.
+Treffen Bakshy, Messing und Adamics [-@bakshymessingetal2015] Ergebnisse zu, dann ist unsere Tendenz, oftmals ausschliesslich unsere Weltsicht bestätigende Informationen zur Kenntnis zu nehmen, nicht (ausschliesslich) den Algorithmen geschuldet.
+
+[^9]: Ein Grossteil der Autor\*innen, die sich mit der digitalen Transformation der Gesellschaft beschäftigen, sehen im Medien‑ und Kommunikationssystem eine wenn nicht die entscheidende Erklärungsgrösse [@brennenkreiss2016 560].
+
+[^10]: Im globalen Finanzkapitalismus ist daher z.&#8239;B. der IWF in einer Position, um die Entscheide anderer Akteur\*innen asymmetrisch zu beeinflussen. In anderen Netzwerken finden sich andere zentrale, mit viel vernetzter Macht ausgestattete Organisationen oder Institutionen. [@castells2009 44]
