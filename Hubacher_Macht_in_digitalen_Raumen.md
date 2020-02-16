@@ -77,7 +77,7 @@ In diesem Kontext überrascht die zentrale Stellung des Konzeptes Macht in den S
 Man muss nicht zwingend mit dem britischen Philosophen Bertrand @russell1938 einiggehen, der argumentiert, in den Sozialwissenschaften beschäftige man sich im Endeffekt stets mit jeweils unterschiedlichen Machtmanifestationen, um die zentrale Stellung des Konzept anzuerkennen.
 Als Basis- oder Fachkonzept ist Macht eine der relevanten Grössen, ohne die fundiertes Wissen über Politik und politische Prozesse schwer vorstellbar ist.[^5]
 
-## Wieso mit Macht in digitalen Räumen befassen?
+## Wieso mit Macht in digitalen Räumen befassen? {#sec:WiesoMitMachtInDigitalenRäumenBefassen}
 
 Damit ist zwar klar, weshalb wir uns mit Macht befassen sollten, möchten wir das Politische und unsere Handlungsmöglichkeiten darin verstehen.
 Doch weshalb sollten wir uns mit Macht in digitalen Räumen befassen?
@@ -214,33 +214,51 @@ Ob dies geschieht ist wiederum davon abhängig, ob sie wahrgenommen werden.
 Folglich sind gesellschaftliche Kommunikationsprozesse und die diese steuernden Netzwerke die Schlüsselbereiche, in denen die Programmierung stattfindet [@castells2009 46].
 Die Vermittelnden kontrollieren die Schnittstellen zwischen strategischen Netzwerken [@castells2009 47].
 
+Aus der letzten Machtform ergeben sich auch die Hauptstrategien der Gegenmächte, um bestehende Herrschaftsverhältnisse herauszufordern: 
+Erstens versuchen sie Netzwerke neu zu programmieren, indem sie neue Institutionen schaffen und neue Protokolle implementieren [@castells2009 47-48]. 
+Zweitens zielen sie darauf ab, die Vermittelnde daran zu hindern, Netzwerke zu verbinden [@castells2009 48].
+
 
 ## Wie die Machtverteilung online analysieren? {#sec:WieDieMachtverteilungOnlineAnalysieren}
 
-- Beispiel GAFA
+Wie könnte eine Analyse von Machtstrukturen in digitalen Räumen aussehen?
+Exerzieren wir das mit den "GAFA"[^11] durch und verwenden Castells' Machtformen als Analyseraster.
+Unternehmen wie Alphabet, Facebook, Apple oder Amazon zeigen je nach Kontext die von Castells beschriebenen Eigenschaften, die ihnen erlauben, ihren Interessen und Werte gegenüber anderen durchzusetzen. 
+Sie dominieren fundamentale Internetdienstleistungen und Onlinemärkte.
+Durch diese Position können diese Unternehmen zu Gatekeeper werden, die den Zugang zum globalen Kommunikationsnetzwerk regulieren.
+Zwar eröffnen das Internet die Möglichkeit, breite Bevölkerungsschichten anzusprechen, ohne auf die traditionellen Massenmedien angewiesen zu sein (vgl. @sec:WiesoMitMachtInDigitalenRäumenBefassen).
+Der Zugang kann und wird aber durch die GAFA reguliert ***\[Quelle!!!\]***.
+Damit besitzen die GAFA Networking-Macht.
 
-	Praktisch gewendet zeigen Techintermediäre wie Alphabet, Facebook, Apple oder Amazon je nach Kontext die von Castells beschriebenen Eigenschaften, die ihnen erlauben, ihren Interessen und Werte gegenüber anderen durchzusetzen. Sie dominieren fundamentale Internetdienstleistungen und Onlinemärkte. Durch diese Position können diese Unternehmen zu Gatekeeper werden, die den Zugang zum globalen Kommunikationsnetzwerk regulieren. Darüber hinaus formen sie als grosse Arbeitgeber das „kommerzielle Internet“ (Dolata 2018, 101). In der öffentlichen Kommunikation sind Politiker\*innen sowie die Medien nicht mehr die Hauptproduzent\*innen politischer Information. Sie teilen sich diese Rolle heute mit anderen zivilgesellschaftlichen Akteur\*innen (Castells 2007, 257; Lobigs/Neuberger 2018, 86). Dies führt aber nicht zwingend zu einer Demokratisierung von Medienmacht. Zwar können die Bürger\*innen die Kontrolle, welche die Eliten bisher über politische Themen besassen, durch die neuen Kanäle der digitalen Selbstkommunikation einfacher herausfordern. Der Preis dafür ist aber erstens, dass sich die sozialen Akteur\*innen den Bedingungen und Logiken sozialer Medien unterwerfen müssen. Zweitens entstehen so neue Abhängigkeiten, was jene Techintermediäre stärkt, welche die sozialen Medien kontrollieren (Lobigs/Neuberger 2018, 88). Folglich erfolgt die Machtverschiebung multidimensional und es wäre naiv anzunehmen, die Bürger\*innen profitierten alleine von den veränderten Bedingungen politischer Kommunikation.  
+Plattformen sind ferner Artefakte, die das Wie der Kommunikation mitbestimmen. In diesem Sinn besitzen die GAFA Netzwerkmacht. Funktionen wie Retweeting, Reblogging, Liking, oder Following strukturieren unsere Handlungen und Meinungen [@justlatzer2017; @napoli2014]. Algorithmen "übersetzen" die Interessen der Nutzer\*innen nicht direkt, sondern kombinieren und messen verschiedenste Inputs [@napoli2014]. 
+Basierend auf algorithmischen Selektionsmechanismen strukturieren die sozialen Medien Informations- und Interaktionsprozesse. 
+Damit entscheiden die GAFA (oder soziale Akteur\*innen, welche die sozialen Medien für sich einzusetzen wissen) mit, was sich in den sozialen Medien durchsetzt und von deren verstärkenden Effekten profitiert.
+Dies resultiert in einer Deutungshoheit. 
+Algorithmische Selektionsprozesse haben einen signifikanten Einfluss auf die Produktion und das Konsumverhalten von Medien [@napoli2014]. Dies hat Auswirkungen darauf, über *was* (Agenda Setting) wir *wie* (Framing) sprechen [@justlatzer2017 245]. 
+Und obwohl algorithmisch generierte Selektionen den Anschein von Objektivität haben, sind sie alles andere als neutral, objektiv oder transparent [@boydcrawford2012].
+Sie sind vielmehr ein Ausdruck davon, was die Techintermediäre für obszön, anstössig, politisch korrekt, erotisch oder pornografisch halten. 
+
+Die GAFA besitzen ferner vernetzte Macht gegenüber Netzwerkknoten (z.&#8239;B. Verlage), die auf die Sichtbarkeit ihrer Inhalte online angewiesen sind. 
+Die politische Deliberation über das Internet verdeutlicht die Kommunikationsmacht, welche die GAFA besitzen. 
+Ihre Plattformen stellen einen öffentlichen Diskussionsraum dar, der sich aber in privater Hand befindet und entlang ökonomischer Ziel konstruiert wurde [vgl. @ash2016].
+Durch diese Stellung können die GAFA als Programmiererende sowohl neue Netzwerke bilden, als auch die Ziele bestehende neu verändern. 
+Mit ihren Dienstleistungen schaffen sie auch Schnittstellen zwischen verschiedenen Netzwerken, was die GAFA als potenzielle Vermittelnde auszeichnet.
 	  
-	Plattformen sind ferner Artefakte, die das Wie der Kommunikation mitbestimmen. In diesem Sinn besitzen die TI nicht nur Networking-Macht, sondern auch Netzwerkmacht. Funktionen wie Retweeting, Reblogging, Liking, oder Following strukturieren unsere Handlungen und Meinungen (Dolata 2018, 125; Just/Latzer 2017; Napoli 2014). Algorithmen „übersetzen“ die Interessen der Nutzer\*innen nicht direkt, sondern kombinieren und messen verschiedenste Inputs (Bakshy u.a. 2015; Napoli 2014). Basierend auf algorithmischen Selektionsmechanismen strukturieren die sozialen Medien Informations- und Interaktionsprozesse (Dolata 2018, 125). Damit entscheiden die Techintermediäre (oder soziale Akteur\*innen, welche die sozialen Medien für sich einzusetzen wissen) mit, was sich in den sozialen Medien durchsetzt und von deren verstärkenden Effekten profitiert. Dies resultiert in einer Deutungshoheit. Algorithmische Selektionsprozesse haben einen signifikanten Einfluss auf die Produktion und die Konsumation von Medien (Napoli 2014). Dies hat Auswirkungen darauf, über was (Agenda Setting) wir wie (Framing) sprechen (Just/Latzer 2017, 245). Und obwohl algorithmisch generierte Selektionen den Anschein von Objektivität haben, sind sie alles andere als neutral, objektiv oder transparent (Dolata 2018, 125). Sie sind vielmehr ein Ausdruck davon, was die Techintermediäre für obszön, anstössig, politisch korrekt, erotisch oder pornografisch halten. Dadurch erlangen sie vernetzte Macht; beispielsweise gegenüber Verlagen, die auf die Sichtbarkeit ihrer Inhalte online angewiesen sind. Darüber hinaus beeinflussen die Techintermediäre essentielle Bereiche des sozialen Lebens: Konsum, Informations- und Kommunikationsflüsse sowie zwischenmenschliche Beziehungen (ebd., 124). Die politische Deliberation über das Internet verdeutlich die Kommunikationsmacht, welche die Techintermediäre besitzen. Ihre Plattformen stellen einen öffentlichen Diskussionsraum dar, der sich aber in privater Hand befindet und entlang ökonomischer Ziel konstruiert wurde (vgl. Ash 2016). Durch diese Stellung können sich sowohl neue Netzwerke bilden, als auch bestehende neu programmieren, was die Techintermediäre zu Programmierern macht. Mit ihren Dienstleistungen schaffen sie auch Schnittstellen zwischen verschiedenen Netzwerken, was sie als potenzielle Vermittelnde auszeichnet.  
-	  
-	Auf den ersten Blick könnte diese kurze Aufzählung zur Schlussfolgerung verleiten, man habe mit den Techintermediären das Machtzentrum vernetzter Gesellschaften identifiziert. Dagegen sprechen mehrere Gründe, die sich durch Castells’ Konzeption ergeben. Erstens sind die Techintermediäre kein Monolith, sondern stellen selbst ein Netzwerk (oder ein Netzwerk von Netzwerken) dar. Sie werden sowohl sich überschneidende Werte und Interessen haben, als auch sich widersprechende Ziele verfolgen. Deshalb kann man nicht lediglich die einzelnen Machtformen „abhacken“, indem man den Techintermediären als Ganzes diese Fähigkeiten zuspricht. Zweitens ist das Netzwerk „Techintermediäre“ mit anderen Netzwerken wie „Politik“, „Medien“ oder „Zivilgesellschaft“ verbunden, welche ihrerseits wiederum „mächtige“ Knoten besitzen. Aus analytischer Sicht bedeutet dies, dass man den Eindruck relativieren muss, wir seien den Interessen der Techintermediären völlig ausgeliefert, der durch den öffentlichen Diskurs entstehen kann. Denn es gibt Initiativen und Bestrebungen, die den Interessen und Werten der Techintermediäre entgegentreten. Daraus folgt, drittens, dass Veränderungen möglich und denkbar sind.  
-	Dies bedeutet in der Folge, dass mit Castells’ Ansatz nicht nur die Techintermediäre im Zentrum stehen können. Täte man dies, verkennte man die Überlegungen hinter dieser Machtkonzeption. Umgekehrt ist aber über Techintermediäre als geeigneter Startpunkt zu reflektieren. Sowohl die momentanen Diskussionen über Onlinedesinformation und deren Auswirkungen als auch die zentrale Stellung des digitalen Medien- und Kommunikationssystems in unserem Alltag sprechen dafür, Machtbeziehungen online von den Betreiber\*innen sozialer Medien her zu denken. Wir gehen davon aus, dass Castells’ Analysekategorien auch gewinnbringend auf kleinere soziale Netzwerke – z.&#8239;B. jene der Jugendlichen selbst – übertragbar sind. Hinsichtlich von Onlineaktivitäten Jugendlicher sehen wir in der ersten und zweiten Machtform unter anderem Anknüpfungspunkte zur Kommunikation über soziale Medien und/oder Instant Messaging. In den jeweiligen Gruppen verhandeln die Heranwachsenden durch sprachliche Hinweise implizit oder explizit die Normen, die die Gruppenzugehörigkeit sowie das Verhalten in der Gruppe regeln. Überlegungen dazu sind „Was verschafft mir viele Likes und Kommentare?“ und „Was zeichnet eine Information aus, die es Wert ist, geteilt zu werden?“. Mit Blick auf (teil )öffentliche Kommunikation und Deliberation kommt der Aktionsradius der einzelnen Nutzer\*innen als Produzentinnen sowie der Wegfall der Gatekeepingfunktionen traditioneller Medien sowie Autoritätspersonen in den Blick.
+Auf den ersten Blick könnte diese kurze Aufzählung zur Schlussfolgerung verleiten, man habe mit den Techintermediären das Machtzentrum vernetzter Gesellschaften identifiziert.
+Dagegen sprechen mehrere Gründe, die sich durch Castells’ Konzeption ergeben. Erstens sind die GAFA kein Monolith, sondern stellen selbst ein Netzwerk (oder ein Netzwerk von Netzwerken) dar. 
+Sie haben sowohl sich überschneidende Werte und Interessen, als auch sich widersprechende Ziele. 
+Deshalb kann man nicht lediglich die einzelnen Machtformen "abhacken", indem man den GAFA als Ganzes diese Fähigkeiten zuspricht. 
+Zweitens ist das Netzwerk "GAFA" mit anderen Netzwerken wie "Politik", "Medien" oder "Zivilgesellschaft" verbunden, welche ihrerseits wiederum "mächtige" Knoten besitzen. 
+Aus analytischer Sicht bedeutet dies, dass man den Eindruck relativieren muss, wir seien den Interessen der GAFA ausgeliefert, der durch den öffentlichen Diskurs entstehen kann. Denn es gibt Initiativen und Bestrebungen, die den Interessen und Werten der Techintermediäre entgegentreten. Daraus folgt, drittens, dass Veränderungen möglich und denkbar sind.
+Dies bedeutet in der Folge, dass mit Castells’ Ansatz nicht nur die Techintermediäre im Zentrum stehen können. 
+Täte man dies, verkennte man die Überlegungen hinter dieser Machtkonzeption.[^12]
 
-- Mehrdimensional
-
-	- 1. Dimension: Inklusion/Exklusion
-
-	- 2. Dimension: Standards
-
-		- Artefakte
-
-		- Handlungen
-
-	- 3. Dimension: Macht im Netzwerk
-
-	- 4. Dimension: Ziele und Informationsfluss
-
-	- → Analyseraster
+Die obigen Ausführungen verdeutlichen das mehrdimensionale Analyseraster, das sich aus Castells' Überlegungen ableiten lässt.
+Die erste Dimension dreht sich um Fragen der Inklusion und Exklusion.
+Die zweite fokussiert auf Standards und Normen, die durch intendierte Handlungen in die Artefakten eingebaut sind.
+Die Frage nach Machtbeziehungen im Netzwerk steht in der dritten Dimension im Zentrum.
+Die letzte fragt danach, welche Akteur\*innen wie in der Lage sind, ihre Ziele, Vorstellungen und Werte in Netzwerke einzuspeisen und wie Kommunikations- und Informationsflüsse kontrolliert werden.
+Diese Schritte eröffnen die Möglichkeit, eigene Potenziale zur Gegenmacht zu identifizieren.
 
 # Eine Politische Bildung fürs «digitale» Zeitalter {#sec:pbDigital}
 
@@ -328,4 +346,11 @@ Treffen Bakshy, Messing und Adamics [-@bakshymessingetal2015] Ergebnisse zu, dan
 
 [^9]: Ein Grossteil der Autor\*innen, die sich mit der digitalen Transformation der Gesellschaft beschäftigen, sehen im Medien‑ und Kommunikationssystem eine wenn nicht die entscheidende Erklärungsgrösse [@brennenkreiss2016 560].
 
-[^10]: Im globalen Finanzkapitalismus ist daher z.&#8239;B. der IWF in einer Position, um die Entscheide anderer Akteur\*innen asymmetrisch zu beeinflussen. In anderen Netzwerken finden sich andere zentrale, mit viel vernetzter Macht ausgestattete Organisationen oder Institutionen. [@castells2009 44]
+[^10]: Im globalen Finanzkapitalismus ist z.&#8239;B. der IWF in einer Position, um die Entscheide anderer Akteur\*innen asymmetrisch zu beeinflussen, weil diese Organisation die dem Netzwerk inhärenten Ziele vertritt.
+In anderen Netzwerken finden sich andere zentrale, mit viel vernetzter Macht ausgestattete Organisationen oder Institutionen. [@castells2009 44]
+
+[^11]: Die Abkürzung GAFA steht im engeren Sinne für die Unternehmen Google, Apple, Facebook und Amazon.
+Im weiteren Sinne&nbsp;-- den ich verwende&nbsp;-- werden darunter alle grossen Internetkonzerne zusammengefasst.
+
+[^12]: Daraus folgt aber nicht, die GAFA seien kein Startpunkt für die Analyse.
+Sowohl die momentanen Diskussionen über Onlinedesinformation und deren Auswirkungen als auch die zentrale Stellung des digitalen Medien- und Kommunikationssystems in unserem Alltag sprechen dafür, Machtbeziehungen online von den Betreiber\*innen sozialer Medien her zu denken.
