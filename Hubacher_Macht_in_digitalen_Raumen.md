@@ -10,10 +10,11 @@ csquotes: true
 
 # Einleitung
 
+Unser aller Alltag ist in der Zwischenzeit stark von den Dienstleistungen und Plattformen der Technologiekonzerne durchdrungen.
+Dies gilt insbesondere für die Jugendlichen.
 Aus dem sozialen Leben der "Generation Z" sind digitale Kommunikationsmittel nicht mehr wegzudenken.
 Unter diesem Vorzeichen erstaunt die intensive Nutzung des Internets nicht.[^1]
-Insbesondere für Unterhaltungszwecke greifen die Jugendlichen auf soziale Medien zurück [z.&#8239;B. @suterwalleretal2018 42].
-Unser aller Alltag ist in der Zwischenzeit stark von den Dienstleistungen und Plattformen der Technologiekonzerne durchdrungen.
+Insbesondere für Unterhaltungszwecke greifen die Jugendlichen [z.&#8239;B. @suterwalleretal2018 42]&nbsp;-- aber auch die Erwachsenen&nbsp;-- auf soziale Medien zurück.
 Diese Entwicklung ist aber nicht nur auf den Unterhaltungssektor beschränkt.
 Auch in der politischen Kommunikation sind Twitter, Facebook, Instagramm und Konsorten nicht mehr wegzudenken.
 Wie in der jüngsten Vergangenheit soziale Bewegungen wie MeToo und Never Again MSD in den USA sowie die Klimastreikbewegung bewiesen haben, erlauben die digitalen Kommunikationsmittel, breite Bevölkerungsschichten direkt anzusprechen.
@@ -22,11 +23,13 @@ In der "digitalisierten"&nbsp;-- d.&#8239;h. in einer von digitalen Kommunikatio
 Sie teilen sich diese Rolle mit anderen sozialen Akteur\*innen [@castells2007 257; @lobigs2018 86].
 In der Folge haben die klassischen Medien auch ihre Rolle als Gatekeeper (teilweise) eingebüsst [vgl. @carr2012].
 
-Aus dieser Entwicklung eine Demokratisierung von Medienmacht abzulesen, wäre aber zu vorschnell.
-Bürger\*innen können die Kontrolle, die politische Eliten über die Setzung politischer Themen besassen, durchaus einfacher herausfordern.
-Die Nutzung sozialer Medien kommt aber mit einem Preis.[^2]
-Erstens müssen sich die Akteur\*innen den Logiken der sozialen Medien unterwerfen [vgl. @poell2015].
-Zweitens entstehen neue Abhängigkeiten, was die Position jener stärkt, welche die sozialen Medien kontrollieren [@lobigs2018 88].
+<!-- Keine demokratisierte Medienmacht! (§202002201132) -->
+Soziale Medien erlauben demnach die Kontrolle, die politische Eliten über die Setzung politischer Themen besassen, einfacher herauszufordern.[^2]
+Daraus eine gleichmässiger verteilte Medienmacht abzulesen, verkennte aber u.&#8239;a. neu entstehende Abhängigkeiten.
+Hinter den genutzten Plattformen stehen private Unternehmen, welche diese zur Verfügung stellen.
+Nutzt man die sozialen Medien, ist man zumindest kurz- bis mittelfristig auf darauf angewiesen, dass mir diese zur Verfügung stehen.
+Und möchte man eine möglichst grosse Reichweite erreichen, braucht man den Zugang zu den grossen Plattformen.
+Diese Abhängigkeiten stärkt die Position jener, welche die sozialen Medien kontrollieren [@lobigs2018 88].
 Dieses Beispiel legt einen Schluss nahe:
 Die veränderten Bedingungen, unter denen politische Kommunikation stattfindet, haben nicht primär zu einer Machtnivellierung sondern vielmehr zu einer multidimensionalen &#8209;verschiebung geführt.
 Ein Resultat davon ist, dass die Identifikation, Analyse und Kritik jener Systeme, die politische Informationen kreieren und verbreiten anspruchsvoller geworden ist.
@@ -91,6 +94,7 @@ Die Zahl der Produzent\*innen (politischer) Information hat sich durch das Inter
 Neu müssen sich die klassischen Massenmedien und Politiker\*innen diese Rolle mit weiteren Akteur\*innen teilen [@castells2007 257; @lobigs2018  86].
 In der Folge haben die klassischen Medien auch ihre Rolle als Gatekeeper (teilweise) eingebüsst [vgl. @carr2012].
 
+<!-- Medienmacht in digitalen Räumen: §202002201132 -->
 Aus dieser Entwicklung eine Demokratisierung von Medienmacht abzulesen, wäre aber zu vorschnell.
 Bürger\*innen können die Kontrolle, die politische Eliten über die Setzung politischer Themen besassen, durchaus einfacher herausfordern.
 Die Nutzung sozialer Medien kommt aber mit einem Preis.[^2]
@@ -313,7 +317,9 @@ Was ist die Funktion einer Politische Bildung, die sich machtkritisch mit digita
 
 [^1]: In Mediennutzungsstudien für die Schweiz gaben die Jugendlichen z.&#8239;B. an, unter der Woche 2,5 Stunden und am Wochenende 4 Stunden online zu verbringen [@suterwalleretal2018 37].
 
-[^2]: Es gab bereits vor den sozialen Medien versuche, mittels alternativen Mediensystemen die Gatekeepermacht der Massenmedien herauszufordern. Ein Beispiel dafür ist etwa Indymedia.
+[^2]: Es gab bereits vor den sozialen Medien Versuche, mittels alternativer Mediensysteme die Medienmacht der Massenmedien herauszufordern.
+Ein Beispiel dafür ist etwa Indymedia.
+Diese waren aber nie in der Lage, die persönliche alltägliche Kommunikation so tief zu durchdringen, wie dies die sozialen Meiden vermochten [@poell2015, 543].
 
 [^3]: Ich verwende anstelle des Begriffes *Mündigkeit* jenen der *Autonomie*.
 In meinem Verständnis bezieht sich letztere auf die Fähigkeit des Individuums, das eigene Leben selbstbestimmt zu führen und auf Basis eigener Gründe zu handeln.
