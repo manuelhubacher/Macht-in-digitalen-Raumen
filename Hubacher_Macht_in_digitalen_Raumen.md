@@ -20,7 +20,7 @@ Auch in der politischen Kommunikation sind Twitter, Facebook, Instagramm und Kon
 Wie in der jüngsten Vergangenheit soziale Bewegungen wie MeToo und Never Again MSD in den USA sowie die Klimastreikbewegung bewiesen haben, erlauben die digitalen Kommunikationsmittel, breite Bevölkerungsschichten direkt anzusprechen.
 Der Weg über die klassischen Massenmedien (Zeitungen, TV, Radio) ist nicht mehr notwendig.
 In der "digitalisierten"&nbsp;-- d.&#8239;h. in einer von digitalen Kommunikationssystemen durchdrungenen&nbsp;-- Öffentlichkeit sind nicht mehr die klassischen Medien und die Politiker\*innen die Hauptproduzent\*innen politischer Information.
-Sie teilen sich diese Rolle mit anderen sozialen Akteur\*innen [@castells2007 257; @lobigs2018 86].
+Sie teilen sich diese Rolle mit anderen sozialen Akteur\*innen [@castells2007 257; neuberger2018 86].
 In der Folge haben die klassischen Medien auch ihre Rolle als Gatekeeper (teilweise) eingebüsst [vgl. @carr2012].
 
 <!-- Keine demokratisierte Medienmacht! (§202002201132) -->
@@ -29,7 +29,7 @@ Daraus eine gleichmässiger verteilte Medienmacht abzulesen, verkennte aber u.&#
 Hinter den genutzten Plattformen stehen private Unternehmen, welche diese zur Verfügung stellen.
 Nutzt man die sozialen Medien, ist man zumindest kurz- bis mittelfristig auf darauf angewiesen, dass mir diese zur Verfügung stehen.
 Und möchte man eine möglichst grosse Reichweite erreichen, braucht man den Zugang zu den grossen Plattformen.
-Diese Abhängigkeiten stärkt die Position jener, welche die sozialen Medien kontrollieren [@lobigs2018 88].
+Diese Abhängigkeiten stärkt die Position jener, welche die sozialen Medien kontrollieren [vgl. neuberger2018 88].
 Dieses Beispiel legt einen Schluss nahe:
 Die veränderten Bedingungen, unter denen politische Kommunikation stattfindet, haben nicht primär zu einer Machtnivellierung sondern vielmehr zu einer multidimensionalen &#8209;verschiebung geführt.
 Ein Resultat davon ist, dass die Identifikation, Analyse und Kritik jener Systeme, die politische Informationen kreieren und verbreiten anspruchsvoller geworden ist.
@@ -57,11 +57,11 @@ Ich argumentiere dafür, dass sich Jugendliche sich mit Macht in digitalen Räum
 ## Wieso mit Macht befassen?
 
 <!-- Bildungsziel Autonomie -->
-Das Ideal der "Mündigkeit" oder "Autonomie"[^3] ist ein zentrales Bildungsziel [@meyer2011 14] und die Forderung danach gemäss Theodor @adorno2003b [133] eine Selbstverständlichkeit.
+Das Ideal der "Mündigkeit" oder "Autonomie"[^3] ist ein zentrales Bildungsziel [@meyer2011 14] und die Forderung diese zu erreichen ist gemäss Theodor @adorno2003b [133] eine Selbstverständlichkeit.
 Eine Bildung, die das Ideal der Autonomie befördert, verlangt danach, den Schüler\*innen die Orientierung in der Welt zu ermöglichen.
 Man muss aber auch darüber hinaus gehen und nicht nur "well adjusted people" produzieren [vgl. @adorno2003 109].
-Autonomiebefördernde Bildung ist auch eine Bildung zum Widerstand und zum Widerspruch ist [@adorno2003b 145].
-Was für Bildung im Allgemeinen zutrifft, tut dies auch für die Politische Bildung.
+Autonomiebefördernde Bildung bildet auch zum Widerstand und zum Widerspruch [@adorno2003b 145].
+Was für Bildung im Allgemeinen zutrifft, gilt auch für die Politische Bildung.
 Der Politikunterricht soll dazu beitragen, den Schüler\*innen die Orientierung in der Gesellschaft zu ermöglichen.
 Neben dieser Integrationsfunktion sollen die Lernenden auch ihre Gestaltungsmöglichkeiten erkennen, damit sie sich vom Status quo emanzipieren und selbstbestimmt handeln können [vgl. @gpje2004].
 
@@ -69,15 +69,15 @@ Neben dieser Integrationsfunktion sollen die Lernenden auch ihre Gestaltungsmög
 <!-- Beschäftigung mit Machtstrukturen: Notwendig fürs Bildungsziel -->
 Zielt die Politische Bildung darauf ab, Jugendlichen die notwendigen Kompetenzen zu vermitteln, um als selbstbestimmte und emanzipierte Bürger\*innen am Politischen teilzuhaben, müssen sie in der Lage sein, Machtbeziehungen kritisch zu analysieren.
 Denn existierende politische Systeme sind macht- oder herrschaftsförmig organisiert.
-<!-- Das Politische ist herrschaftsförmig organisiert:    -->
+<!-- Das Politische ist herrschaftsförmig organisiert -->
 Folglich ist eine Beschäftigung mit Politik auch jeweils eine mit Macht.[^4]
 Aus dieser Annahme ergeben sich zwei Schlussfolgerungen:
-Erstens ist für die Orientierung in bestehenden Gesellschaften das Erkennen und Verstehen formellen und informellen Machtstrukturen notwendig.
+Erstens ist für die Orientierung in bestehenden Gesellschaften das Erkennen und Verstehen formeller und informeller Machtstrukturen notwendig.
 Zweitens&nbsp;-- und quasi darauf aufbauend&nbsp;-- muss man muss man sowohl die Macht der Gegenseite als auch die eigene Macht und die damit verbundenen Möglichkeiten verstehen, um die eigenen Handlungsoptionen zu erkennen.
 
 <!-- 2. Essentielles Konzept für die Analyse politischer Prozesse -->
 In diesem Kontext überrascht die zentrale Stellung des Konzeptes Macht in den Sozial- und Geisteswissenschaften wenig [vgl. @imbusch2012a 9; @morriss2002 1].
-Man muss nicht zwingend mit dem britischen Philosophen Bertrand @russell1938 einiggehen, der argumentiert, in den Sozialwissenschaften beschäftige man sich im Endeffekt stets mit jeweils unterschiedlichen Machtmanifestationen, um die zentrale Stellung des Konzept anzuerkennen.
+Um dies anzuerkennen muss man nicht zwingend mit dem britischen Philosophen Bertrand @russell1938 einiggehen, der argumentiert, in den Sozialwissenschaften beschäftige man sich im Endeffekt stets mit jeweils unterschiedlichen Machtmanifestationen.
 Als Basis- oder Fachkonzept ist Macht eine der relevanten Grössen, ohne die fundiertes Wissen über Politik und politische Prozesse schwer vorstellbar ist.[^5]
 
 ## Wieso mit Macht in digitalen Räumen befassen? {#sec:WiesoMitMachtInDigitalenRäumenBefassen}
@@ -91,29 +91,29 @@ Nun hat die *digitale Transformation der Öffentlichkeit* unser Mediensystem gru
 <!-- - Traditionelle Gatekeeper verschwinden -->
 Bisher kam den klassischen Massenmedien die Rolle des Gatekeepers zu, der bestimmt, welche Informationen ins Mediensystem einfliessen und welche nicht.
 Die Zahl der Produzent\*innen (politischer) Information hat sich durch das Internet und insbesondere durch die sozialen Medien vergrössert.
-Neu müssen sich die klassischen Massenmedien und Politiker\*innen diese Rolle mit weiteren Akteur\*innen teilen [@castells2007 257; @lobigs2018  86].
+Neu müssen sich die klassischen Massenmedien und Politiker\*innen diese Rolle mit weiteren Akteur\*innen teilen [@castells2007 257; neuberger2018 86].
 In der Folge haben die klassischen Medien auch ihre Rolle als Gatekeeper (teilweise) eingebüsst [vgl. @carr2012].
 
 <!-- Medienmacht in digitalen Räumen: §202002201132 -->
-Aus dieser Entwicklung eine Demokratisierung von Medienmacht abzulesen, wäre aber zu vorschnell.
-Bürger\*innen können die Kontrolle, die politische Eliten über die Setzung politischer Themen besassen, durchaus einfacher herausfordern.
-Die Nutzung sozialer Medien kommt aber mit einem Preis.[^2]
-Erstens müssen sich die Akteur\*innen den Logiken der sozialen Medien unterwerfen [vgl. @poell2015].
-Zweitens entstehen neue Abhängigkeiten, was die Position jener stärkt, welche die sozialen Medien kontrollieren [@lobigs2018 88].
+Eine Demokratisierung aus dieser Entwicklung abzulesen wäre aber vorschnell. Das Internet und soziale Medien erlauben zwar die Kontrolle, die politische Eliten über die Setzung politischer Themen besassen, einfacher herauszufordern und breite Bevölkerungsschichten mit eigene Anliegen vertraut zu machen.
+Soziale Medien zu nutzen kommt aber mit einem Preis.
+Erstens müssen sich die Akteur\*innen den Logiken der sozialen Medien unterwerfen, was die Art der Berichterstattung beeinflusst [vgl. @poell2015].[^13]
+Zweitens macht man sich von jenen abhängig, welche die Infrastruktur bereit stellen. 
+Man ist erstens auf den Zugang zu ihren Netzwerken angewiesen.[^14]
+Zweitens können die Infrastrukturbetreibenden die Meinungen der Bürger\*innen potenziell durch algorithmische Selektion beeinflussen [neuberger2018 88].
+Drittens beeinflussen ihre Artefakte auch, wie über Ereignisse berichtet wird [@poell2015 530, 543; @napoli2014].
+Dies stärkt die Position der Infrastrukturbesitzenden sowohl gegenüber den Produzent\*innen als auch den Konsument\*innen politischer Information (vgl. @sec:WieDieMachtverteilungOnlineAnalysieren).
 
-Ein weiterer Grund, der für einen machtkritischen Blick auf digitale Räume spricht, ist der Normalisierungsdruck.
-<!-- - PRO: Aushandeln erlernen -->
-Einerseits besitzt digitale Kommunikation positive und demokratieförderliche Aspekte.
-Onlineprofile machen es notwendig, digitales Selbst- und Identitätsmanagement zu betreiben, was die Jugendlichen dabei unterstützt, sich persönlich zu verorten [@Wagner:2011aa].
-Und kommunizieren die Jugendlichen online, erproben sie dabei unter anderem ihre Positionen und handeln implizit oder explizit aus, was wie gesagt werden kann. 
-Kurzum, das Internet ist ein Raum, in dem soziales oder demokratisches Aushandeln erlernt wird.
-Ferner sind soziale Medien gerade ein Raum, in dem Nutzer\*innen eher mit anderen Meinungen konfrontiert werden, als dies "offline" geschieht [@bakshymessingetal2015].[^8]
-Andererseits laufen die genannten Prozesse nicht macht- oder herrschaftsfrei ab und können u.&#8239;a. einen hohen Normalisierungsdruck aufbauen und im Extremfall in Selbstzensierung münden [vgl. @gearhartzhang2015].
+Ein weiterer Grund, der für einen machtkritischen Blick auf digitale Räume spricht, ist der Normalisierungsdruck, der im Extremfall gar in Selbstzensur münden kann.
+<!-- The bad: Schweigespirale: §202002191616 -->
+Gemäss der Idee der *Schweigespirale* [@noelle-neumann2001] nimmt die Bereitschaft, die eigene Meinung zu vertreten ab, je grösser die Diskrepanz zwischen eigener und (wahrgenommenen) vorherrschenden Meinung ist.
+Ein Effekt, der sich grundsätzlich auch auf sozialen Medien finden lässt [@gearhartzhang2015].
+Wer in der Lage ist, einer Meinung den Anschein zu geben, sie werde von vielen geteilt, beeinflusst nicht nur, was wie gesagt werden kann, sondern kann auch unsere (handlungsleitenden) Meinungen und Vorstellungen beeinflussen.[^8]
 
 Ein dritter Grund sind in die Artefakte der Technologieunternehmen und Dienstleiter\*innen eingebettete intendierte Handlungsweisen.[^7]
 Beispielsweise beeinflussen Funtkionen wie Retweeting, Reblogging, Liking oder Following unsere Handlungen und Meinungen (vgl. @sec:WieDieMachtverteilungOnlineAnalysieren)&nbsp;-- und dies auf eine äusserst subtile Weise.
-Damit haben sich entgegen der Hoffnungen, die das Internet in seinen Anfängen geschürt hat, online keine herrschaftsfreie(re) Räume entwickelt.
-Und Angesichts der starken Durchdringung unserer Alltages durch digitale Kommunikationsmittel scheint ein machtkritischer Blick auf die digitalen Räume angezeigt.
+Damit haben sich entgegen der Hoffnungen, die das Internet in seinen Anfängen geschürt hat, online keine herrschaftsfreie(ren) Räume entwickelt.
+Und Angesichts der starken Durchdringung unseres Alltages durch digitale Kommunikationsmittel scheint ein machtkritischer Blick auf die digitalen Räume angezeigt.
 
 ## Welche Fähigkeiten benötigt man dazu?
 
@@ -186,13 +186,13 @@ Die sozialen Strukturen der "Netzwerkgesellschaft" entstehen um Netzwerke herum,
 Insoweit diese Netzwerke global sind, ist auch die darauf basierende Gesellschaft global.
 Dies bedeutet aber umgekehrt nicht, alle seien Teil der globalen Netzwerke
 Akteur\*innen, die einem Netzwerk angehören, können Macht durch Gatekeepingstrategien erlangen.
-Die *Networking-Macht* operiert demnach mit Inklusion und Exklusion  [@castells2009 42--43].
+Die *Networking-Macht* operiert demnach mit Inklusion und Exklusion [@castells2009 42--43].
 <!-- Netzwerkmacht §202002161340 -->
 Durch den globalen Charakter der Netzwerkgesellschaft sind die Knoten auf Standards angewiesen, um sich miteinander zu koordinieren.
 Je grösser deren Akzeptanz ist, desto nützlicher sind sie.
 Dies speist eine alternative Koordinationsformen verdrängende Dynamik.
 Die daraus resultierenden vereinheitlichten "Protokolle" determinieren die Regeln, die als Teil des Netzwerkes zu akzeptieren sind. 
-In diesem Sinne handelt es sich bei *Netzwerkmacht* um die Macht der Standards&nbsp;-- die den Interessen jener nützen, die sie beeinflussen vermögen&nbsp;-- über die Netzwerkkomponenten  [@castells2009 43].
+In diesem Sinne handelt es sich bei *Netzwerkmacht* um die Macht der Standards&nbsp;-- die den Interessen jener nützen, die sie beeinflussen vermögen&nbsp;-- über die Netzwerkkomponenten [@castells2009 43].
 
 <!-- vernetzte Macht: §202002161400 -->
 Gemäss Castells' Analyse gibt es als weitere Machtform die *vernetzte Macht*. Wie diese wirkt, kann man auf einzelne Netzwerke oder auf die gesamte Netzwerkgesellschaft bezogen beantworten. 
@@ -247,7 +247,7 @@ Die politische Deliberation über das Internet verdeutlicht die Kommunikationsma
 Ihre Plattformen stellen einen öffentlichen Diskussionsraum dar, der sich aber in privater Hand befindet und entlang ökonomischer Ziel konstruiert wurde [vgl. @ash2016].
 Durch diese Stellung können die GAFA als Programmiererende sowohl neue Netzwerke bilden, als auch die Ziele bestehende neu verändern. 
 Mit ihren Dienstleistungen schaffen sie auch Schnittstellen zwischen verschiedenen Netzwerken, was die GAFA als potenzielle Vermittelnde auszeichnet.
-	  
+
 Auf den ersten Blick könnte diese kurze Aufzählung zur Schlussfolgerung verleiten, man habe mit den Techintermediären das Machtzentrum vernetzter Gesellschaften identifiziert.
 Dagegen sprechen mehrere Gründe, die sich durch Castells’ Konzeption ergeben. Erstens sind die GAFA kein Monolith, sondern stellen selbst ein Netzwerk (oder ein Netzwerk von Netzwerken) dar. 
 Sie haben sowohl sich überschneidende Werte und Interessen, als auch sich widersprechende Ziele. 
@@ -268,7 +268,7 @@ Diese Schritte eröffnen die Möglichkeit, eigene Potenziale zur Gegenmacht zu i
 
 ## Funktionen?
 
-Was ist die Funktion einer Politische Bildung, die sich machtkritisch mit digitaler Kommunikation befasst?  
+Was ist die Funktion einer Politische Bildung, die sich machtkritisch mit digitaler Kommunikation befasst?
 
 
 - Orientierungshilfe
@@ -347,7 +347,10 @@ Wir erhalten über Medien Metainformationen darüber, was andere (vermeintlich) 
 [^7]: Grundsätzlich ist in alles, was Menschen schaffen, (mehr oder weniger bewusst) eine intendierte Auswirkung auf die Umwelt eingebaut, die sich auf unsere Handlungen auswirkt [vgl. @winner1980]. 
 Dies ist somit nicht ein Alleinstellungsmerkmal "digitaler" Artefakte.
 
-[^8]: Diese widerspricht der These der *Filterblase*. Gemäss dieser werden wir online durch die algorithmische Selektion nur mit Informationen konfrontiert, die in unser Weltbild passen [vgl. @pariser2011a].
+[^8]: Es wäre aber übereilt, daraus zu schliessen, das Internet oder soziale Medien seien zwingend schlecht für die Meinungsbildung.
+So sind soziale Medien&nbsp;-- wie empirische Untersuchungen nahe legen&nbsp;-- gerade ein Raum, in dem Nutzer\*innen eher mit anderen Meinungen konfrontiert werden, als dies "offline" geschieht [z.&#8239;B. @bakshymessingetal2015].
+Diese widerspricht der These der *Filterblase*. 
+Gemäss dieser werden wir online durch die algorithmische Selektion nur mit Informationen konfrontiert, die in unser Weltbild passen [vgl. @pariser2011a].
 Treffen Bakshy, Messing und Adamics [-@bakshymessingetal2015] Ergebnisse zu, dann ist unsere Tendenz, oftmals ausschliesslich unsere Weltsicht bestätigende Informationen zur Kenntnis zu nehmen, nicht (ausschliesslich) den Algorithmen geschuldet.
 
 [^9]: Ein Grossteil der Autor\*innen, die sich mit der digitalen Transformation der Gesellschaft beschäftigen, sehen im Medien‑ und Kommunikationssystem eine wenn nicht die entscheidende Erklärungsgrösse [@brennenkreiss2016 560].
@@ -360,3 +363,8 @@ Im weiteren Sinne&nbsp;-- den ich verwende&nbsp;-- werden darunter alle grossen 
 
 [^12]: Daraus folgt aber nicht, die GAFA seien kein Startpunkt für die Analyse.
 Sowohl die momentanen Diskussionen über Onlinedesinformation und deren Auswirkungen als auch die zentrale Stellung des digitalen Medien- und Kommunikationssystems in unserem Alltag sprechen dafür, Machtbeziehungen online von den Betreiber\*innen sozialer Medien her zu denken.
+
+[^13]: Für die möglichen Auswirkungen des Beschleunigungseffekts und der Personalisierung auf die digitalisierte politische Kommunikation, siehe z.&#8239;B. @poell2015 [530, 543].
+
+[^14]: Der Grund dafür ist pragmatischer Natur:
+Selbst wenn man in der Lage ist, alternative Strukturen aufzubauen, fehlt diesen oftmals die Reichweite und die Einbettung in unsere alltägliche Kommunikation (vgl. auch Fussnote 2).
