@@ -163,60 +163,46 @@ Robert Dahls behavioristische Machtdefinition besitzt auf den ersten Blick eine 
 In seinem Fokus auf die direkte Interaktion zwischen *A* und *B* blendet Dahl versteckte Formen der Machtausübung aus [Agenda Setting, Schaffung eines falschen Bewusstseins, vlg. @Lukes1974]. 
 Wäre *Macht-über* die einzige Machtdimension, wäre das Konzept zu eng. 
 Hanna @pitkin1972 [276] argumentiert, Macht sei ein Etwas, das eine Person dazu befähigt oder fähig macht, etwas zu tun. Macht verstanden als *Macht-zu* ist für sie Fähigkeit, Potential oder Können.
-Der Zusammenhang zwischen *Macht-zu* und *Macht-über* ist umstritten. Einige Autor\*innen argumentieren, beide seien zwar konzeptionell verschieden aber dahingehend verbunden, als dass wir *Macht-zu* nicht ohne *Macht-über* haben können [z.&#8239;B. @castells2009].
+Der Zusammenhang zwischen *Macht-zu* und *Macht-über* ist umstritten. Einige Autor\*innen argumentieren, beide seien zwar konzeptionell verschieden aber dahingehend verbunden, als dass wir *Macht-zu* nicht ohne *Macht-über* haben können:
+Die Ermächtigung sozialer Akteur\*innen können wir nicht davon trennen, sich *gegen* andere zu ermächtigen [@castells2009 13]. 
+Diese Verbindung von Macht-zu und Macht-über basiert auf der Idee, soziale Räume, die nicht bereits durch Machtbeziehungen strukturiert seien, gäbe es nicht [vgl. @Lukes1974].
 
-Beide grundsätzlichen Machtformen kann man in sozialen Interaktionen identifizieren. 
-Ist die Frage nach den Auswirkungen der digitalen Transformation gleichbedeutend damit zu fragen, wie digitale Medien soziale Umwelt strukturieren, formen und beeinflussen, dann ist das Medien- und Kommunikationssystem in den Blick zu nehmen.[^9]
-Aufgrund seiner zentraler Bedeutung argumentieren Autor\*innen wie Manuel Castells, die Analyse dieses Systems erlaube, viele Aspekte des sozialen Lebens zu erklären.
-
-<!-- Macht in digitalen Netzwerken §202002051130-->
-Macht ist eine relationale Fähigkeit, die Entscheidungen anderer auf eine Weise zu beeinflussen, die den eigenen Willen, die eigenen Werte oder die eigenen Interessen befördern [@castells2009 11]. 
-Macht wird durch Zwang (oder durch Gewalt) und/oder der Bedeutungskonstruktion ausgeübt [@castells2009 10]. 
+<!-- Digitale Räume -->
+Wenden wir uns den digitalen Räumen zu, sehen wir uns einem sozialen Netzwerk gegenüber, in dem dessen Nutzer\*innen durch Kommunikations&#8209; und Informationsströmen miteinander verbunden sind.
+Diese Verbindungen basieren auf digitalen, internetbasierten Medien&#8209;Kommunikationssystemen.
+<!-- Netzwerkgesellschaft -->
+Unter diesem Blickwinkel können uns Manuel Castells' Überlegungen zur *Netzwerkgesellschaft*[^15] helfen, die Machtstrukturen in digitalen Räumen zu analysieren.[^16]
+<!-- Macht in digitalen Räumen §202002051130 -->
+Grundsätzlich konzeptualisert er Macht als eine relationale Fähigkeit, die Entscheidungen anderer auf eine Weise zu beeinflussen, die den eigenen Willen, die eigenen Werte oder die eigenen Interessen befördert [@castells2009 11]. 
+Macht wird durch Zwang (oder durch Gewalt) und/oder die Bedeutungskonstruktion ausgeübt [@castells2009 10]. 
 Da es sich bei Macht um eine Form einer Beziehung handelt, hat niemals eine Akteurin alle und ein anderer Akteur keine Macht, die Möglichkeit zur Beeinflussung ist aber asymmetrisch [@castells2009 11].
 Macht als in Beziehungen angelegt zu verstehen hat Auswirkungen auf die Analyse von Machtbeziehungen. Diese sind -- um es etwas salopp zu sagen -- keine Einbahnstrassen.
 Personen oder Institutionen, die Macht ausüben wollen, sehen sich potentiell Gegenkräften gegenüber, die sich gegen etablierte Herrschaft zur Wehr setzen [@castells2009 47]. 
-Aus analytischer Sicht sind beide Elemente -- Macht und *Gegenmacht* -- konstitutiv für Machtstrukturen, konzeptionell aber verschieden.
+Aus analytischer Sicht sind beide Elemente -- Macht und *Gegenmacht* -- konstitutiv für Machtstrukturen, konzeptionell aber verschieden. 
+Für Castells ist Macht damit verbunden, Kommunikations- und Informationsflüsse zu kontrollieren [@castells2009 3].
 
-Für Castells ist Macht stets damit verbunden, Kommunikations- und Informationsflüsse zu kontrollieren [@castells2009 3]. 
-Die Ermächtigung sozialer Akteur\*innen können wir nicht davon trennen, sich *gegen* andere zu ermächtigen [@castells2009 13]. 
-Diese Verbindung von Macht-zu und Macht-über basiert auf der Idee, soziale Räume, die nicht bereits durch Machtbeziehungen strukturiert seien, gäbe es nicht [vgl. @Lukes1974].
-Die sozialen Strukturen der "Netzwerkgesellschaft" entstehen um Netzwerke herum, die durch auf Mikroelektronik basierende, digital verarbeiteter Informationen und Kommunikationstechnologien aktiviert werden [@castells2009 24].
 
+Castells' unterscheidet vier Machtformen, die jeweils auf einer anderen Logik gründen.
 <!-- Networking-Macht §202002161338 -->
-Insoweit diese Netzwerke global sind, ist auch die darauf basierende Gesellschaft global.
-Dies bedeutet aber umgekehrt nicht, alle seien Teil der globalen Netzwerke
-Akteur\*innen, die einem Netzwerk angehören, können Macht durch Gatekeepingstrategien erlangen.
-Die *Networking-Macht* operiert demnach mit Inklusion und Exklusion [@castells2009 42--43].
+Der erste Typ ist die *Networking-Macht*. 
+Diese funktioniert über der Logik der Inklusion/Exklusion.
+D.h. soziale Akteur\*innen,[^16] die Teil eines Netzwerkes sind, können Macht erlangen, indem sie den Zugang zu ihrem Netzwerk regulieren und entscheiden, wer Teil davon werden kann und wer nicht. 
+In diesem Sinne handelt es sich um die Macht durch Gatekeeping [@castells2009 42--43].
+
 <!-- Netzwerkmacht §202002161340 -->
-Durch den globalen Charakter der Netzwerkgesellschaft sind die Knoten auf Standards angewiesen, um sich miteinander zu koordinieren.
-Je grösser deren Akzeptanz ist, desto nützlicher sind sie.
-Dies speist eine alternative Koordinationsformen verdrängende Dynamik.
-Die daraus resultierenden vereinheitlichten "Protokolle" determinieren die Regeln, die als Teil des Netzwerkes zu akzeptieren sind. 
-In diesem Sinne handelt es sich bei *Netzwerkmacht* um die Macht der Standards&nbsp;-- die den Interessen jener nützen, die sie beeinflussen vermögen&nbsp;-- über die Netzwerkkomponenten [@castells2009 43].
+Castells' zweiter Machttyp ist die **Netzwerkmacht** und operiert über (Kommunikations&#8209;)&#8203;standards. Diese ergeben sich aus der Notwendigkeit, auf eine Weise miteinander zu kommunizieren und Informationen auszutauschen, die für alle sozialen Akteur\*innen im Netzwerk verständlich ist.
+Breiter abgestützte Standards haben die Tendenz, weniger akzeptierte Formen zu verdrängen.
+Wer die Regelungen – die als Teil des Netzwerkes zu akzeptieren sind – zu seinen Gunsten beeinflussen kann, erlangt Macht durch Standards [@castells2009 43].
 
 <!-- vernetzte Macht: §202002161400 -->
-Gemäss Castells' Analyse gibt es als weitere Machtform die *vernetzte Macht*. Wie diese wirkt, kann man auf einzelne Netzwerke oder auf die gesamte Netzwerkgesellschaft bezogen beantworten. 
-Für @castells2009 [44] ist die Antwort im Rahmen eines spezifischen Netzwerkes simpel, fokussiert man auf dessen Funktionsweisen. 
-Die Machtbeziehungen ergeben sich aus den Zielen, die dem Netzwerk einprogrammiert wurden.[^10]
-Durch den hohen Grad der Vernetzung ergeben sich vielschichtige und komplexe gegenseitige Abhängigkeiten und Einflussmöglichkeiten.
-Daher ist es nicht nur wenig sinnvoll, die Quelle der Macht bei *einer* Entität suchen zu wollen. 
-Ein solches Unterfangen könnte sich als "analytische Sackgasse" herausstellen.
+Beim dritten Typen handelt es sich um *vernetzte Macht**. Diese beschreibt die Machtbeziehungen zwischen sozialen Akteur\*innen im Netzwerk. 
+Die genaue Funktionsweise dieses Machttyps ergibt sich aus den Zielen, die dem Netzwerk einprogrammiert wurden [@castells2009 44].[^17]
 
 <!--Vernetzende Macht: §202002161408 -->
-Die letzte und stärkste Machtform folgt der Logik der *vernetzenden Macht*. Diese basiert auf zwei Grundmechanismen:
-Erstens die Fähigkeit, Netzwerke zu schaffen und zu programmieren und, zweitens, verschiedene Netzwerke verbinden zu können [@castells2009 45].
-Diese *Programmierenden* und *Vermittelnden* werden in den wenigsten Fällen Einzelpersonen oder spezifische Organisationen sein, da die Grundmechanismen in Bereichen zwischen verschiedenen Akteur\*innen wirken. 
-Vielmehr werden mit vernetzender Macht ausgestattete Akteur\*innen selbst Netzwerke sein. 
-Die Ziele eines Netzwerkes zu definieren ist folgenreich. 
-Netzwerke arbeiten&nbsp;-- ist das Programm etabliert&nbsp;-- effizient darauf hin, diese Vorgaben zu erfüllen [@castells2009 46].
-Die genauen Prozesse sind kontextabhängig und sind für jedes Netzwerk einzeln zu bestimmen.
-Gemeinsam dürften den Programmen gemäss Castells jeweils sein, dass sie sich um Ideen, Visionen, Projekte und Framing drehen.
-Diese kulturellen Materialien sind mehrheitlich in Kommunikationsprozesse eingebettet.
-Folglich können sie an verschiedenen Orten entstehen und mit unterschiedlichen spezifischen Interessen und Subkulturen verbunden sein.
-Trotzdem ist die Art, wie die Ideen kommuniziert werden, entscheidend dafür, wie sie in einer Gesellschaft aufgenommen werden.
-Ob dies geschieht ist wiederum davon abhängig, ob sie wahrgenommen werden.
-Folglich sind gesellschaftliche Kommunikationsprozesse und die diese steuernden Netzwerke die Schlüsselbereiche, in denen die Programmierung stattfindet [@castells2009 46].
-Die Vermittelnden kontrollieren die Schnittstellen zwischen strategischen Netzwerken [@castells2009 47].
+Der vierte und stärkste Machttyp ist die *vernetzende Macht*. 
+Diese speist sich aus zwei Logiken.
+Erstens die Fähigkeit, neue oder bestehende Netzwerke zu programmieren. Dabei geht es darum, die Ziele eines Netzwerkes auf eine Weise zu beeinflussen, welche die eigenen Ideen, Visionen, Projekte oder das eigene Fraiming befördern [@castells2009 46].
+Zweitens die Fähigkeit, bestehende Netzwerke miteinander zu verbinden. Durch die Funktion als Schnittstelle zwischen relevanten Netzwerken können soziale Akteur\*innen die Kommunikations- und Informationsflüsse zwischen den Netzwerken kontrollieren [@castells2009 47].[^18]
 
 Aus der letzten Machtform ergeben sich auch die Hauptstrategien der Gegenmächte, um bestehende Herrschaftsverhältnisse herauszufordern: 
 Erstens versuchen sie Netzwerke neu zu programmieren, indem sie neue Institutionen schaffen und neue Protokolle implementieren [@castells2009 47-48]. 
@@ -368,3 +354,14 @@ Sowohl die momentanen Diskussionen über Onlinedesinformation und deren Auswirku
 
 [^14]: Der Grund dafür ist pragmatischer Natur:
 Selbst wenn man in der Lage ist, alternative Strukturen aufzubauen, fehlt diesen oftmals die Reichweite und die Einbettung in unsere alltägliche Kommunikation (vgl. auch Fussnote 2).
+
+[^15]: Unter *Netzwerkgesellschaft* versteht Castells eine globale Gesellschaft, deren zentrale sozialen Strukturen um elektronisch verarbeitet Informationsnetze herum organisiert sind [@castells2017d].
+
+[^16]: Mit dem Begriff *soziale Akteur\*in* sind sowohl Einzelpersonen als auch Organisationen und Institutionen gemeint.
+
+[^17]: Im Bezug auf die globale Netzwerkgesellschaft argumentiert @castells2009 [44], es ergäben sich durch den hohen Grad der Vernetzung vielschichtige und komplexe gegenseitige Abhängigkeiten und Einflussmöglichkeiten. 
+Daher sei es nicht kaum sinnvoll, die Quelle der Macht bei *einer* Entität suchen zu wollen. 
+Ein solches Unterfangen könnte sich gar als "analytische Sackgasse" herausstellen.
+
+[^18]: Im Rahmen der Netzwerkgesellschaft ist es für @castells2009 [46] klar, dass diese *Programmierenden* und *Vermittelnden* in den wenigsten Fällen Einzelpersonen oder spezifische Organisationen sein dürften, da die Grundmechanismen in Bereichen zwischen verschiedenen Akteur\*innen wirken. 
+Vielmehr werden mit vernetzender Macht ausgestattete Akteur\*innen selbst Netzwerke sein.
