@@ -176,9 +176,10 @@ Unter diesem Blickwinkel können uns Manuel Castells' Überlegungen zur *Netzwer
 Grundsätzlich konzeptualisert er Macht als eine relationale Fähigkeit, die Entscheidungen anderer auf eine Weise zu beeinflussen, die den eigenen Willen, die eigenen Werte oder die eigenen Interessen befördert [@castells2009 11]. 
 Macht wird durch Zwang (oder durch Gewalt) und/oder die Bedeutungskonstruktion ausgeübt [@castells2009 10]. 
 Da es sich bei Macht um eine Form einer Beziehung handelt, hat niemals eine Akteurin alle und ein anderer Akteur keine Macht, die Möglichkeit zur Beeinflussung ist aber asymmetrisch [@castells2009 11].
-Macht als in Beziehungen angelegt zu verstehen hat Auswirkungen auf die Analyse von Machtbeziehungen. Diese sind -- um es etwas salopp zu sagen -- keine Einbahnstrassen.
+Macht als in Beziehungen angelegt zu verstehen hat Auswirkungen auf die Analyse von Machtbeziehungen. 
+Diese sind&nbsp;-- um es etwas salopp zu sagen&nbsp;-- keine Einbahnstrassen.
 Personen oder Institutionen, die Macht ausüben wollen, sehen sich potentiell Gegenkräften gegenüber, die sich gegen etablierte Herrschaft zur Wehr setzen [@castells2009 47]. 
-Aus analytischer Sicht sind beide Elemente -- Macht und *Gegenmacht* -- konstitutiv für Machtstrukturen, konzeptionell aber verschieden. 
+Aus analytischer Sicht sind beide Elemente&nbsp;-- Macht und *Gegenmacht*&nbsp;-- konstitutiv für Machtstrukturen, konzeptionell aber verschieden. 
 Für Castells ist Macht damit verbunden, Kommunikations- und Informationsflüsse zu kontrollieren [@castells2009 3].
 
 
@@ -190,12 +191,12 @@ D.h. soziale Akteur\*innen,[^16] die Teil eines Netzwerkes sind, können Macht e
 In diesem Sinne handelt es sich um die Macht durch Gatekeeping [@castells2009 42--43].
 
 <!-- Netzwerkmacht §202002161340 -->
-Castells' zweiter Machttyp ist die **Netzwerkmacht** und operiert über (Kommunikations&#8209;)&#8203;standards. Diese ergeben sich aus der Notwendigkeit, auf eine Weise miteinander zu kommunizieren und Informationen auszutauschen, die für alle sozialen Akteur\*innen im Netzwerk verständlich ist.
+Castells' zweiter Machttyp ist die *Netzwerkmacht* und operiert über (Kommunikations&#8209;)&#8203;standards. Diese ergeben sich aus der Notwendigkeit, auf eine Weise miteinander zu kommunizieren und Informationen auszutauschen, die für alle sozialen Akteur\*innen im Netzwerk verständlich ist.
 Breiter abgestützte Standards haben die Tendenz, weniger akzeptierte Formen zu verdrängen.
 Wer die Regelungen – die als Teil des Netzwerkes zu akzeptieren sind – zu seinen Gunsten beeinflussen kann, erlangt Macht durch Standards [@castells2009 43].
 
 <!-- vernetzte Macht: §202002161400 -->
-Beim dritten Typen handelt es sich um *vernetzte Macht**. Diese beschreibt die Machtbeziehungen zwischen sozialen Akteur\*innen im Netzwerk. 
+Beim dritten Typen handelt es sich um *vernetzte Macht*. Diese beschreibt die Machtbeziehungen zwischen sozialen Akteur\*innen im Netzwerk. 
 Die genaue Funktionsweise dieses Machttyps ergibt sich aus den Zielen, die dem Netzwerk einprogrammiert wurden [@castells2009 44].[^17]
 
 <!--Vernetzende Macht: §202002161408 -->
@@ -256,52 +257,47 @@ Diese Schritte eröffnen die Möglichkeit, eigene Potenziale zur Gegenmacht zu i
 
 # Eine Politische Bildung fürs «digitale» Zeitalter {#sec:pbDigital}
 
-## Funktionen?
+<!-- ## Funktionen? -->
+Was bedeuten obige Überlegungen für eine Politische Bildung, die sich machtkritisch mit digitaler Kommunikation befasst?
+Zunächst scheinen Schüler\*innen von vornherein subjektive Macht- und Herrschaftskonzepte zu besitzen. 
+Diese fallen je nach Schulstufe unterschiedlich komplex und differenziert aus, sollten aber bereits auf Primarstufe genug ausgebildet sein, um Fragen über Macht und deren Legitimation zu behandeln [vgl. @rathskalcsics2011].
+Schüler\*innen weisen aber Wissenslücken auf, besitzen Fehlinformationen über einzelne Aspekte von (Basis‑)Konzepten oder ihre subjektiven Konzepte sind aus normativer Sicht problematisch [@sander2013a 102].
+Doch es geht nicht darum, "falsches" durch "richtiges" Wissen zu ersetzen. 
+Denn es gibt zu den "problematischen Konzepten nicht den jeweiligen Gegenpol eines eindeutig definierten und in den Wissenschaften konsensuellen 'richtigen' Konzeptverständnisses" [@sander2013a 104]. 
+Um der Gefahr zu entgehen, aus dem Politikunterricht einen Ort zu machen, in dem den Schüler\*innen "richtige" Konzepte vermittelt werden [vgl. @autorengruppefachdidaktik2011a 167], muss der Fokus auf die Reflexion und Deliberation gelegt werden.
+D.&#8239;h. die Politische Bildung muss ein Ort sein, in dem Schüler\*innen politische Konzepte und Deutungsmuster aushandeln.
 
-Was ist die Funktion einer Politische Bildung, die sich machtkritisch mit digitaler Kommunikation befasst?
+<!-- ## Konsequenzen für die PB? -->
+Sollen die subjektiven Machtkonzepte und ‑erfahrungen der Schüler\*innen als Ausgangspunkt dienen, ist die Vermittlung eines abstrakten Konzeptes wenig sinnvoll. 
+Ein induktives Vorgehen ist unter diesen Voraussetzungen angebrachter. 
+Schüler\*innen sollen von ihren Vorstellungen ausgehend einen elaborierten Blick auf Macht und ihre vielfältigen Manifestationen erarbeiten sowie ihre Handlungsmöglichkeiten ausloten. 
+Ein erstes Ziel ist ein kohärentes und differenziertes Wissensnetzwerk, das Macht mit weiteren politischen Konzepten verbindet. 
+Dieses bietet eine interpretative Orientierungshilfe, um das Politische selbstständig systematisch zu erfassen und zu verstehen. 
+Ein zweites Ziel ist, die Jugendlichen durch die Reflexion ihren Handlungsspielraum ausloten zu lassen. 
+Dies schafft die Voraussetzungen für einen selbstbestimmten und emanzipierten Umgang mit erlebter Macht.
 
+Erstens präsentiert sich Macht als ein pluralistisches und kontextabhängiges Konzept. 
+Es gibt nicht nur *eine*, alle Fälle beschriebe Machtform. 
+Da Macht in Beziehungen angelegt ist, gibt es weder allmächtige noch machtlose Akteur\*innen. 
+Der "Netzwerkblick" hilft damit, monokausale Erklärungen zu entkräften. Die Einflussmöglichkeiten sind zwar asymmetrisch verteilt, durch die sich bietenden Möglichkeiten neuer Vernetzungen aber auch dynamisch. 
+Der Fokus auf Beziehungen betont die soziale Dimension. 
+Weil Macht von diesem Standpunkt aus etwas Zwischenmenschliches ist, verschiebt sich der Fokus von einzelnen Akteur\*innen zu den Beziehungen zwischen ihnen. 
+Unter diesem Blickwinkel hat die Beschäftigung mit dem Konzept Macht das Potential, die Orientierung in der Gesellschaft zu verbessern. 
+Darüber hinaus bietet sich die Chance, den Status quo kritisch zu hinterfragen. 
+Werden Machtbeziehungen als dynamisch&nbsp;-- und damit auch veränderbar&nbsp;-- konzeptualisiert, muss eine Analysedimension stets auf die Einflussmöglichkeiten der Schüler\*innen eingehen. 
+Ihnen ist aufzuzeigen, wie sie Gegenmächte zu Entwicklungen werden können. Auf diese Weise werden die Schüler\*innen nicht nur in die bestehende Gesellschaft integriert, sondern erlernen die notwendigen Voraussetzungen, um als emanzipierte Bürger\*innen daran zu partizipieren.
 
-- Orientierungshilfe
+<!-- ## Umsetzung? -->
+<!-- Wie können diese Überlegungen auf den Unterricht überragen werden?
+Ausgehend von den subjektiven Konzepten und Erfahrungen sollen sich die Schüler\*innen den vier in @sec:machtDigital identifizierten Dimensionen (Inklusion/Exklusion, Standards und Normen, Macht zwischen Akteur\*innen, Programmieren und Vermitteln) des Analyserasters folgend ihr eigenes Machtverständnis erweitern und vertiefen. 
+Dabei gilt es, die Jugendlichen an eine kritische Denkweise heranzuführen. -->
 
-- Emanzipationshilfe
+Für die weitere Entwicklung des hier skizzierten Ansatzes stellt sich die Frage, wie Situationen ausgestaltet sein müssen, um mit Jugendlichen über ihre Kommunikationspraxis in den sozialen Medien unter der Perspektive von Macht und Öffentlichkeit zu reflektieren. 
+Sozialen Medien kommt Bedeutung als ein jugendkultureller Ort zu, den Jugendliche für sich beanspruchen, auch wenn zahlreiche Anwendungen öffentlich oder teilöffentlich sind. 
+Für die Vertiefung des Themas braucht es demzufolge pädagogischen "Takt" sowie eine Beziehungsbasis, die auf Vertrauen gründet. 
+Eine vielversprechende und das kritische Denken nachhaltig fördernde Methode scheint mir dafür das *Philosophierens mit Kindern und Jugendlichen* zu sein [vgl. @conradmathisetal2018].
+Sie besitzt mit Jugendlichen, die in digitalisierten Gesellschaften aufgewachsen sind, ins Gespräch zu kommen und die Reflexion über Machtbeziehungen im Netz weiterzuführen.
 
-## Konsequenzen für die PB?
-
-- Kein auswendiglernen
-
-- Konzeptlernen
-
-	Siehe [[202002051205]]
-
-	- Ausgehend von subjektiven Erfahrungen
-
-	- Kritische Reflexion
-
-		- Selbstreflexion
-
-		- Fremdreflexion
-
-- Kritische Analyse zentral
-
-## Umsetzung?
-
-- Analyse des Status quo
-
-- Instrumente
-
-	- Privatsphäre (duh!)
-
-	- Obfuscation
-
-		@bruntonnissenbaum2016
-
-	- Collective action
-
-- Methode
-
-	- → Philosophieren mit Kindern
-
-		vgl. @conradmathisetal2018; @martens2013
 
 # Literatur {-}
 
@@ -325,7 +321,7 @@ Autonomie scheint daher ein gradueller Begriff zu sein [für eine ähnliche Sich
 [^4]: So hat bereits Max Weber Politik als ein "Streben nach Machtanteil oder nach Beeinflussung der Machtverteilung, sei es zwischen Staaten, sei es innerhalb eines Staates zwischen den Menschengruppen, die er umschliesst" [-@Weber:1919 4] definiert.
 
 [^5]: In der Politischen Bildung wird davon ausgegangen, das Basis- und Fachkonzepte das politische Denken und Handeln strukturieren. 
-Die Zuordnung von Macht zu den Basiskonzepten -- die "als abstrakte Begriffe für komplexe Vorstellungsräume, die Facetten menschlichen Denkens über Politik bezeichnen" [@sander2013a 99] -- ist nicht unumstritten.
+Die Zuordnung von Macht zu den Basiskonzepten&nbsp;-- die "als abstrakte Begriffe für komplexe Vorstellungsräume, die Facetten menschlichen Denkens über Politik bezeichnen" [@sander2013a 99]&nbsp;-- ist nicht unumstritten.
 Verschiedene Autor*innen kategorisieren Macht als ein Fachkonzept, d.&#8239;h. als ein Konzept, das ein Basiskonzept konkretisiert [Macht als Basiskonzept, z.&#8239;B. @sander2013a 100; Macht als Fachkonzept, z.&#8239;B. @weissenodetjenetal2010 Kapitel 5.5]. 
 Für die nachfolgende Diskussion ist diese Unterscheidung aber nicht von Belang.
 Denn in beiden Fällen Macht eine relevante Grösse, um Politik und das Politische zu verstehen.
@@ -356,7 +352,7 @@ Selbst wenn man in der Lage ist, alternative Strukturen aufzubauen, fehlt diesen
 
 [^15]: Unter *Netzwerkgesellschaft* versteht Castells eine globale Gesellschaft, deren zentrale sozialen Strukturen um elektronisch verarbeitet Informationsnetze herum organisiert sind [@castells2017d].
 
-[^16]: Mit dem Begriff *soziale Akteur\*in* sind sowohl Einzelpersonen als auch Organisationen und Institutionen gemeint.
+[^16]: Mit dem Begriff *Akteur\*in* sind sowohl Einzelpersonen als auch Organisationen und Institutionen gemeint.
 
 [^17]: Im Bezug auf die globale Netzwerkgesellschaft argumentiert @castells2009 [44], es ergäben sich durch den hohen Grad der Vernetzung vielschichtige und komplexe gegenseitige Abhängigkeiten und Einflussmöglichkeiten. 
 Daher sei es nicht kaum sinnvoll, die Quelle der Macht bei *einer* Entität suchen zu wollen. 
