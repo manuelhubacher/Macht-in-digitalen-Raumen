@@ -124,8 +124,8 @@ Analyse und Kritik des Status quo.
 <!-- - Status quo analysieren -->
 Erstere ergibt sich aus der Orientierungsfunktion.
 Damit man sich in die bestehende Gesellschaft integrieren kann, muss man den Status quo verstehen.
-Dafür benötigt man analytische Fähigkeiten, was im Grunde folgendes bedeutet: Man muss u.&#8239;a. mit Argumenten umgehen, Rechtfertigungen und Gründe gegeneinander abwägen und bestehend Strukturen erkennen können.
-Die Kritikfähigkeit baut in gewissermassen auf die Analyse auf und ergibt sich aus der Emanzipationsfunktion.
+Dafür benötigt man analytische Fähigkeiten, was im Grunde Folgendes bedeutet: Man muss u.&#8239;a. mit Argumenten umgehen, Rechtfertigungen und Gründe gegeneinander abwägen und bestehend Strukturen erkennen können.
+Die Kritikfähigkeit baut gewissermassen auf die Analyse auf und ergibt sich aus der Emanzipationsfunktion.
 Um sich emanzipieren zu können, muss man zunächst wissen und artikulieren, was man am Status quo als schlecht, nicht optimal usw. empfindet. 
 Diese Kritik setzt wiederum Analysen&nbsp;-- sowohl in Bezug auf bestehende Strukturen als auch in Bezug auf eigene Handlungsmöglichkeiten&nbsp;-- voraus.
 
@@ -143,9 +143,9 @@ Die kaum abzuschätzenden Folgen der Transformation des Mediensystems machen sel
 Dies setzt bestimmte Kompetenzen voraus.
 @mihailidisthevenin2013 [1618] nennen deren vier.
 Erstens müssen medienkundige Bürger\*innen fähig sein, Medieninhalte zu verarbeiten, sich diese anzueignen und in neuer Form erneut zu verbreiten (*partizipative Kompetenz*).
-Zweitens müssen sie das Internet mitgestalten können, indem sie durch Kollaboration geteilte Bedeutungen schaffen und mit anderen in Verbindung treten und ihre Kommunikation auf eine grosse Gruppe von interessierten Peers ausdehnen (*kollaborative Kompetenz*).
+Zweitens müssen sie das Internet mitgestalten können, indem sie durch Kollaboration geteilte Bedeutungen schaffen, mit anderen in Verbindung treten und ihre Kommunikation auf eine grosse Gruppe von interessierten Peers ausdehnen (*kollaborative Kompetenz*).
 Drittens müssen sie in der Lage sein, den digitalen Raum mitzugestalten, indem sie ein gemeinsames Narrativ kreieren (*expressive Kompetenz*).
-Viertens müssen sie sich mit Medieninhalte, die ihnen im Alltag begegnen, kritisch auseinandersetzen können (*kritische Kompetenz*).
+Viertens müssen sie sich mit Medieninhalten, die ihnen im Alltag begegnen, kritisch auseinandersetzen können (*kritische Kompetenz*).
 
 Die Beschäftigung mit Machtstrukturen im digitalen Raum bietet eine Möglichkeit, diese Kompetenzen zu erlernen und zu vertiefen. 
 Bevor wir uns der Ausgestaltung zuwenden können (@sec:pbDigital), müssen wir als nächstes den Machtbegriff zu fassen versuchen.
@@ -349,7 +349,7 @@ Dies ist somit nicht ein Alleinstellungsmerkmal "digitaler" Artefakte.
 
 [^8]: Es wäre aber übereilt, daraus zu schliessen, das Internet oder soziale Medien seien zwingend schlecht für die Meinungsbildung.
 So sind soziale Medien&nbsp;-- wie empirische Untersuchungen nahe legen&nbsp;-- gerade ein Raum, in dem Nutzer\*innen eher mit anderen Meinungen konfrontiert werden, als dies "offline" geschieht [z.&#8239;B. @bakshymessingetal2015].
-Diese widerspricht der These der *Filterblase*. 
+Dies widerspricht der These der *Filterblase*. 
 Gemäss dieser werden wir online durch die algorithmische Selektion nur mit Informationen konfrontiert, die in unser Weltbild passen [vgl. @pariser2011a].
 Treffen Bakshy, Messing und Adamics [-@bakshymessingetal2015] Ergebnisse zu, dann ist unsere Tendenz, oftmals ausschliesslich unsere Weltsicht bestätigende Informationen zur Kenntnis zu nehmen, nicht (ausschliesslich) den Algorithmen geschuldet.
 
