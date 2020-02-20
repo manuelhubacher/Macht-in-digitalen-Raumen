@@ -27,9 +27,9 @@ In der Folge haben die klassischen Medien auch ihre Rolle als Gatekeeper (teilwe
 Soziale Medien erlauben demnach die Kontrolle, die politische Eliten über die Setzung politischer Themen besassen, einfacher herauszufordern.[^2]
 Daraus eine gleichmässiger verteilte Medienmacht abzulesen, verkennte aber u.&#8239;a. neu entstehende Abhängigkeiten.
 Hinter den genutzten Plattformen stehen private Unternehmen, welche diese zur Verfügung stellen.
-Nutzt man die sozialen Medien, ist man zumindest kurz- bis mittelfristig auf darauf angewiesen, dass mir diese zur Verfügung stehen.
+Nutzt man die sozialen Medien, ist man zumindest kurz&#8209; bis mittelfristig darauf angewiesen, dass mir diese zur Verfügung stehen.
 Und möchte man eine möglichst grosse Reichweite erreichen, braucht man den Zugang zu den grossen Plattformen.
-Diese Abhängigkeiten stärkt die Position jener, welche die sozialen Medien kontrollieren [vgl. neuberger2018 88].
+Diese Abhängigkeiten stärkten die Position jener, welche die sozialen Medien kontrollieren [vgl. @neuberger2018 88].
 Dieses Beispiel legt einen Schluss nahe:
 Die veränderten Bedingungen, unter denen politische Kommunikation stattfindet, haben nicht primär zu einer Machtnivellierung sondern vielmehr zu einer multidimensionalen &#8209;verschiebung geführt.
 Ein Resultat davon ist, dass die Identifikation, Analyse und Kritik jener Systeme, die politische Informationen kreieren und verbreiten anspruchsvoller geworden ist.
@@ -46,18 +46,19 @@ Ein genuin politischer Zugriff auf die digitale Transformation der Öffentlichke
 Erstens handelt es sich bei Macht (und damit verwandte Konzepte wie Autorität und Herrschaft) um eine zentrale, in der Politische Bildung verankerte sozial- und geisteswissenschaftliche Grösse [vgl. @sander2013a; @weissenodetjenetal2010]. 
 Zweitens kann man mit dem Thema an die Alltagserfahrungen der Jugendlichen mit erlebter Macht anknüpfen. 
 
-In einem ersten Schritt (@sec:macht) lege ich dar, wieso man sich mit dem Konzept "Macht" im Allgemeinen und in Bezug auf digitale Räume beschäftigen sollte. 
+In einem ersten Schritt (@sec:macht) lege ich dar, wieso man sich mit dem Konzept "Macht" im Allgemeinen und in Bezug auf digitale Räume im Speziellen beschäftigen sollte. 
 Daran anknüpfend skizziere ich kurz, welche Fähigkeiten dafür eine Voraussetzung sind.
-In einem zweiten Schritt (@sec:machtDigital) präsentiere ich Castells Machtkonteption und skizziere darauf aufbauen, wie man Onlinemachtstrukturen analysieren kann.
+In einem zweiten Schritt (@sec:machtDigital) präsentiere ich Castells Machtkonzeption und skizziere darauf aufbauend, wie man Onlinemachtstrukturen analysieren kann.
 Dies mündet in Überlegungen zu einer Politischen Bildung fürs "digitale" Zeitalter (@sec:pbDigital).
-Ich argumentiere dafür, dass sich Jugendliche sich mit Macht in digitalen Räumen befassen sollen. Dies verlangt nach einer multidimensionalen Herangehensweise, die&nbsp;-- verwendet man Castells’ Machtkonzeptionen als Analyseraster&nbsp;-- in der Schule eingeübt werden können und sollen.
+Ich argumentiere dafür, dass sich Jugendliche mit Macht in digitalen Räumen befassen sollen. 
+Dies verlangt nach einer multidimensionalen Herangehensweise, die&nbsp;-- verwendet man Castells’ Machtkonzeptionen als Analyseraster&nbsp;-- in der Schule eingeübt werden kann und soll.
 
-# Macht: Ein Konzept wie ein Chamäleon {#sec:macht}
+# Macht?!? {#sec:macht}
 
-## Wieso mit Macht befassen?
+## Wieso sich mit Macht befassen?
 
 <!-- Bildungsziel Autonomie -->
-Das Ideal der "Mündigkeit" oder "Autonomie"[^3] ist ein zentrales Bildungsziel [@meyer2011 14] und die Forderung diese zu erreichen ist gemäss Theodor @adorno2003b [133] eine Selbstverständlichkeit.
+Das Ideal der "Mündigkeit" oder "Autonomie"[^3] ist ein zentrales Bildungsziel [@meyer2011 14] und die Forderung dies zu erreichen ist gemäss Theodor W. @adorno2003b [133] eine Selbstverständlichkeit.
 Eine Bildung, die das Ideal der Autonomie befördert, verlangt danach, den Schüler\*innen die Orientierung in der Welt zu ermöglichen.
 Man muss aber auch darüber hinaus gehen und nicht nur "well adjusted people" produzieren [vgl. @adorno2003 109].
 Autonomiebefördernde Bildung bildet auch zum Widerstand und zum Widerspruch [@adorno2003b 145].
@@ -73,14 +74,14 @@ Denn existierende politische Systeme sind macht- oder herrschaftsförmig organis
 Folglich ist eine Beschäftigung mit Politik auch jeweils eine mit Macht.[^4]
 Aus dieser Annahme ergeben sich zwei Schlussfolgerungen:
 Erstens ist für die Orientierung in bestehenden Gesellschaften das Erkennen und Verstehen formeller und informeller Machtstrukturen notwendig.
-Zweitens&nbsp;-- und quasi darauf aufbauend&nbsp;-- muss man muss man sowohl die Macht der Gegenseite als auch die eigene Macht und die damit verbundenen Möglichkeiten verstehen, um die eigenen Handlungsoptionen zu erkennen.
+Zweitens&nbsp;-- und quasi darauf aufbauend&nbsp;-- muss man sowohl die Macht der Gegenseite als auch die eigene Macht und die damit verbundenen Möglichkeiten verstehen, um die eigenen Handlungsoptionen zu erkennen.
 
 <!-- 2. Essentielles Konzept für die Analyse politischer Prozesse -->
 In diesem Kontext überrascht die zentrale Stellung des Konzeptes Macht in den Sozial- und Geisteswissenschaften wenig [vgl. @imbusch2012a 9; @morriss2002 1].
 Um dies anzuerkennen muss man nicht zwingend mit dem britischen Philosophen Bertrand @russell1938 einiggehen, der argumentiert, in den Sozialwissenschaften beschäftige man sich im Endeffekt stets mit jeweils unterschiedlichen Machtmanifestationen.
 Als Basis- oder Fachkonzept ist Macht eine der relevanten Grössen, ohne die fundiertes Wissen über Politik und politische Prozesse schwer vorstellbar ist.[^5]
 
-## Wieso mit Macht in digitalen Räumen befassen? {#sec:WiesoMitMachtInDigitalenRäumenBefassen}
+## Wieso sich mit Macht in digitalen Räumen befassen? {#sec:WiesoMitMachtInDigitalenRäumenBefassen}
 
 Damit ist zwar klar, weshalb wir uns mit Macht befassen sollten, möchten wir das Politische und unsere Handlungsmöglichkeiten darin verstehen.
 Doch weshalb sollten wir uns mit Macht in digitalen Räumen befassen?
@@ -91,23 +92,23 @@ Nun hat die *digitale Transformation der Öffentlichkeit* unser Mediensystem gru
 <!-- - Traditionelle Gatekeeper verschwinden -->
 Bisher kam den klassischen Massenmedien die Rolle des Gatekeepers zu, der bestimmt, welche Informationen ins Mediensystem einfliessen und welche nicht.
 Die Zahl der Produzent\*innen (politischer) Information hat sich durch das Internet und insbesondere durch die sozialen Medien vergrössert.
-Neu müssen sich die klassischen Massenmedien und Politiker\*innen diese Rolle mit weiteren Akteur\*innen teilen [@castells2007 257; neuberger2018 86].
+Neu müssen sich die klassischen Massenmedien und Politiker\*innen diese Rolle mit weiteren Akteur\*innen teilen [@castells2007 257; @neuberger2018 86].
 In der Folge haben die klassischen Medien auch ihre Rolle als Gatekeeper (teilweise) eingebüsst [vgl. @carr2012].
 
 <!-- Medienmacht in digitalen Räumen: §202002201132 -->
-Eine Demokratisierung aus dieser Entwicklung abzulesen wäre aber vorschnell. Das Internet und soziale Medien erlauben zwar die Kontrolle, die politische Eliten über die Setzung politischer Themen besassen, einfacher herauszufordern und breite Bevölkerungsschichten mit eigene Anliegen vertraut zu machen.
+Eine Demokratisierung aus dieser Entwicklung abzulesen wäre aber vorschnell. Das Internet und soziale Medien erlauben zwar die Kontrolle, die politische Eliten über die Setzung politischer Themen besassen, einfacher herauszufordern und breite Bevölkerungsschichten mit eigenen Anliegen vertraut zu machen.
 Soziale Medien zu nutzen kommt aber mit einem Preis.
 Erstens müssen sich die Akteur\*innen den Logiken der sozialen Medien unterwerfen, was die Art der Berichterstattung beeinflusst [vgl. @poell2015].[^13]
 Zweitens macht man sich von jenen abhängig, welche die Infrastruktur bereit stellen. 
 Man ist erstens auf den Zugang zu ihren Netzwerken angewiesen.[^14]
-Zweitens können die Infrastrukturbetreibenden die Meinungen der Bürger\*innen potenziell durch algorithmische Selektion beeinflussen [neuberger2018 88].
+Zweitens können die Infrastrukturbetreibenden die Meinungen der Bürger\*innen potenziell durch algorithmische Selektion prägen [@neuberger2018 88].
 Drittens beeinflussen ihre Artefakte auch, wie über Ereignisse berichtet wird [@poell2015 530, 543; @napoli2014].
 Dies stärkt die Position der Infrastrukturbesitzenden sowohl gegenüber den Produzent\*innen als auch den Konsument\*innen politischer Information (vgl. @sec:WieDieMachtverteilungOnlineAnalysieren).
 
-Ein weiterer Grund, der für einen machtkritischen Blick auf digitale Räume spricht, ist der Normalisierungsdruck, der im Extremfall gar in Selbstzensur münden kann.
+Ein weiterer Grund, der für einen machtkritischen Blick auf digitale Räume spricht, ist der Normalisierungsdruck, der im Extremfall gar in Selbstzensur mündet.
 <!-- The bad: Schweigespirale: §202002191616 -->
-Gemäss der Idee der *Schweigespirale* [@noelle-neumann2001] nimmt die Bereitschaft, die eigene Meinung zu vertreten ab, je grösser die Diskrepanz zwischen eigener und (wahrgenommenen) vorherrschenden Meinung ist.
-Ein Effekt, der sich grundsätzlich auch auf sozialen Medien finden lässt [@gearhartzhang2015].
+Gemäss der Idee der *Schweigespirale* [@noelle-neumann2001] nimmt die Bereitschaft, die eigene Meinung zu vertreten ab, je grösser die Diskrepanz zwischen eigener und (wahrgenommener) vorherrschender Meinung ist.
+Ein Effekt, der sich grundsätzlich auch in sozialen Medien finden lässt [@gearhartzhang2015].
 Wer in der Lage ist, einer Meinung den Anschein zu geben, sie werde von vielen geteilt, beeinflusst nicht nur, was wie gesagt werden kann, sondern kann auch unsere (handlungsleitenden) Meinungen und Vorstellungen beeinflussen.[^8]
 
 Ein dritter Grund sind in die Artefakte der Technologieunternehmen und Dienstleiter\*innen eingebettete intendierte Handlungsweisen.[^7]
@@ -118,7 +119,7 @@ Und Angesichts der starken Durchdringung unseres Alltages durch digitale Kommuni
 ## Welche Fähigkeiten benötigt man dazu?
 
 <!-- Notwendige Fähigkeiten -->
-Aus bildungstheoretischer Sicht stellt sich an dieser Stelle die Frage, welche Fähigkeiten ein\*e machtkritische Bürger\*in benötigt.
+Aus bildungstheoretischer Sicht stellt sich an dieser Stelle die Frage, welche Fähigkeiten ein\*e machtkritische\*r* Bürger\*in benötigt.
 Orientieren wir uns am Bildungsziel der Autonomie und den sich daraus ergebenden Dimensionen, können wir zwei grundsätzliche Fähigkeiten ableiten:
 Analyse und Kritik des Status quo.
 <!-- - Status quo analysieren -->
@@ -137,7 +138,7 @@ Demnach benötigen wir nicht "nur" kritische, sondern auch medienkundige Bürger
 <!-- medienkundige Bürger\*innen. -->
 @mihailidisthevenin2013 [1614] beschreiben diese erstens als *kritische Denker\*innen,* die Medieninhalte analysieren und kontextualisieren.
 Zweitens sind sie *effektive Schöpfer\*innen und Kommunikator\*innen,* die dazu in der Lage sind, ihre Sicht der Dinge mitzuteilen sowie neue Kommunikationswege, &#8209;mittel oder &#8209;formen zu entwickeln [@mihailidisthevenin2013 1615-1616].
-Drittens handelt es sich bei ihnen um *aktive Akteur\*innen des gesellschaftlichen Wandels,* die Informationen sammeln und analysieren, selbstständig fundierte Meinungen bilden und diese mit andren teilen können [@mihailidisthevenin2013 1616].
+Drittens handelt es sich bei ihnen um *aktive Akteur\*innen des gesellschaftlichen Wandels,* die Informationen sammeln und analysieren, selbstständig fundierte Meinungen bilden und diese mit anderen teilen können [@mihailidisthevenin2013 1616].
 
 Die kaum abzuschätzenden Folgen der Transformation des Mediensystems machen selbstorganisiertes Lernen zu einer Notwendigkeit [vlg. @erpenbecksauter2007]. 
 Dies setzt bestimmte Kompetenzen voraus.
@@ -159,7 +160,7 @@ Bevor wir uns der Ausgestaltung zuwenden können (@sec:pbDigital), müssen wir a
 Doch was ist Macht?
 Im Alltagsverständnis ist Macht zumeist negativ konnotiert und wird im Herrschaftskontext oft mit Zwang und Unterdrückung gleichgesetzt [@imbusch2012a 9]
 Das wissenschaftliche Machtverständnis ist dagegen weitaus differenzierter&nbsp;-- aber auch widersprüchlicher.
-Robert Dahls behavioristische Machtdefinition besitzt auf den ersten Blick eine gewisse intuitive Evidenz: *A* hat dann Macht über *B*, wenn *A* *B* dazu bringt, etwas zu tun, was *B* sonst nicht getan hätte [@Dahl:1957aa 202–203]. Bei näherer Betrachtung erkennt man aber verschiedene Schwierigkeiten dieses Verständnis.
+Robert Dahls behavioristische Machtdefinition besitzt auf den ersten Blick eine gewisse intuitive Evidenz: *A* hat dann Macht über *B*, wenn *A* *B* dazu bringt, etwas zu tun, was *B* sonst nicht getan hätte [@Dahl:1957aa 202–203]. Bei näherer Betrachtung erkennt man aber verschiedene Schwierigkeiten dieses Verständnisses.
 In seinem Fokus auf die direkte Interaktion zwischen *A* und *B* blendet Dahl versteckte Formen der Machtausübung aus [Agenda Setting, Schaffung eines falschen Bewusstseins, vlg. @Lukes1974]. 
 Wäre *Macht-über* die einzige Machtdimension, wäre das Konzept zu eng. 
 Hanna @pitkin1972 [276] argumentiert, Macht sei ein Etwas, das eine Person dazu befähigt oder fähig macht, etwas zu tun. Macht verstanden als *Macht-zu* ist für sie Fähigkeit, Potential oder Können.
@@ -168,8 +169,8 @@ Die Ermächtigung sozialer Akteur\*innen können wir nicht davon trennen, sich *
 Diese Verbindung von Macht-zu und Macht-über basiert auf der Idee, soziale Räume, die nicht bereits durch Machtbeziehungen strukturiert seien, gäbe es nicht [vgl. @Lukes1974].
 
 <!-- Digitale Räume -->
-Wenden wir uns den digitalen Räumen zu, sehen wir uns einem sozialen Netzwerk gegenüber, in dem dessen Nutzer\*innen durch Kommunikations&#8209; und Informationsströmen miteinander verbunden sind.
-Diese Verbindungen basieren auf digitalen, internetbasierten Medien&#8209;Kommunikationssystemen.
+Wenden wir uns den digitalen Räumen zu, sehen wir uns einem sozialen Netzwerk gegenüber, in dem dessen Nutzer\*innen durch Kommunikations&#8209; und Informationsströme miteinander verbunden sind.
+Diese Verbindungen basieren auf digitalen, internetbasierten Medien&#8209; und Kommunikationssystemen.
 <!-- Netzwerkgesellschaft -->
 Unter diesem Blickwinkel können uns Manuel Castells' Überlegungen zur *Netzwerkgesellschaft*[^15] helfen, die Machtstrukturen in digitalen Räumen zu analysieren.[^16]
 <!-- Macht in digitalen Räumen §202002051130 -->
@@ -202,7 +203,7 @@ Die genaue Funktionsweise dieses Machttyps ergibt sich aus den Zielen, die dem N
 <!--Vernetzende Macht: §202002161408 -->
 Der vierte und stärkste Machttyp ist die *vernetzende Macht*. 
 Diese speist sich aus zwei Logiken.
-Erstens die Fähigkeit, neue oder bestehende Netzwerke zu programmieren. Dabei geht es darum, die Ziele eines Netzwerkes auf eine Weise zu beeinflussen, welche die eigenen Ideen, Visionen, Projekte oder das eigene Fraiming befördern [@castells2009 46].
+Erstens die Fähigkeit, neue oder bestehende Netzwerke zu programmieren. Dabei geht es darum, die Ziele eines Netzwerkes auf eine Weise zu beeinflussen, welche die eigenen Ideen, Visionen, Projekte oder das eigene Framing befördern [@castells2009 46].
 Zweitens die Fähigkeit, bestehende Netzwerke miteinander zu verbinden. Durch die Funktion als Schnittstelle zwischen relevanten Netzwerken können soziale Akteur\*innen die Kommunikations- und Informationsflüsse zwischen den Netzwerken kontrollieren [@castells2009 47].[^18]
 
 Aus der letzten Machtform ergeben sich auch die Hauptstrategien der Gegenmächte, um bestehende Herrschaftsverhältnisse herauszufordern: 
@@ -214,10 +215,10 @@ Zweitens zielen sie darauf ab, Vermittelnde daran zu hindern, Netzwerke zu verbi
 
 Wie könnte eine Analyse von Machtstrukturen in digitalen Räumen aussehen?
 Exerzieren wir das mit den "GAFA"[^11] durch und verwenden Castells' Machtformen als Analyseraster.
-Unternehmen wie Alphabet, Facebook, Apple oder Amazon zeigen je nach Kontext die von Castells beschriebenen Eigenschaften, die ihnen erlauben, ihren Interessen und Werte gegenüber anderen durchzusetzen. 
+Unternehmen wie Alphabet, Facebook, Apple oder Amazon zeigen je nach Kontext die von Castells beschriebenen Eigenschaften, die ihnen erlauben, ihre Interessen und Werte gegenüber anderen durchzusetzen. 
 Sie dominieren fundamentale Internetdienstleistungen und Onlinemärkte.
-Durch diese Position können diese Unternehmen zu Gatekeeper werden, die den Zugang zum globalen Kommunikationsnetzwerk regulieren.
-Zwar eröffnen das Internet die Möglichkeit, breite Bevölkerungsschichten anzusprechen, ohne auf die traditionellen Massenmedien angewiesen zu sein (vgl. @sec:WiesoMitMachtInDigitalenRäumenBefassen).
+Dank dieser Position können diese Unternehmen zu Gatekeeper werden, die den Zugang zum globalen Kommunikationsnetzwerk regulieren.
+Zwar eröffnet das Internet die Möglichkeit, breite Bevölkerungsschichten anzusprechen, ohne auf die traditionellen Massenmedien angewiesen zu sein (vgl. @sec:WiesoMitMachtInDigitalenRäumenBefassen).
 Der Zugang kann und wird aber durch die GAFA reguliert.
 Damit besitzen die GAFA Networking-Macht.
 
@@ -235,18 +236,21 @@ So leiten die sozialen Medien in einem hohen Masse Aufmerksamkeit auf journalist
 Dies stärkt die Position der GAFA gegenüber den Verlagen und verleiht ihnen vernetzte Macht.
 
 Die politische Deliberation über das Internet verdeutlicht die Kommunikationsmacht, welche die GAFA besitzen. 
-Ihre Plattformen stellen einen öffentlichen Diskussionsraum dar, der sich aber in privater Hand befindet und entlang ökonomischer Ziel konstruiert wurde [vgl. @ash2016].
-Durch diese Stellung können die GAFA als Programmiererende sowohl neue Netzwerke bilden, als auch die Ziele bestehende neu verändern. 
+Ihre Plattformen stellen einen öffentlichen Diskussionsraum dar, der sich aber in privater Hand befindet und entlang ökonomischer Ziele konstruiert wurde [vgl. @ash2016].
+Durch diese Stellung können die GAFA als Programmiererende sowohl neue Netzwerke bilden, als auch die Ziele bestehender verändern. 
 Mit ihren Dienstleistungen schaffen sie auch Schnittstellen zwischen verschiedenen Netzwerken, was die GAFA als potenzielle Vermittelnde auszeichnet.
 
 Auf den ersten Blick könnte diese kurze Aufzählung zur Schlussfolgerung verleiten, man habe mit den GAFA das Machtzentrum vernetzter Gesellschaften identifiziert.
 Dagegen sprechen mehrere Gründe, die sich durch Castells’ Konzeption ergeben. Erstens sind die GAFA kein Monolith, sondern stellen selbst ein Netzwerk (oder ein Netzwerk von Netzwerken) dar. 
 Sie haben sowohl sich überschneidende Werte und Interessen, als auch sich widersprechende Ziele. 
-Deshalb kann man nicht lediglich die einzelnen Machtformen "abhacken", indem man den GAFA als Ganzes diese Fähigkeiten zuspricht. 
+Deshalb kann man nicht lediglich die einzelnen Machtformen "abhaken", indem man den GAFA als Ganzes diese Fähigkeiten zuspricht. 
 Zweitens ist das Netzwerk "GAFA" mit anderen Netzwerken wie "Politik", "Medien" oder "Zivilgesellschaft" verbunden, welche ihrerseits wiederum "mächtige" Knoten besitzen. 
-Aus analytischer Sicht bedeutet dies, dass man den Eindruck relativieren muss, wir seien den Interessen der GAFA ausgeliefert, der durch den öffentlichen Diskurs entstehen kann. Denn es gibt Initiativen und Bestrebungen, die den Interessen und Werten der GAFA entgegentreten. Daraus folgt, drittens, dass Veränderungen möglich und denkbar sind.
-Der erste und zweite Punkt legen darüber hinaus nahe, dass mit dem skizzierten Raster nicht nur die GAFA im Zentrum stehen können. 
-Täte man dies, verkennte man die Überlegungen hinter dieser Machtkonzeption.[^12]
+Der öffentliche Diskurs mag durchaus den Eindruck hinterlassen, wir seien den GAFA ausgeliefert.
+Aus analytischer Sicht ist dies aber zu relativieren.
+Denn es gibt Initiativen und Bestrebungen, die den Interessen und Werten der GAFA entgegentreten. 
+Daraus folgt, drittens, dass Veränderungen möglich und denkbar sind.
+Der erste und zweite Punkt legen darüber hinaus nahe, dass mit dem skizzierten Analyseraster nicht nur die GAFA im Zentrum stehen können. 
+Wäre dies der Fall, verkennte man die Überlegungen hinter dieser Machtkonzeption.[^12]
 
 Die obigen Ausführungen verdeutlichen den mehrdimensionalen Charakter des  Analyseraster:
 Die erste Dimension dreht sich um Fragen der Inklusion und Exklusion.
@@ -277,7 +281,7 @@ Ein zweites Ziel ist, die Jugendlichen durch die Reflexion ihren Handlungsspielr
 Dies schafft die Voraussetzungen für einen selbstbestimmten und emanzipierten Umgang mit erlebter Macht.
 
 Erstens präsentiert sich Macht als ein pluralistisches und kontextabhängiges Konzept. 
-Es gibt nicht nur *eine*, alle Fälle beschriebe Machtform. 
+Es gibt nicht nur *eine*, alle Fälle beschreibende Machtform. 
 Da Macht in Beziehungen angelegt ist, gibt es weder allmächtige noch machtlose Akteur\*innen. 
 Der "Netzwerkblick" hilft damit, monokausale Erklärungen zu entkräften. Die Einflussmöglichkeiten sind zwar asymmetrisch verteilt, durch die sich bietenden Möglichkeiten neuer Vernetzungen aber auch dynamisch. 
 Der Fokus auf Beziehungen betont die soziale Dimension. 
@@ -296,7 +300,7 @@ Für die weitere Entwicklung des hier skizzierten Ansatzes stellt sich die Frage
 Sozialen Medien kommt Bedeutung als ein jugendkultureller Ort zu, den Jugendliche für sich beanspruchen, auch wenn zahlreiche Anwendungen öffentlich oder teilöffentlich sind. 
 Für die Vertiefung des Themas braucht es demzufolge pädagogischen "Takt" sowie eine Beziehungsbasis, die auf Vertrauen gründet. 
 Eine vielversprechende und das kritische Denken nachhaltig fördernde Methode scheint mir dafür das *Philosophierens mit Kindern und Jugendlichen* zu sein [vgl. @conradmathisetal2018].
-Sie besitzt mit Jugendlichen, die in digitalisierten Gesellschaften aufgewachsen sind, ins Gespräch zu kommen und die Reflexion über Machtbeziehungen im Netz weiterzuführen.
+Sie besitzt das Potenzial, mit Jugendlichen, die in digitalisierten Gesellschaften aufgewachsen sind, ins Gespräch zu kommen und die Reflexion über Machtbeziehungen im Netz weiterzuführen.
 
 
 # Literatur {-}
@@ -308,9 +312,9 @@ Ein Beispiel dafür ist etwa Indymedia.
 Diese waren aber nie in der Lage, die persönliche alltägliche Kommunikation so tief zu durchdringen, wie dies die sozialen Meiden vermochten [@poell2015, 543].
 
 [^3]: Ich verwende anstelle des Begriffes *Mündigkeit* jenen der *Autonomie*.
-In meinem Verständnis bezieht sich letztere auf die Fähigkeit des Individuums, das eigene Leben selbstbestimmt zu führen und auf Basis eigener Gründe zu handeln.
+In meinem Verständnis bezieht sich diese auf die Fähigkeit des Individuums, das eigene Leben selbstbestimmt zu führen und auf Basis eigener Gründe zu handeln.
 Wir können&nbsp;-- wenig überraschend&nbsp;-- nicht in jedem einzelnen Fall autonom handeln. 
-Manchmal fehlt uns die Zeit, die Informationen oder die Kapazitäten dafür.
+Manchmal fehlen uns die Zeit, die Informationen oder die Kapazitäten dafür.
 Folglich geht es bei der Autonomie nicht um spezifische Handlungen, sondern um das Leben eines Individuums als Ganzes. 
 Um zu bestimmen, ob das Leben eines Menschen autonom war, müssen wir jedoch die einzelnen Handlungen betrachten. 
 Das wirft die Frage nach der Verbindung zwischen dem Einzelnen und dem Ganzen auf. 
@@ -320,11 +324,11 @@ Autonomie scheint daher ein gradueller Begriff zu sein [für eine ähnliche Sich
 
 [^4]: So hat bereits Max Weber Politik als ein "Streben nach Machtanteil oder nach Beeinflussung der Machtverteilung, sei es zwischen Staaten, sei es innerhalb eines Staates zwischen den Menschengruppen, die er umschliesst" [-@Weber:1919 4] definiert.
 
-[^5]: In der Politischen Bildung wird davon ausgegangen, das Basis- und Fachkonzepte das politische Denken und Handeln strukturieren. 
+[^5]: In der Politischen Bildung wird davon ausgegangen, dass Basis- und Fachkonzepte das politische Denken und Handeln strukturieren. 
 Die Zuordnung von Macht zu den Basiskonzepten&nbsp;-- die "als abstrakte Begriffe für komplexe Vorstellungsräume, die Facetten menschlichen Denkens über Politik bezeichnen" [@sander2013a 99]&nbsp;-- ist nicht unumstritten.
 Verschiedene Autor*innen kategorisieren Macht als ein Fachkonzept, d.&#8239;h. als ein Konzept, das ein Basiskonzept konkretisiert [Macht als Basiskonzept, z.&#8239;B. @sander2013a 100; Macht als Fachkonzept, z.&#8239;B. @weissenodetjenetal2010 Kapitel 5.5]. 
 Für die nachfolgende Diskussion ist diese Unterscheidung aber nicht von Belang.
-Denn in beiden Fällen Macht eine relevante Grösse, um Politik und das Politische zu verstehen.
+Denn in beiden Fällen ist Macht eine relevante Grösse, um Politik und das Politische zu verstehen.
 
 [^6]: Nachrichten (und damit die Medien, die uns mit diesen beliefern) sind nicht nur eine Hauptquelle unseres Wissens über unsere Umwelt.
 Sie sind auch eine Quelle indirekter Informationen über die Wissenswelt unserer Gesellschaft:
@@ -342,8 +346,8 @@ Treffen Bakshy, Messing und Adamics [-@bakshymessingetal2015] Ergebnisse zu, dan
 [^11]: Die Abkürzung GAFA steht im engeren Sinne für die Unternehmen Google, Apple, Facebook und Amazon.
 Im weiteren Sinne&nbsp;-- den ich verwende&nbsp;-- werden darunter alle grossen Internetkonzerne zusammengefasst.
 
-[^12]: Daraus folgt aber nicht, die GAFA seien kein Startpunkt für die Analyse.
-Sowohl die momentanen Diskussionen über Onlinedesinformation und deren Auswirkungen als auch die zentrale Stellung des digitalen Medien- und Kommunikationssystems in unserem Alltag sprechen dafür, Machtbeziehungen online von den Betreiber\*innen sozialer Medien her zu denken.
+[^12]: Daraus folgt aber nicht, die GAFA seien kein geeigneter Startpunkt für die Analyse.
+Sowohl die momentanen Diskussionen über Onlinedesinformation und deren Auswirkungen als auch die zentrale Stellung des digitalen Medien- und Kommunikationssystems in unserem Alltag sprechen dafür, Machtbeziehungen online von den Betreiber\*innen sozialer Medien her zu analysieren.
 
 [^13]: Für die möglichen Auswirkungen des Beschleunigungseffekts und der Personalisierung auf die digitalisierte politische Kommunikation, siehe z.&#8239;B. @poell2015 [530, 543].
 
@@ -355,7 +359,7 @@ Selbst wenn man in der Lage ist, alternative Strukturen aufzubauen, fehlt diesen
 [^16]: Mit dem Begriff *Akteur\*in* sind sowohl Einzelpersonen als auch Organisationen und Institutionen gemeint.
 
 [^17]: Im Bezug auf die globale Netzwerkgesellschaft argumentiert @castells2009 [44], es ergäben sich durch den hohen Grad der Vernetzung vielschichtige und komplexe gegenseitige Abhängigkeiten und Einflussmöglichkeiten. 
-Daher sei es nicht kaum sinnvoll, die Quelle der Macht bei *einer* Entität suchen zu wollen. 
+Daher sei es kaum sinnvoll, die Quelle der Macht bei *einer* Entität zu suchen.
 Ein solches Unterfangen könnte sich gar als "analytische Sackgasse" herausstellen.
 
 [^18]: Im Rahmen der Netzwerkgesellschaft ist es für @castells2009 [46] klar, dass diese *Programmierenden* und *Vermittelnden* in den wenigsten Fällen Einzelpersonen oder spezifische Organisationen sein dürften, da die Grundmechanismen in Bereichen zwischen verschiedenen Akteur\*innen wirken. 
