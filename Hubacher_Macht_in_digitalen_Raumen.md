@@ -1,5 +1,6 @@
 ---
-title: "Macht in digitalen Räumen"
+title:    "Macht im digitalen Raum"
+subtitle: "Politische Bildung im digitalen Zeitalter"
 author:
 	- name: "Manuel S. Hubacher"
 lang: de-CH
