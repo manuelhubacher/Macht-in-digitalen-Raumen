@@ -30,7 +30,7 @@ Daraus eine gleichmässiger verteilte Medienmacht abzulesen, verkennte aber u.&#
 Hinter den genutzten Plattformen stehen private Unternehmen mit eigenen partikularen und ökonomischen Interessen.
 Nutzt man die sozialen Medien, ist man zumindest kurz&#8209; bis mittelfristig darauf angewiesen, dass diese zur Verfügung stehen.
 Und möchte man eine möglichst grosse Reichweite erreichen, braucht man den Zugang zu den grossen Plattformen.
-Diese Abhängigkeiten stärkten die Position jener, welche die sozialen Medien kontrollieren [vgl. @neuberger2018 88].
+Diese Abhängigkeiten stärken die Position jener, welche die sozialen Medien kontrollieren [vgl. @neuberger2018 88].
 Draus folgt:
 Die veränderten Bedingungen, unter denen politische Kommunikation stattfindet, haben nicht primär zu einer Machtnivellierung, sondern vielmehr zu einer multidimensionalen &#8209;verschiebung geführt.
 Ein Resultat davon ist, dass die Identifikation, Analyse und Kritik jener Systeme, die politische Informationen kreieren und verbreiten, anspruchsvoller geworden ist.
@@ -60,12 +60,10 @@ Dies verlangt nach einer multidimensionalen Herangehensweise, die&nbsp;-- verwen
 
 <!-- Bildungsziel Autonomie: §202002131524 -->
 Das Ideal der "Mündigkeit" oder "Autonomie"[^3] ist ein zentrales Bildungsziel und die Forderung dies zu erreichen ist gemäss Theodor W. @adorno2003b [133] eine Selbstverständlichkeit.
-Eine Bildung, die das Ideal der Autonomie befördert, verlangt danach, den Schüler\*innen die Orientierung in der Welt zu ermöglichen.
+Politische Bildung, die das Ideal der Autonomie befördert, verlangt danach, den Schüler\*innen die Orientierung in der Gesellschaft zu ermöglichen.
 Man muss aber auch darüber hinaus gehen und nicht nur "well adjusted people" produzieren [vgl. @adorno2003 109].
 Autonomiefördernde Bildung bildet auch zum Widerstand und zum Widerspruch [@adorno2003b 145].
-Was für Bildung im Allgemeinen zutrifft, gilt auch für die Politische Bildung im Speziellen.
-Der Politikunterricht soll dazu beitragen, den Schüler\*innen die Orientierung in der Gesellschaft zu ermöglichen.
-Neben dieser Integrationsfunktion sollen die Lernenden auch ihre Gestaltungsmöglichkeiten erkennen, damit sie sich vom Status quo emanzipieren und selbstbestimmt handeln können [vgl. @gpje2004].
+Neben der Integrationsfunktion sollen die Lernenden auch ihre Gestaltungsmöglichkeiten erkennen, damit sie sich vom Status quo emanzipieren und selbstbestimmt handeln können. [vgl. @gpje2004]
 
 <!-- Das Konzept Macht -->
 <!-- Beschäftigung mit Machtstrukturen: Notwendig fürs Bildungsziel (§202002281557) -->
@@ -155,7 +153,7 @@ Viertens müssen sie sich mit Medieninhalten, die ihnen im Alltag begegnen, krit
 Die Machtstrukturen in digitalen Räumen zu kennen und zu analysieren ist ein Puzzleteilchen, um die umrissenen Kompetenzen zu erlernen.
 Wir benötigen den systemischen Blick auf den digitalen Raum, weil dieser nicht ausschliesslich durch unsere partizipativen, kollaborativen oder expressiven Handlungen geformt wird.
 Als sozialer Raum beeinflusst er unsere Handlungsmöglichkeiten ebenso.
-Ohne diese Wechselwirkung zu verstehen, sind wir nicht in der Lage, Medieninhalte kritisch zu hinterfragen und zu kontextualisieren, unsere Sicht der Dinge mitzuteilen und neue Wege der Kommunikation zu finden oder fundierte, auf wahren Informationen fussenden Meinungen zu bilden. 
+Ohne diese Wechselwirkung zu verstehen, sind wir nicht in der Lage, Medieninhalte kritisch zu hinterfragen und zu kontextualisieren, unsere Sicht der Dinge mitzuteilen und neue Wege der Kommunikation zu finden oder fundierte, auf wahren Informationen fussende Meinungen zu bilden. 
 Verstehen wir ferner das Medien- und Kommunikationssystem nicht, können wir uns lediglich rudimentär in der Gesellschaft orientieren.
 Ohne dies ist aber eine Emanzipation schwer zu erreichen.
 Daher bietet die Beschäftigung mit Machtstrukturen im digitalen Raum eine Möglichkeit, die Kompetenzen medienkundiger, kritischer und autonomer Bürger\*innen zu erlernen und zu vertiefen. 
@@ -197,7 +195,7 @@ Für Castells ist Macht damit verbunden, Kommunikations- und Informationsflüsse
 Castells' unterscheidet vier Machtformen, die jeweils auf einer anderen Logik gründen.
 <!-- Networking-Macht §202002161338 -->
 Der erste Typ ist die *Networking-Macht*. 
-Diese funktioniert über der Logik der Inklusion/Exklusion.
+Diese funktioniert über die Logik der Inklusion/Exklusion.
 D.h. soziale Akteur\*innen,[^16] die Teil eines Netzwerkes sind, können Macht erlangen, indem sie den Zugang zu ihrem Netzwerk regulieren und entscheiden, wer Teil davon werden kann. 
 In diesem Sinne handelt es sich um Macht durch Gatekeeping [@castells2009 42--43].
 
@@ -254,7 +252,7 @@ Dies stärkt die Position der GAFA gegenüber den Verlagen und verleiht ihnen ve
 
 Die politische Deliberation über das Internet verdeutlicht die Kommunikationsmacht, welche die GAFA besitzen. 
 Ihre Plattformen stellen einen öffentlichen Diskussionsraum dar, der sich aber in privater Hand befindet und entlang ökonomischer Ziele konstruiert wurde [vgl. @ash2016].
-Durch diese Stellung können die GAFA als Programmiererende sowohl neue Netzwerke bilden, als auch die Ziele bestehender verändern. 
+Durch diese Stellung können die GAFA als Programmierende sowohl neue Netzwerke bilden, als auch die Ziele bestehender verändern. 
 Mit ihren Dienstleistungen schaffen sie auch Schnittstellen zwischen verschiedenen Netzwerken, was die GAFA als potenzielle Vermittelnde auszeichnet.
 
 Auf den ersten Blick könnte diese kurze Aufzählung zur Schlussfolgerung verleiten, man habe mit den GAFA das Machtzentrum vernetzter Gesellschaften identifiziert.
@@ -289,7 +287,7 @@ Ein induktives Vorgehen ist unter diesen Voraussetzungen angebrachter.
 Schüler\*innen sollen von ihren Vorstellungen ausgehend einen elaborierten Blick auf Macht und ihre vielfältigen Manifestationen erarbeiten sowie ihre Handlungsmöglichkeiten ausloten. 
 Ein erstes Ziel ist ein kohärentes und differenziertes Wissensnetzwerk, das Macht mit weiteren politischen Konzepten verbindet. 
 Dieses bietet eine interpretative Orientierungshilfe, um das Politische selbstständig systematisch zu erfassen und zu verstehen. 
-Ein zweites Ziel ist, die Jugendlichen durch die Reflexion ihren Handlungsspielraum ausloten zu lassen. 
+Ein zweites Ziel ist, die Jugendlichen durch Reflexion ihren Handlungsspielraum ausloten zu lassen. 
 Dies schafft die Voraussetzungen für einen selbstbestimmten und emanzipierten Umgang mit erlebter Macht.
 
 Erstens präsentiert sich Macht als ein pluralistisches und kontextabhängiges Konzept. 
