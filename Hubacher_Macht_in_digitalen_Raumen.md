@@ -22,7 +22,7 @@ Wie in der jüngsten Vergangenheit soziale Bewegungen wie Occupy, MeToo sowie di
 Der Weg über die klassischen Massenmedien (Zeitungen, TV, Radio) ist nicht mehr notwendig.
 In der "digitalisierten"&nbsp;-- d.&#8239;h. in einer von digitalen Kommunikationssystemen durchdrungenen&nbsp;-- Öffentlichkeit sind nicht mehr die klassischen Medien und die Politiker\*innen die Hauptproduzent\*innen politischer Information.
 Sie teilen sich diese Rolle mit anderen sozialen Akteur\*innen [@castells2007 257; @neuberger2018 86].
-In der Folge haben die klassischen Medien auch ihre Rolle als Gatekeeper (teilweise) eingebüsst [vgl. @carr2012].
+In der Folge haben die klassischen Medien auch ihre Rolle als Gatekeeper (teilweise) eingebüsst [vgl. @castells2007].
 
 <!-- Keine demokratisierte Medienmacht! (§202002201132) -->
 Soziale Medien erlauben demnach die Kontrolle, die politische Eliten über die Setzung politischer Themen besassen, einfacher herauszufordern.[^2]
@@ -95,7 +95,7 @@ Nun hat die *digitale Transformation der Öffentlichkeit* unser Mediensystem gru
 Bisher kam den klassischen Massenmedien die Rolle des Gatekeepers zu, der bestimmt, welche Informationen ins Mediensystem einfliessen und welche nicht.
 Die Zahl der Produzent\*innen (politischer) Information hat sich durch das Internet und insbesondere durch die sozialen Medien vergrössert.
 Neu müssen sich die klassischen Massenmedien und Politiker\*innen diese Rolle mit weiteren Akteur\*innen teilen [@castells2007 257; @neuberger2018 86].
-In der Folge haben die klassischen Medien auch ihre Rolle als Gatekeeper (teilweise) eingebüsst [vgl. @carr2012].
+In der Folge haben die klassischen Medien auch ihre Rolle als Gatekeeper (teilweise) eingebüsst [vgl. @castells2007].
 
 <!-- Medienmacht in digitalen Räumen: §202002201132 -->
 Eine Demokratisierung aus dieser Entwicklung abzulesen wäre aber vorschnell. Das Internet und soziale Medien erlauben zwar die Kontrolle, die politische Eliten über die Setzung politischer Themen besassen, einfacher herauszufordern und breite Bevölkerungsschichten mit eigenen Anliegen vertraut zu machen.
