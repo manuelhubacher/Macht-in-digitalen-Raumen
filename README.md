@@ -1,0 +1,4 @@
+# Macht im digitalen Raum: Politische Bildung im digitalen Zeitalter
+
+
+Unser aller Alltag ist inzwischen stark von den Dienstleistungen und Plattformen der Technologiekonzerne durchdrungen. In der politischen Kommunikation sind Twitter, Facebook, Instagram und Konsorten nicht mehr wegzudenken. Die veränderten Bedingungen, unter denen politische Kommunikation stattfindet, haben nicht zu einer Machtnivellierung, sondern vielmehr zu einer  verschiebung geführt. Politische Kommunikation ist für uns unentbehrlich, um unsere politischen Meinungen zu bilden, unsere Positionen zu artikulieren und politische Fragen zu diskutieren. Daraus ergeben sich zwei zentrale Fragen für die Politische Bildung: Welche Fähigkeiten benötigen autonome und medienkundige Bürger*innen? Und wie erlernen wir diese Fähigkeiten? Dieser Beitrag skizziert unter Rückgriff auf Manuel Castells’ Überlegungen zu Macht in der Netzwerkgesellschaft eine mögliche Antwort darauf.
