@@ -112,10 +112,10 @@ Die Tatsache, dass digitale Medien unseren Alltag fast vollständig durchdrungen
 ## Welche Fähigkeiten benötigt man dazu?
 
 Aus bildungstheoretischer Sicht stellt sich an dieser Stelle die Frage, welche Fähigkeiten ein\*e machtkritische\*r Bürger\*in benötigt.
-Orientieren wir uns am Bildungsziel der Autonomie und den sich daraus ergebenden Dimensionen (vgl.
-Abschn. 2.1), können wir zwei grundsätzliche Fähigkeiten ableiten: Analyse und Kritik des Status quo.
+Orientieren wir uns am Bildungsziel der Autonomie und den sich daraus ergebenden Dimensionen (vgl. Abschn. 2.1), können wir zwei grundsätzliche Fähigkeiten ableiten: Analyse und Kritik des Status quo.
 Erstere ergibt sich aus der Integrationsfunktion.
-Damit man sich in die bestehende Gesellschaft integrieren kann, muss man den Status quo verstehen.[^15] Dafür benötigt man analytische Fähigkeiten, was im Grunde Folgendes bedeutet: Man muss unter anderem mit Argumenten umgehen, Rechtfertigungen und Gründe gegeneinander abwägen und bestehende Strukturen erkennen können.
+Damit man sich in die bestehende Gesellschaft integrieren kann, muss man den Status quo verstehen.[^15] 
+Dafür benötigt man analytische Fähigkeiten, was im Grunde Folgendes bedeutet: Man muss unter anderem mit Argumenten umgehen, Rechtfertigungen und Gründe gegeneinander abwägen und bestehende Strukturen erkennen können.
 Die genannten Fähigkeit korrespondieren zur Urteils- und Methodenkompetenz etablierter Kompetenzmodelle [@gpje2004; @kramer2008; @kuhberger2008].[^16] 
 Die Kritikfähigkeit baut gewissermaßen auf die Analyse auf und ergibt sich aus der Emanzipationsfunktion.[^17] 
 Um sich emanzipieren zu können, muss man zunächst wissen und artikulieren, was man am Status quo als schlecht, nicht optimal usw.
@@ -258,7 +258,8 @@ Aus analytischer Sicht ist dies aber zu relativieren.
 Denn es gibt Initiativen und Bestrebungen, die den Interessen und Werten der GAFA entgegentreten.
 Daraus folgt, drittens, dass Veränderungen möglich und denkbar sind.
 Der erste und zweite Punkt legen darüber hinaus nahe, dass mit dem skizzierten Analyseraster nicht nur die GAFA im Zentrum stehen können.
-Wäre dies der Fall, verkennte man die Überlegungen hinter dieser Machtkonzeption.[^26] Die obigen Ausführungen verdeutlichen damit nicht nur den mehrdimensionalen Charakter des Analyserasters.
+Wäre dies der Fall, verkennte man die Überlegungen hinter dieser Machtkonzeption.[^26] 
+Die obigen Ausführungen verdeutlichen damit nicht nur den mehrdimensionalen Charakter des Analyserasters.
 Sie zeigen ebenfalls dessen Gespür für die Interdependenzen digitaler Räume.
 
 # Eine Politische Bildung fürs digitale Zeitalter
