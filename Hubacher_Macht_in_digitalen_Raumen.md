@@ -125,7 +125,7 @@ Damit zeigen sich hier ebenfalls starke Bezüge zur Urteils- und Methodenkompete
 
 Können wir dies noch weiter für die digitalen Räume konkretisieren? Wie ich argumentiert habe, sind Medien eine wichtige Quelle politischer Informationen.
 Sie sind auch eine der Hauptorte, an und in denen Politik stattfindet.
-Wir leben in einer *Mediengesellschaft* [jarren2001 11].
+Wir leben in einer *Mediengesellschaft* [@jarren2001 11].
 Demnach benötigen wir nicht "nur" kritische, sondern auch medienkundige Bürger\*innen.
 <!-- medienkundige Bürger\*innen §202002131533 -->
 @mihailidisthevenin2013 [1614] beschreiben diese erstens als *kritische Denker\*innen,* die Medieninhalte analysieren und kontextualisieren.
